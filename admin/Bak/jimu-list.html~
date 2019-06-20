@@ -1,0 +1,14 @@
+<HTML>
+<HEADER>
+<TITLE>ICSE98 administrative staff maillists members</TITLE>
+</HEADER>
+
+<BODY>
+<H1>ICSE98 国内ML登録者一覧</H1>
+<hr>
+<PRE>
+<!--#include file="icse20.rec"-->
+</PRE>
+<HR>
+</BODY>
+</HTML>

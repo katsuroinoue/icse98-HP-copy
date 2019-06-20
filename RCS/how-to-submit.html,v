@@ -1,0 +1,54 @@
+head	1.2;
+access;
+symbols;
+locks
+	iida:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	97.04.28.16.25.13;	author iida;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	97.04.28.16.13.39;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@<HTML>
+<HEAD>
+<TITLE>ICSE98: How To submit</TITLE>
+
+</HEAD>
+<BODY>
+<HR>
+
+<CDENTER>
+Sorry, this page is under construction. Please refer to the newest
+<A HREF="./icse98-cfp-v5/">Call For Paper</A>.
+<HR>
+</BODY>
+</HTML>
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d10 1
+a10 1
+Sorry, this page is under construction. Please refer to uer newest
+@

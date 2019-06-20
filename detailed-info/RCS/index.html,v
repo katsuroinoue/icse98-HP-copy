@@ -1,0 +1,35 @@
+head	1.1;
+access;
+symbols;
+locks
+	iida:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	97.05.09.03.58.52;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<html>
+<head>
+<title>Index of ICSE98 Detailed Information</title>
+</head>
+
+<frameset cols="20%,80%">
+  <frame src="tableOfContents.html" name="TOC" ><!--scrolling="no"-->
+  <frame src="default.html" name="content">
+</frameset>
+
+</html>
+@

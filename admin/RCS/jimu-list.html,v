@@ -1,0 +1,40 @@
+head	1.1;
+access;
+symbols;
+locks
+	iida:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	97.04.28.15.02.21;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<HTML>
+<HEADER>
+<TITLE>ICSE98 administrative staff maillists members</TITLE>
+</HEADER>
+
+<BODY>
+<H1>ICSE98 国内事務局ML登録者一覧</H1>
+<A HREF="./jimu.html">事務局 ML Pageに戻る</A>
+<A HREF="./index.html">事務局HomePageに戻る</A>
+<hr>
+<PRE>
+<!--#include file="icse20-ad.rec"-->
+</PRE>
+<HR>
+</BODY>
+</HTML>
+@

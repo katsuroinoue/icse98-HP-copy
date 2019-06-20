@@ -1,0 +1,100 @@
+head	1.1;
+access;
+symbols;
+locks
+	iida:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	97.05.09.03.58.52;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<HTML>
+<HEAD>
+<TITLE>The annual International Conference on Software Engineering (ICSE) is the leading forum for the exchange of ideas on all aspects of software engineering
+</TITLE>
+
+</HEAD>
+<BODY bgcolor=white text=black>
+
+<A NAME="poster"></A><CENTER><FONT SIZE=5 FACE="Optimum">POSTERS </FONT><FONT SIZE=4 FACE="Optimum">AND</FONT><FONT SIZE=5 FACE="Optimum">
+RESEARCH DEMONSTRATIONS</FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">AIM</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Posters and Research Demonstrations
+provide an excellent opportunity to show late-breaking results
+and to discuss the results with the conference participants. Interactive
+communication and demonstration will be the most exciting and
+powerful presentation.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SCOPE</FONT></B>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">Posters <BR>
+</FONT><FONT SIZE=2>All types of work in software engineering
+can be presented effectively using posters during the conference.
+Display space will be provided in the poster and research demonstration
+room. A description of each poster will appear in the proceedings
+for posters and research demonstrations.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Research Demonstrations
+<BR>
+</FONT><FONT SIZE=2>Research demonstrations are intended to show
+early implementation of novel software engineering concepts. Research
+demonstrations will be scheduled into blocks of time for demonstration.
+In addition, a booth will be provided in the poster and research
+demonstration room to allow informal demonstrations throughout
+the conference. A description of each research demonstration will
+appear in the proceedings for research demonstrations. We consider
+any system which is at least six months away from appearing in
+a commercial product as a &quot;research system&quot;. Commercial
+systems will not be accepted as research demonstrations.</FONT>
+</UL>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">REVIEW PROCESS </FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Submissions will be reviewed
+by the committee using the standard ICSE criteria : originality,
+importance and generality of contribution, soundness of rationale
+or demonstration, quality of written and graphic presentation
+and appropriate citation of relevant literature. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">COMPUTING AND PROJECTION
+EQUIPMENT </FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The conference will not provide
+any electronic equipment such as CPUs, disk drives, displays or
+videotapes for demonstration or presentation. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">HOW TO SUBMIT</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Authors should prepare a four
+page description of their poster and research demonstration proposal
+for review. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SEND TO </FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Yoshiaki Fukazawa <BR>
+Waseda University <BR>
+3-4-1, Ohkubo, Shinjuku-ku, <BR>
+Tokyo 169 JAPAN<BR>
+E-MAIL : fukazawa@@fuka.info.waseda.ac.jp<BR>
+</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">DEADLINE </FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Proposals: 1 January 1998
+(Contact the chair for late submission) </FONT>
+</body>
+</html>@

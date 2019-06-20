@@ -1,0 +1,137 @@
+head	1.1;
+access;
+symbols;
+locks
+	iida:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	97.05.09.03.58.52;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<HTML>
+<HEAD>
+<TITLE>The annual International Conference on Software Engineering (ICSE) is the leading forum for the exchange of ideas on all aspects of software engineering
+</TITLE>
+
+</HEAD>
+<BODY bgcolor=white text=black>
+
+
+<A NAME="paper"></A><CENTER><FONT SIZE=5 FACE="Optimum">TECHNICAL PAPERS</FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">AIM</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Papers describe innovative
+and significant work in the research and practice of Software
+Engineering. Papers are collected in an archival, refereed conference
+proceedings, published by IEEE/ACM, which is cited and read by
+researchers and practitioners world-wide. Accepted papers are
+presented at the ICSE conference, attended by hundreds of people.
+Having a paper on the technical program gives authors an opportunity
+to have a tremendous impact on the study and application of Software
+Engineering principles, theory, and techniques.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SCOPE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The Software Engineering community
+consists of researchers and professionals from many different
+disciplines and intellectual traditions. The paper review process
+tries to rigorously review all submissions in a manner that takes
+into account the different criteria from different parts of the
+community. For reviewers to do this effectively, they need an
+accurate assessment of the type of each paper they read; that
+is, research contributions or experience papers. Please select
+the type of paper that best describes your submission and write
+it in the appropriate place on the Cover Page (see the home page).
+If you feel that your submission does not fit any of these types,
+please contact either program co-chair for help in best classifying
+your submission.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">REVIEW PROCESS</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Each submitted paper will
+be reviewed by a group of at least three members of the program
+committee. Reviewer assignment will be done by matching the topic
+and focus of the paper with committee member expertise. The committee
+members will develop a summary review and recommendation for acceptance
+or rejection. Final decisions will be made at a program committee
+meeting, where the committee as a whole will review the recommendations
+and rationale made by committee members.</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Note that in addition to considering
+the criteria outlined for each type of paper (see the ICSE98 Home
+Page), all papers will be evaluated for overall quality of presentation:
+the problem and its context must be clearly described, including
+relation to prior work. It must also be clear from the presentation
+that a succinct, high quality verbal presentation at the conference
+will be possible.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">HOW TO SUBMIT</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">If you decide to submit, you
+should look into the ICSE98 Home Page to get the necessary information
+for the submission! In particular, note that the deadline for
+requesting ICSE98 mentoring is 10 weeks before the deadline of
+the paper submission. </FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The following lists the steps
+you should follow for submitting a paper.</FONT>
+<OL>
+<LI><FONT SIZE=2 FACE="Times New Roman">Electronic Submission
+of Title and Abstract (Required): <BR>
+</FONT><FONT SIZE=2>In addition to their appearance in the full,
+printed paper, the title and abstract of every submission must
+also be transmitted by email to icse-98-papers@@cs.ucsb.edu by
+the deadline for abstracts shown above. The abstract must be plain
+text only (ASCII) - no markup languages, no binhex, no binary
+files.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Submission of Full Papers:
+<BR>
+</FONT><FONT SIZE=2>Submitted papers must conform to the standard
+Conference Proceedings format (See http://icse98.aist-nara.ac.jp/how-to-submit.html).
+Papers may be no longer than 10 pages in the Conference Proceedings
+format, including references, appendices and figures. The full
+papers may not be submitted electronically; six paper copies are
+required.</FONT>
+</OL>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">UPON ACCEPTANCE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Authors will be notified of
+acceptance or rejection by the end of November 1997. Accepted
+papers will be published in the ICSE 98 Conference Proceedings.
+The primary author of each accepted paper will receive an Author
+Kit with detailed instructions on how to submit the camera-ready
+copy. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SEND TO</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Richard A. Kemmerer<BR>
+ICSE 98 Program Co-Chair<BR>
+Computer Science Department<BR>
+University of California, Santa Barbara<BR>
+Santa Barbara, CA 93106<BR>
+USA<BR>
+E-mail: icse-98-papers@@cs.ucsb.edu</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">DEADLINE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Abstract in electronic format
+(ASCII email): 20 August 1997<BR>
+Full paper due (6 copies, hard copy only): 3 September 1997</FONT>
+<P>
+</body>
+</html>@

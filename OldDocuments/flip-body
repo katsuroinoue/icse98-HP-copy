@@ -1,0 +1,39 @@
+#!/bin/sh
+MOD=3
+NOW=`/bin/date +"%S"`
+SEL=`/bin/expr $NOW % $MOD`
+case $SEL in
+  '0'){
+	GIF="./image/logo/icse-logo-blue.gif";
+        TEXT=#DDBBFF;
+        LINK=#FF0000;
+        VLINK=#FF33BB;
+        ALINK=#FF8800;
+	;
+};;
+  '1'){
+	GIF="./image/logo/icse-logo-lightgreen.gif";
+	TEXT="#000050";
+	LINK="#FF0000";
+	VLINK="#FF5555";
+	ALINK="#FF00FF";
+	;
+};;
+  '2'){
+	GIF="./image/logo/icse-logo-c.gif";
+	TEXT="#000000";
+	LINK="#FF0000";
+	VLINK="#550055";
+	ALINK="#FF00FF";
+	;
+};;
+esac
+echo "<BODY
+	BACKGROUND=\"$GIF\"
+	BGPROPERTIES=FIXED
+	TEXT=$TEXT
+	LINK=$LINK
+	VLINK=$VLINK
+	ALINK=$ALINK
+>"
+

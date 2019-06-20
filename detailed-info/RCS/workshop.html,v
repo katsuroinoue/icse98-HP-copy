@@ -1,0 +1,88 @@
+head	1.1;
+access;
+symbols;
+locks
+	iida:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	97.05.09.03.58.52;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<HTML>
+<HEAD>
+<TITLE>The annual International Conference on Software Engineering (ICSE) is the leading forum for the exchange of ideas on all aspects of software engineering
+</TITLE>
+
+</HEAD>
+<BODY bgcolor=white text=black>
+
+<A NAME="workshop"></A><CENTER><FONT SIZE=5 FACE="Optimum">WORKSHOPS</FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">AIM</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Workshops provide a forum
+for a group of participants to exchange opinions on topics in
+either research or applications. Workshops are held either before
+or after the conference and may be one, one and a half or two
+days in length. Workshops are not alternative forums for full
+papers which otherwise could be submitted to ICSE. Participation
+in workshops is typically dependent on submission of position
+statements.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">REVIEW PROCESS</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Workshop proposals will be
+reviewed by a committee representing a cross-section of software
+engineering researchers and professionals. Acceptance will be
+based on an evaluation of the workshop's potential for generating
+useful results, the timeliness and expected interest level in
+the topic, and organizer's ability to lead a successful workshop.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">HOW TO SUBMIT</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Prepare a three-page proposal
+for the workshop review committee. Workshop proposal should contain:</FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">an outline of the theme
+and goals of the workshop and its relevance to the field;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">a description of the desired
+number of participants, the participant solicitation and selection
+process, pre-workshop activities, and planned workshop activities
+including length of time and required rooms;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">a brief description of
+each organizer's background, including relevant past experience
+with workshops, and whether the organizers have organized ICSE
+workshops before.</FONT>
+</UL>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SEND TO</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Mikio Aoyama<BR>
+Global Development Division<BR>
+Fujitsu Limited<BR>
+2-12-5 Shimo-kodanaka, Nakahara-ku<BR>
+Kawasaki 211, Japan<BR>
+TEL: +81-44-754-4139<BR>
+FAX: +81-44-754-4140<BR>
+E-MAIL: mikio@@csd.ts.fujitsu.co.jp</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">DEADLINE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Proposal: 1 July 1997 (7 copies,
+hard copy only)</FONT>
+</body>
+</html>
+@

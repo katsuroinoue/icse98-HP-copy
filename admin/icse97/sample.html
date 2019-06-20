@@ -1,0 +1,129 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<!-- $Id: sample.html,v 1.2 1996/12/03 23:52:05 fielding Exp $ -->
+<HEAD>
+<TITLE>Sample Submission for  Lessons and Status Reports</TITLE>
+<LINK rev="Made" href="mailto:icse-97-webmaster@ics.uci.edu">
+<META http-equiv="Reply-To" content="icse-97-webmaster@ics.uci.edu">
+</HEAD><BODY>
+
+<h1>Applying Design Pattern Ideas in the Transition of a Development 
+Organization</h1>
+
+<H2>ABSTRACT</H2>
+This organization overview describes a project to re-engineer a 
+company's information systems from mainframe, COBOL systems 
+to systems written in Smalltalk. We describe how design pattern 
+ideas were used to facilitate the team's adoption of OO ideas, and 
+their development of the applications. We list some observations 
+on this approach.
+
+<H2>Context</H2>
+A large, offshore company was under strong competitive and 
+customer pressure to make its information systems more flexible 
+and responsive to changing business needs. The current systems 
+were mainframe-based, written in COBOL. The IS organization 
+had a fairly rigid, hierarchical organization, low morale, very 
+high turnover (greater than 100% per year), a poor record on 
+delivery of new applications, and little respect from the business 
+divisions of the company.
+
+<H2>Focus</H2>
+The company decided to launch a project to re-build its entire IS 
+systems. The project was to be based in the US, using some of the 
+existing developers augmented by new, experienced personnel. 
+The project leader decide to implement the new systems in 
+Smalltalk.
+
+In addition to learning the syntactic and semantic aspects of the 
+language, the team faced the problem of developing practices and 
+models to form a culture of use of the language.
+
+<H2>Approach</H2>
+The project team started at X people, and grew to 40 people. The 
+development team was trained in the language. At this point team 
+members were able to write small programs, but were not able to 
+address large applications. This, together with the team's 
+background in the IS organization, resulted in a lack of 
+confidence in their ability to achieve the re-implementation which 
+was the goal of the project.
+<P>
+The project manager initiated a series of workshops to maintain 
+and continue the team's training. An early (three day) workshop 
+in this series tackled the entire development of an application, 
+from beginning to end. This workshop proved to be a turning 
+point for the team. Their previous context of a hierarchical 
+organization meant that they had no clear picture of the complete 
+development process, and they were not responsible for the results 
+of the entire process. The workshop showed them all of the steps, 
+and showed them a development process which made them 
+responsible for their work. The team's confidence level increased 
+dramatically.
+<P>
+The increase in confidence did not resolve one of the major issues 
+facing the team, that of tackling the design of the systems they 
+were to implement.
+
+<H2>Design Patterns</H2>
+There has been a recent spate of interest in architectural patterns 
+for software systems. In the context of object-oriented design of 
+systems, these architectural models are expressed as object classes 
+and relationships that address common design problems. A recent 
+book by Gamma et al [1] presents more than twenty such patterns 
+for common design problems.
+<P>
+The project leader decided to use design patterns as a way of 
+extending the team's training beyond the Smalltalk language into 
+the design of the applications. A catalog of patterns was prepared 
+(and refined during the project). The patterns were taught to the 
+team who began to use them.
+<P>
+Several effects were observed. The first is that the design pattern 
+catalog became a daily tool used by developers. A cheat sheet of 
+the catalog appeared on the walls of the developers cubicles and 
+was referenced regularly.
+<P>
+Secondly, the patterns created a common vocabulary in the 
+development team. Developers described their applications in 
+terms of the design patterns they had used to construct them. 
+Listeners were able to understand the application structure very 
+quickly since they were familiar with the design patterns from 
+which it was constructed. There was much less time wasted in the 
+fruitless discussion to understand trivially different custom design 
+solutions.
+<P>
+Thirdly, most developers embraced the use of design patterns with 
+enthusiasm. The project leader adopted a policy of requiring the 
+use of existing design patterns when suitable, and this policy was 
+enforced as part of the review process. There was little resistance 
+to this policy of using existing, approved design patterns. Some 
+people did resist, wanting to develop their own design structures 
+for problems for which there was already a design pattern. These 
+people either adapted to conforming to the policy, or left the team.
+
+<H2>Mentoring</H2>
+The project was assisted in the process described above by a 
+consultant experienced in both Smalltalk and the use of design 
+patterns. The consultant mentored the team in its learning of the 
+language, and the application of design patterns. The availability 
+of the mentor was a critical success factor for the project.
+<P>
+The initial team of Smalltalk neophytes was supplemented by 
+more experienced Smalltalk developers. These also accelerated the 
+learning process for the team.
+
+<H2>Current State</H2>
+The project was planned for three years, with incremental 
+deliveries during that time. The project is still in progress. 
+
+<H2>Lessons</H2>
+Design patterns provide a bridge that allows developers to go 
+beyond knowledge of a language to the construction of significant 
+applications.
+
+<H2>References</H2>
+<DL COMPACT>
+<DT> [1]  
+<DD> <i>Design Patterns: Elements of Reusable Object-Oriented Software</i>, 
+     Addison-Wesley, 1995.  Gamma, E., Helm, R., Johnson R., Vlissides J.
+</DL>

@@ -1,0 +1,170 @@
+                ***********************************
+		ICSE98 CONFERENCE REGISTRATION FORM
+                ***********************************
+We recommend using our web page for filling and printing this
+registration form. URL is http://icse98.aist-nara.ac.jp/registration/
+
+Early Registration .... Received before or on March 16, 1998 JST
+Late Registration ..... Received after March 16, 1998 JST
+
+A) Technical Program
+    Member	       Nonmember	       Student		 Fee Paid
+Early  Late/On-site  Early  Late/On-site   Early   Late/On-site
+40,000yen 52,000yen  52,000yen 65,000yen   20,000yen 25,000yen ______________
+* The registration fee for the technical program includes ONE copy
+ of the proceedings and tickets to social events (excluding banquets). 
+* Students must send a proof of eligibility with your registration form.
+
+B) Tutorials
+		Full Day Tutorials
+   Member                Nonmember                              Fee Paid
+Early    Late/On-site  Early   Late/On-site
+40,000yen 50,000yen   50,000yen 60,000 yen
+
+Monday, April 20, 1998
+__ TF01: The Experience Factory: How to Build and Run One       ______________
+Tuesday, April 21, 1998
+__ TF02: Design by Contract                                     ______________
+
+		Half Day Tutorials
+   Member                Nonmember                              Fee Paid
+Early  Late/On-site   Early  Late/On-site
+20,000yen 25,000yen   25,000yen 30,000 yen
+
+AM Monday, April 20, 1998
+__ TH01: Software Patterns, or
+__ TH02: Software Testing and Analysis for Practitioners, or
+__ TH03: The Objectory Process, or
+__ TH04: Cleanroom's Place in Today's Software development World ______________
+
+PM Monday, April 20, 1998
+__ TH05: Using Design Patterns to Construct Frameworks, or
+__ TH06: Introducing the Unified Modeling Language (UML), or
+__ TH07: C++ for Software Engineering: 
+         Standard Solutions for Standard Problems, or
+__ TH08: What Every Software Engineer Should Know about Hypermedia
+         for Designing World Wide Web Applications              ______________
+
+AM Tuesday, April 21, 1998
+__ TH09: Requirements Analysis for Evolving Systems, or
+__ TH10: An Introduction to OMG/CORBA, or
+__ TH11: COTS Product and Technology Evaluation: 
+         Concepts and Pragmatics                                ______________
+
+PM Tuesday, April 21, 1998
+__ TH12: Java (title tentative), or
+__ TH13: Distributed Software Architectures, or
+__ TH14:Software Surgery                                        ______________
+
+C) Workshops 
+  Some workshops are limited only to invited atendance. Please check the
+  web site before registration.
+
+   WS01: IWSSD-9 (9th Int'l Workshop on Software Specification and Design)
+   (Invited Only) Separately registered. 
+   Check  http://salab-www/cs.titech.ac.jp/iwssd9.html
+   WS02: ISORC98 (Int'l Symposium on Object-oriented Real-time distributed
+   Computing) Separately registered. Check http://dream.eng.uci.edu/isorc/
+__ WS03: PDSE'98 (Software Engineering on Parallel and Distributed systems)
+   Early: 15,000yen  Late: 18,000yen  Student: 12,000yen        ______________
+__ WS04: Int'l Workshop on the Principles of Software Evolution
+   Early: 15,000yen  Late: 18,000yen  Student: 12,000yen        ______________
+__ WS05: Int'l Workshop on Component-Based Software Engineering
+   Early: 15,000yen  Late: 18,000yen  Student: 12,000yen        ______________
+__ WS06: Aspect-Oriented Programming Workshop
+   Early: 10,000yen  Late: 12,000yen  Student:   8,000yen       ______________
+__ WS07: Workshop on Software Engineering over the Internet
+   Early: 10,000yen  Late: 12,000yen  Student:   8,000yen       ______________
+__ WS08: Engineering Hypertext for Future Information Systems
+   Early: 10,000yen  Late: 12,000yen  Student:   8,000yen       ______________
+__ WS09: Workshop on Precise Semantics for Software Modeling Techniques
+   Early: 10,000yen  Late: 12,000yen  Student:   8,000yen       ______________
+__ WS10: Workshop on Human Dimensions in Successful Software Development
+   Early: 10,000yen  Late: 12,000yen  Student:   8,000yen       ______________
+__ WS11: IWSEE5 (Int'l Workshop on Software Engineering Education)
+   Early: 10,000yen  Late: 12,000yen  Student:   8,000yen       ______________
+__ WS12: Int'l Workshop on Multimedia Software Engineering
+   Early: 15,000yen Late: 18,000yen Student: 12,000yen          ______________
+__ WS13: Int'l Workshop on Computing and Communication in the Presence
+    of Mobility
+   Early: 10,000yen  Late: 12,000yen  Student:   8,000yen       ______________
+
+D) Banquet
+____ Will attend (5,000 yen)
+____ Will attend with my spouse (8,000 yen)
+If you select "Will attend with my spouse", please type your spouse's 
+Title & Name. This will be printed on your spouse's name card at the Banquet.
+Title & Name:   _______________________________________________________
+
+
+PLEASE PRINT/TYPE CLEARLY
+Title (check one):  Prof.__ Dr.__  Mr.__  Mrs.__ Ms. __
+
+First Name (Given Name)	  ______________________
+
+Middle Initial		  ______________________
+
+Last Name (Family/Surname)______________________
+
+Company / Organization	  _______________________________________________
+
+Abbreviation		  ______________________
+(The information above will be printed on your name card at the conference.)
+
+Mailing  Address	_________________________________________________
+
+_________________________________________________________________________
+
+_________________________________________________________________________
+
+City_________________ State_______________ Postal Code_____________ 
+
+Country_________________
+
+Phone _____________________
+
+Fax   _____________________
+
+E-mail _____________________
+
+Society Membership:
+__ IPSJ __ JSSST __ IEEE __ ACM
+Membership Number of Above Society  ________________________
+
+Indicate Payment Method:
+We cannot accept checks or money orders. 
+
+__ Wire Transfer (Please pay any transfer fee involved.) 
+	Account Name: ICSE98 
+	Saving Account Number: 259794
+	Nanto Bank, Tomigaoka Branch
+	Sender Name     _____________________
+	Transfer Date   ______________________
+
+__ VISA
+__ Master Card
+I authorize ICSE98 to apply the full balance due, for selected
+Registrations and Options, to my credit card.
+
+Credit Card Number _________________________________
+
+Name (as it appears on card) ______________________________
+
+Expiration Date  ____________________________
+
+Signature _________________________________ Date _________________
+
+TOTAL REMITTANCE (A+B+C+D):_________________
+ (must be in Japanese Yen)
+
+Notes:
+* The deadline for refund requests is April 6, 1998.
+* A 5,000 yen processing fee will be assessed for all refunds.
+
+MAIL OR FAX COMPLETED FORM WITH PAYMENT TO:
+ICSE98 Registration Office
+c/o ATR Media Interaction & Communications Research Laboratories
+2-2 Hikaridai, Seika-cho,       
+Soraku-gun, Kyoto 619-02 JAPAN  
+phone: +81-774-95-1430 fax: +81-774-98-2054
+e-mail: icse98-apply@mic.atr.co.jp

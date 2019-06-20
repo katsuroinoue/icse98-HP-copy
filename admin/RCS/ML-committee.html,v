@@ -1,0 +1,42 @@
+head	1.1;
+access;
+symbols;
+locks
+	iida:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	97.04.28.15.02.21;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<HTML>
+<HEADER>
+<TITLE>ICSE98 committee chairs maillist members</TITLE>
+</HEADER>
+
+<BODY>
+<H1>ICSE98 小委員会委員長 ML アーカイブ</H1>
+<hr>
+
+<A HREF="ML-committee-list.html">ＭＬ登録者一覧</A>
+
+<HR>
+<PRE>
+<!--#exec cmd="./scan-icse98ML icse98-committee"-->
+</PRE>
+<HR>
+</BODY>
+</HTML>
+@

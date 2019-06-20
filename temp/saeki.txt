@@ -1,0 +1,83 @@
+Received: from ryouko.cs.titech.ac.jp (ryouko.cs.titech.ac.jp [131.112.18.130]) by mailgate2.aist-nara.ac.jp (8.8.5+2.7Wbeta5/3.5Wpl5/NAIST/GATE-2.2) with SMTP id KAA26027 for <iida@itc.aist-nara.ac.jp>; Wed, 10 Dec 1997 10:52:55 +0900 (JST)
+Received: by ryouko.cs.titech.ac.jp (8.6.12+2.4W/3.2W-titmx-2.0g); Wed, 10 Dec 1997 10:52:39 +0900
+Message-Id: <199712100152.KAA14948@ryouko.cs.titech.ac.jp>
+To: inoue@ics.es.osaka-u.ac.jp, iida@itc.aist-nara.ac.jp
+cc: saeki@cs.titech.ac.jp
+Subject: Tutorial
+Date: Wed, 10 Dec 1997 10:52:38 +0900
+From: Motoshi Saeki <saeki@cs.titech.ac.jp>
+
+
+井上先生，飯田先生
+
+間際（〆切すぎて）までドタバタして申し訳ございません．
+
+最新版をお送りします．
+TH08とTH14の入れ換え，TH2の著者名の綴りミスの修正，TH10の最新のAffiliation
+を反映しています．昨日言いました綴りミスは修正してあります．
+TH14からは了承をとりました．
+
+よろしくお願いします．
+
+
+                               佐伯＠東工大
+
+------------------------------------------------
+April 20
+
+Morning (9:30 - 13:00)
+TH1: Software Patterns
+     Ralph Johnson (University of Illnois)
+TH2: Software Testing and Analysis for Practitioners
+     Mauro Pezze' (Politecnico di Milano) and Michal Young (University of Oregon)
+TH3: The Objectory Process
+     Phillipe Kruchten (Rational Software Corporation)
+TH4: Cleanroom's Place in Today's Software Development World
+     Chales Engle and Dave Fuhrer (Q-labs)
+
+Afternoon (14:00 - 17:30)
+TH5: Using Design Patterns to Construct Frameworks
+     Ralph Johnson (University of Illnois)
+TH6: Introducing the Unified Modeling Language (UML)
+     Stephen Morris (The City University, London)
+TH7: C++ for Software Engineering: Standard Solutions for Standard Problems
+     Mehdi Jazayeri and Georg Trausmuth (Technical University of Vienna)
+TH8: Software Surgery
+     Keith Gallagher (Loyola College)
+
+Full day (9:30 - 17:00)
+TF1: The Experience Factory: How to Build and Run One
+     Victor Basili and Frank McGarry (University of Maryland)
+
+
+April 21 (Tue)
+
+Morning (9:30 - 13:00)
+TH9: Requirements Analysis for Evolving Systems
+     Colin Potts (Georgia Institute of Technology)
+TH10: An Introduction to OMG/CORBA
+     Wolfgang Emmerich (University College London)
+TH11: COTS Product and Technology Evaluation: Concepts and Pragmatics
+     Kurt Wallnau and David Carney (Software Engineering Institute)
+
+Afternoon (14:00 - 17:30)
+TH12: Java (TBD)
+     James Gosling (Sun Microsystems)
+TH13: Distributed Software Architectures
+      Jeff Kramer and Jeff Magee (Imperial College)
+TH14: What Every Software Engineer Should Know about Hypermedia for Designing 
+     World Wide Web Applications
+     Michael Bieber (New Jersey Institute of Technology)
+
+Full-day (9:30 - 17:00)
+
+TF2: Design by Contract
+     Bertrand Meyer (Interactive Software Engineering Inc.)
+TF3: Software Forensics:  Digging through the data
+     Shari Lawrence Pfleeger (Systems/Software, Inc.)
+
+
+
+
+
+

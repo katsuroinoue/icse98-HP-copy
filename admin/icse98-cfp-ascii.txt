@@ -1,0 +1,912 @@
+Preliminary Announcement and Call for Papers (ICSE-98)
+
+The 20th International Conference on Software Engineering
+April 19~25, 1998 
+Kyoto International Conference Hall,
+Kyoto, JAPAN
+
+http://icse98.aist-nara.ac.jp/
+
+Sponsored by 
+Science Council of Japan,
+Information Processing Society of Japan,
+Japan Society of Software Science and Technology,
+IEEE Computer Society,
+ACM Special Interest Group on Software Engineering 
+
+FORGING NEW LINKS!
+
+ICSE's twentieth birthday affords an opportunity to reflect on
+profound changes of the past two decades.
+Since ICSE's founding, politics and technology have converged to
+shatter once formidable barriers to international cooperation. The
+collapse of the Berlin Wall symbolizes the end of the Cold War, and
+links in a Web page are a metaphor for our enhanced capacity for
+global information exchange.
+In this spirit, we have worked hard to ensure that ICSE98 will see an
+unprecedented increase in the level of international participation. In
+particular, we will give a greater voice to members from the
+Asian-Pacific region, an area under-represented in the past. Yet our
+outreach must extend beyond geography.
+As we continue to build bridges to other software disciplines,
+researchers and practitioners in allied fields will benefit from an
+understanding of the contributions that software engineering can make
+to their work. In turn, we must address their problems in our
+research. New collaborations between academia and industry will also
+enrich ICSE98 and our profession as a whole.
+The presentation of top-notch papers will, of course, constitute the
+core activity of ICSE98. Cutting edge research will be showcased in
+technical paper sessions, workshops, panels, posters, demonstrations,
+and special sessions devoted to the lessons learned from building
+large and complex software systems.
+We hope you will take advantage of this unique opportunity to meet new
+colleagues, exchange ideas, and explore the nearly limitless
+possibilities that lie ahead. Join us in Kyoto for ICSE98 and share
+the excitement that comes from forging new links.
+
+------------------------------------------------------------------------
+ICSE98 Committee Members
+
+General Chair
+Koji Torii (NAIST, Japan) torii@is.aist-nara.ac.jp 
+
+Technical Chair
+Takuya Katayama (JAIST, Japan) katayama@jaist.ac.jp 
+David Notkin(U.of Washington) notkin@cs.washington.edu 
+
+Technical Papers & Panels
+Kokichi Futatsugi (JAIST, Japan) kokichi@jaist.ac.jp 
+Richard Kemmerer (UCSB, USA) kemm@cs.ucsb.edu 
+
+	Betty H.C. Cheng (Michigan State U, USA)
+	Shing-Chi Cheung (Hong Kong U of Sci and Tech, Hong Kong)
+	Lori A. Clarke (U of Massachusetts, USA)
+	Premkumar Devanbu (AT&T Lab, USA)
+	Alfonso Fuggetta (Politecnico di Milano, Italy)
+	John Gannon (U of Maryland, USA)
+	David Garlan (CMU, USA)
+	Richard Gerber (U of Maryland, USA)
+	Carlo Ghezzi (Politecnico di Milano, USA)
+	William Griswold (U of Calf San Diego, USA)
+	Daniel Hoffman (U of Victoria, Canada)
+	Shinichi Honiden (Toshiba, Japan)
+	Susan Horwitz (U of Wisconsin, USA)
+	Katsuro Inoue (Osaka U, Japan)
+	Joxan Jaffar (National U of Singapore, Singapore)
+	Mehdi Jazayeri (TU Vienna, Austria)
+	Ross Jeffery (U of New South Wales, Australia)
+	Dehua Ju (East China U of Sci and Tech, China)
+	Kyo C. Kang (Pohang U of Sci and Tech, Korea)
+	John C. Knight (U of Virginia, USA)
+	Jeff Kramer (Imperial College of Sci Tech and Medicine, UK)
+	Reino Kurki-Suonio (Tampere U of Technology, Finland)
+	Axel van Lamsweerde (Universite Catholique de Louvain, Belgium) 
+	Nancy Leveson (U of Washington, USA)
+	Klaus-Peter Lohr (Freie U Berlin, Germany)
+	Mark Moriconi (SRI, USA)
+	Kumiyo Nakakoji (SRA & NAIST, Japan)
+	Dewayne E. Perry (Bell Lab, USA)
+	Adam Porter (U of Maryland, USA)
+	Gruia-Catalin Roman (Washington U, USA)
+	Motoshi Saeki (TITECH, Japan)
+	Wilhelm Schaefer (U Paderborn, Germany)
+	Will Tracz (Lockheed Martin Federal Systems, USA)
+	Alexander L. Wolf (U of Colorado, USA)
+	Michal Young (Purdue U, USA) 
+
+Lessons and Status Reports 
+Motoei Azuma(WasedaU., Japan) azuma@azuma.mgmt.waseda.ac.jp
+Fichard Fairley (Colorado Tech., USA) Dfairley@aol.com
+Mario Fusani (CNDE, Italy) 
+
+	Alain Abran (U. de Quebec a Montreal, Canada)
+	Barbara Hoerger (Benz, Germany)
+	Ryoichi Hosoya (NTT, Japan) 
+	Tomoji Kishi (NEC, Japan)
+	Hans-Ludwig Hausen (GMD Germany)
+	Kiyoo Nakamura (Fujitsu, Japan)
+	Akihiko Ohsuga (Toshiba, Japan)
+	Jun Ohya (ATR, Japan)
+	Shigeru Otsuki (Hitachi, Japan)
+	Hugo Rehesaar (U.of New South Wales, Australia)
+	Terry Rout (Griffit U., Australia)
+	Walt Sccachi (USC, USA)
+	Kenji Uehara (Mitsubishi, Japan) 
+
+Poster & Research Demo 
+Yoshiaki Fukazawa (Waseda U., Japan) fukazawa@cfi.waseda.ac.jp
+Ray Offen (Macquarie University, Australia) roffen@mpce.mq.edu.au, Australia 
+
+Doctor Symposium 
+Simon Kaplan (U. of Queensland, Australia) s.kaplan@dstc.edu.au 
+Tetsuo Tamai (Tokyo U., Japan) tamai@graco.c.u-tokyo.ac.jp 
+
+Tutorials 
+Gail Murphy (U. of British Colombia, Canada) murphy@cs.ubc.ca 
+Bashar Nuseibeh (Imperial College, UK) ban@doc.ic.ac.uk
+Motoshi Saeki (TITEC, Japan) saeki@cs.titech.ac.jp 
+
+Workshops 
+Mikio Aoyama (NIIT, Japan) mikio@sdb.csd.ts.fujitsu.co.jp 
+Frances Paulish (Siemens, Germany) Frances.Paulish@zfe.siemens.de 
+Dewayne Perry (Bell Lab, USA) dep@research.bell-labs.com 
+
+Exhibition 
+Shinichi Honiden (Toshiba, Japan) honiden@ssel.toshiba.co.jp 
+Bernd J. Kraemer (Fern U. Hagen, Germany) bernd.kraemer@fernui-hagen.de 
+Anthony Wasserman (Software Methods & Tools, USA) tonyw@methods-tools.com 
+
+Asia Pacific
+Dines Bjorner (UNU/IIST, Macao) db@iist.unu.edu
+Koichi Kishida (SRA, Japan) k2@sra.co.jp 
+
+Operating Chair 
+Norihisa Doi (Keio U., Japan) doi@keio.ac.jp 
+
+Publicity
+Katsuro Inoue (Osaka U., Japan) inoue@ics.es.osaka-u.ac.jp 
+Stan Jarzabek (National U of Singapore, Singapore) stan@iscs.nus.sg 
+Andrew Vickers (U. York, UK) andyv@minster.york.ac.uk
+Marvin Zelkowitz(U. Maryland, USA) mvz@cs.umd.edu 
+
+Technical Service 
+Nobuo Araki (NTT, Japan) araki@si.ksi.cae.ntt.jp 
+
+Publication
+Tsuneo Ajisaka (Wakayama U., Japan)  ajisaka@sys.wakayama-u.ac.jp
+Hiroyuki Tarumi (Kyoto U., Japan)  tarumi@kuis.kyoto-u.ac.jp
+
+Local Arrangement
+Kiyoshi Agusa (Nagoya U., Japan) agusa@nuie.nagoya-u.ac.jp 
+
+Registration 
+Ryohei Nakatsu (ATR, Japan) nakatsu@mic.atr.co.jp 
+
+Treasurer 
+Seishiro Tsuruho (NTT Data, Japan) tsuruho@plan.rd.nttdata.co.jp 
+
+Secretariat
+Masaki Koyama (NAIST, Japan) koyama@itc.aist-nara.ac.jp 
+
+Corporate Sponsors (Tentative)
+Nippon Telegraph and Telephone Corporation
+Nihon Keizai Shimbun, Inc. 
+------------------------------------------------------------------------
+OVERALL CONFERENCE STRUCTURE
+
+The annual International Conference on Software Engineering (ICSE) is
+the leading forum for the exchange of ideas on all aspects of software
+engineering. ICSE98 invites you to submit work to share with the ICSE
+community.
+
+Different classes of contributions are sought, ranging from research
+papers to lessons and status reports from software engineering
+organizations. The ultimate goal is to build a rich and comprehensive
+conference program that can fit the interests and needs of different
+classes of attendees: professionals, researchers, managers, and
+students. If you are unsure of which category to submit to, please
+consult the co-chairs in charge of specific events you may be
+interested in.
+
+You may prepare as many submissions as you like in the same or
+different categories. In a given category, the same materials should
+be presented only once.
+
+In keeping with the international character of past ICSEs, the written
+and spoken language of the conference is English.
+
+Submissions at a Glance
+
+Participation Category/ Description/ Deadline/ Event Dates*
+
+Technical Papers/
+Report research or practical experiences/
+20 August 1997(electronic abstract)   3 September 1997 (full paper due)/
+22~24
+
+Panels/
+Discuss and debate pressing issues /
+20 September 1997/
+22~24
+
+Lessons & Status Reports/
+Present summaries of work taking place in institutions, organizations,
+or groups /
+1 December 1997/
+22~24
+
+Posters & Research Demonstrations/
+Present late-breaking results and ongoing work /
+1 January 1998/
+22~24
+
+Doctoral Symposium/
+Discuss Ph.D. students' work /
+1 November 1997/
+TBD
+
+Tutorials/
+Teach Software Engineering techniques and theory /
+6 October 1997 (proposal)/
+20~21
+
+Workshops/
+Discuss focused topic in a small-group setting /
+1 July 1997 (proposal)/
+19~21, 24~25
+
+Exhibition/
+Show commercial and research tools /
+Contact icseexpo@po.iijnet.or.jp/
+21~24
+
+Asia Pacific Forum/
+Discuss Asia-Pacific SE issues /
+1 July 1997 (proposal)/
+TBD
+
+*Note: Event dates show a current plan of those held in the conference
+week from April 19 (Sun.) to 25 (Sat.), '98. These dates are subject
+to change.
+
+TOPIC AREAS
+
+ICSE 98 encourages submissions from the many perspectives that
+contribute to the whole of Software Engineering. We particularly
+encourage papers addressing topics wherein software engineering issues
+play a key role, but where those topics have not been highlighted in
+previous ICSEs. We encourage discussions of both the process and
+outcome of research, design, engineering, development, installation,
+use, and maintenance. Examples include:
+
+Computer supported cooperative work (CSCW) and software engineering.
+Configuration management. 
+Design.
+Distributed and parallel systems.
+Environments: organization and integration principles.
+Experimentation.
+Formal methods.
+Human-computer interaction (HCI).
+Hypermedia.
+Information retrieval, digital libraries, and information systems design.
+Interoperability.
+Knowledge-based approaches and artificial intelligence.
+Measurement, metrics.
+Module interconnection languages.
+Object oriented technology and patterns.
+Programming languages and software engineering.
+Project management.
+Reliability.
+Requirements engineering.
+Reuse.
+Reverse engineering and program transformation.
+Safety and Security.
+Software architectures.
+Software documentation.
+Software process and process improvement.
+Standards and legal issues.
+Technology transfer, education.
+Testing, analysis, and verification. 
+------------------------------------------------------------------------
+TECHNICAL PAPERS
+
+AIM 
+Papers describe innovative and significant work in the research and
+practice of Software Engineering. Papers are collected in an archival,
+refereed conference proceedings, published by IEEE/ACM, which is cited
+and read by researchers and practitioners world-wide. Accepted papers
+are presented at the ICSE conference, attended by hundreds of
+people. Having a paper on the technical program gives authors an
+opportunity to have a tremendous impact on the study and application
+of Software Engineering principles, theory, and techniques.
+
+SCOPE 
+The Software Engineering community consists of researchers and
+professionals from many different disciplines and intellectual
+traditions. The paper review process tries to rigorously review all
+submissions in a manner that takes into account the different criteria
+from different parts of the community. For reviewers to do this
+effectively, they need an accurate assessment of the type of each
+paper they read; that is, research contributions or experience papers. 
+Please select the type of paper that best describes your submission
+and write it in the appropriate place on the Cover Page (see the home
+page). If you feel that your submission does not fit any of these
+types, please contact either program co-chair for help in best
+classifying your submission.
+
+REVIEW PROCESS 
+Each submitted paper will be reviewed by a group of at least three
+members of the program committee. Reviewer assignment will be done by
+matching the topic and focus of the paper with committee member
+expertise. The committee members will develop a summary review and
+recommendation for acceptance or rejection. Final decisions will be
+made at a program committee meeting, where the committee as a whole
+will review the recommendations and rationale made by committee
+members.
+
+Note that in addition to considering the criteria outlined for each
+type of paper (see the ICSE98 Home Page), all papers will be evaluated
+for overall quality of presentation: the problem and its context must
+be clearly described, including relation to prior work. It must also
+be clear from the presentation that a succinct, high quality verbal
+presentation at the conference will be possible.
+
+HOW TO SUBMIT 
+If you decide to submit, you should look into the ICSE98 Home Page to
+get the necessary information for the submission! In particular, note
+that the deadline for requesting ICSE98 mentoring is 10 weeks before
+the deadline of the paper submission.
+
+The following lists the steps you should follow for submitting a paper. 
+
+1.Electronic Submission of Title and Abstract (Required): 
+In addition to their appearance in the full, printed paper, the title
+and abstract of every submission must also be transmitted by email to
+icse-98-papers@cs.ucsb.edu by the deadline for abstracts shown
+above. The abstract must be plain text only (ASCII) - no markup
+languages, no binhex, no binary files. 
+
+2.Submission of Full Papers:
+Submitted papers must conform to the standard Conference Proceedings
+format (See http://icse98.aist-nara.ac.jp/how-to-submit.html). Papers
+may be no longer than 10 pages in the Conference Proceedings format,
+including references, appendices and figures. The full papers may not
+be submitted electronically; six paper copies are required.
+
+UPON ACCEPTANCE 
+Authors will be notified of acceptance or rejection by the end of
+November 1997. Accepted papers will be published in the ICSE 98
+Conference Proceedings. The primary author of each accepted paper will
+receive an Author Kit with detailed instructions on how to submit the
+camera-ready copy.
+
+SEND TO 
+Richard A. Kemmerer
+ICSE 98 Program Co-Chair
+Computer Science Department
+University of California, Santa Barbara
+Santa Barbara, CA 93106
+USA
+E-mail: icse-98-papers@cs.ucsb.edu 
+
+DEADLINE 
+Abstract in electronic format (ASCII email): 20 August 1997
+Full paper due (6 copies, hard copy only): 3 September 1997 
+------------------------------------------------------------------------
+PANELS
+
+AIM 
+The aim of the ICSE 98 panels is to stimulate discussion about ideas
+and issues of crucial importance to the software engineering
+community. Panels may emphasize complex technical issues, but they may
+equally provide an opportunity to propose views and address
+controversies through the medium of informed debate. Suitable topics
+for such discussion include pressing issues in software engineering
+theory and practice, emerging industry trends and enabling
+technologies, and professional, organizational, and social issues
+associated with software engineering. Panels last about 90 minutes and
+can be organized in many formats. We strongly encourage proposals in
+original formats that will engage the panelists and audience in a
+lively and substantive discussion.
+
+Panels may address any topic of relevance to software engineering
+research and practice. Panels are an opportunity to stimulate thinking
+about how software engineering is evolving. This means that topics
+need not be limited to the conventional boundaries of the field.
+
+REVIEW PROCESS 
+Each proposal will be reviewed by the program co-chairs. We are
+looking for stimulating and timely proposals that will be debated by
+well-informed and engaging panelists and that will form a diverse,
+controversial, and well thought out collection. Please feel free to
+contact either program co-chair in advance to discuss your proposal.
+
+HOW TO SUBMIT 
+If you decide to submit, you should look into the ICSE98 Home Page to
+get the necessary information for the submission! Panel proposal
+should be sent via e-mail to both of the program co-chairs. The
+proposal should contain the following:
+* A one-page description of the topic, stating compelling issues to be
+debated, and their relevance to software engineering.
+* One-page description of the panel format (not limited to those
+specified above), stating how the panel will be conducted and why the
+proposed format is suitable for the given topic.
+* One page summary of the organizer(s) and all the panelists, including
+names, affiliations, telephone numbers and e-mail addresses. Panelists
+must have agreed to be members of the panel.
+
+Authors will be notified of acceptance or rejection by the end of
+November 1997.
+
+SEND TO 
+Kokichi Futatsugi
+ICSE98 Program Co-Chair
+Graduate School of Information Science
+JAIST (Japan Advanced Institute of Science and Technology)
+1-1 Asahidai, Tatsunokuchi, Ishikawa 923-12
+Japan
+E-mail: icse-98-panels@ldl.jaist.ac.jp 
+
+and 
+
+Richard A. Kemmerer
+ICSE 98 Program Co-Chair
+Computer Science Department
+University of California, Santa Barbara
+Santa Barbara, CA 93106
+USA
+E-mail: icse-98-panels@cs.ucsb.edu
+
+DEADLINE 
+Panel Proposal: 20 September 1997 
+------------------------------------------------------------------------
+LESSONS AND STATUS REPORTS 
+
+AIM 
+Lessons and Status Reports were introduced to the ICSE program at
+ICSE97. The reports are intended to provide software engineering
+professionals with a picture of practices, procedures, techniques,
+products, and organizational structures. Our goal is to provide
+software engineers and managers with:
+* insights that can be adapted and applied within their own work
+practices and organizations; 
+* information on the activities of
+software engineering practitioners doing innovative and potentially
+influential work;
+* information on software engineering activities
+which form the basis for future generations of software engineering
+tools, techniques and management.
+
+SCOPE 
+We encourage submissions from institutions, organizations, and groups
+within companies, universities, and government. Submissions may be
+from organizations of any size and any maturity level, ranging from
+small software development teams to larger teams of professional
+software developers working in large companies. We also encourage
+submissions
+
+describing a broad range of applications, from single-user PC software
+to global, enterprise-wide solutions.
+
+Reports may describe software engineering activities in; 
+
+* Software planning, acquisition, and integration organizations,
+* Software development and maintenance organizations, 
+* Software engineering process groups or consultatory organizations,
+* Quality assurance groups or independent products evaluators,
+* Collaborative efforts involving several groups or organizations,
+* Partnerships of different types of groups, or 
+* Groups cooperating across geographical, political, or cultural boundaries.
+
+We are looking for lessons, procedures, techniques and products,
+including new perspectives on old but as yet unsolved problems, that
+stimulate practicing software engineers, R&D organizations, and
+software engineering researchers, and that can be learned and applied.
+
+Examples of topics may include but are not limited to: 
+
+* Assessment and transfer of new technologies, including education,
+training and supporting issues. 
+* Planning and implementation of a new methodology into an
+organization.  
+* Experience in the application of CASE Tools.
+* Practice of process design, process assessment and process
+improvement.
+* Application of software quality metrics and evaluation practice.
+* Experience on some aspects of the application of innovative software
+engineering techniques in organizations.
+
+The submissions should emphasize; 
+the circumstances under which work is done; the underlying goals,
+policies, and organizational background; perspectives of past,
+present, and future software engineering efforts.
+
+We aim to bring together people to report about their practice with
+the focus on giving the "big picture" rather than a technically
+interesting focus on a single scientific result.
+
+REVIEW PROCESS 
+
+Submissions will be reviewed for acceptance based on: the interest to
+members of the software engineering community; the significance of
+impact of the report to the Software Engineering community; and the
+objective of informing the software engineering community activities
+world wide.
+
+Submissions are solicited from organizations. Solicited proposals will
+be subject to the same review process and criteria as proposals
+submitted in response to this call.
+
+HOW TO SUBMIT 
+Proposed Lessons and Status Reports must be prepared in the Conference
+Proceedings Format (see http: //icse98.aist-nara.ac.jp/). Proposals
+must not exceed 2 pages in length.
+
+Accepted papers will be published in the conference proceedings. The
+primary author of each accepted report will receive an Author Kit with
+detailed instructions on how to submit camera-ready materials for
+publication.
+
+At the conference, the Status Report should be presented by a major
+participant in the work. The presentation should be based on the
+material described in the Status Report Summary.
+
+SEND TO
+Motoei AZUMA,
+Department of Industrial and Management Systems Engineering
+Waseda University
+Okubo, Shinjuku-ku, Tokyo 169, Japan
+TEL: +81-3-5286-3302
+FAX: +81-3-3200-2567
+E-MAIL: azuma@azuma.mgmt.waseda.ac.jp
+
+DEADLINE 
+Reports: 1 December 1997
+------------------------------------------------------------------------
+POSTERS AND RESEARCH DEMONSTRATIONS
+
+AIM 
+Posters and Research Demonstrations provide an excellent opportunity
+to show late-breaking results and to discuss the results with the
+conference participants. Interactive communication and demonstration
+will be the most exciting and powerful presentation.
+
+SCOPE 
+
+Posters 
+All types of work in software engineering can be presented effectively
+using posters during the conference. Display space will be provided in
+the poster and research demonstration room. A description of each
+poster will appear in the proceedings for posters and research
+demonstrations. 
+
+Research Demonstrations
+Research demonstrations are intended to show early implementation of
+novel software engineering concepts. Research demonstrations will be
+scheduled into blocks of time for demonstration. In addition, a booth
+will be provided in the poster and research demonstration room to
+allow informal demonstrations throughout the conference. A description
+of each research demonstration will appear in the proceedings for
+research demonstrations. We consider any system which is at least six
+months away from appearing in a commercial product as a "research
+system". Commercial systems will not be accepted as research
+demonstrations.
+
+REVIEW PROCESS 
+Submissions will be reviewed by the committee using the standard ICSE
+criteria : originality, importance and generality of contribution,
+soundness of rationale or demonstration, quality of written and
+graphic presentation and appropriate citation of relevant literature.
+
+COMPUTING AND PROJECTION EQUIPMENT 
+The conference will not provide any electronic equipment such as CPUs,
+disk drives, displays or videotapes for demonstration or presentation.
+
+HOW TO SUBMIT 
+Authors should prepare a four page description of their poster and
+research demonstration proposal for review.
+
+SEND TO 
+Yoshiaki Fukazawa 
+Waseda University 
+3-4-1, Ohkubo, Shinjuku-ku, 
+Tokyo 169 JAPAN
+E-MAIL : fukazawa@fuka.info.waseda.ac.jp
+
+DEADLINE 
+Proposals: 1 January 1998 (Contact the chair for late submission) 
+------------------------------------------------------------------------
+DOCTORAL SYMPOSIUM
+
+AIM 
+ICSE'98 will host a forum for graduate students to present and discuss
+their dissertation research objectives, approaches and preliminary
+results. Doctoral students, who are within approximately one year of
+thesis completion, are invited to apply to the Doctoral Symposium, a
+closed session in which a group of students present their research and
+get useful guidance and comments from established researchers and
+other doctoral students. The one-day symposium aims to broaden the
+perspectives of new entrants to the software engineering research
+community and to provide constructive comments on the ongoing thesis
+research.
+
+As the systems of doctoral courses are different by cultures, we are
+expecting participants coming from America, Europe, Asia-Pacific and
+all over the world. We plan to invite people from typical academic
+cultures to explain their doctoral systems so that we can compare and
+discuss differences between countries.
+
+HOW TO APPLY 
+We are looking for students who are advanced enough to have a specific
+research proposal and some preliminary results, but with sufficient
+time remaining to thesis completion to benefit from the symposium
+experience. Application forms for describing the thesis topic and
+progress are available from the Symposium chair. A letter of
+recommendation from the student's thesis advisor is also required. The
+applications are reviewed by the committee, and acceptance and
+rejection will be notified. Students selected as participants will
+receive partial reimbursement for conference-related expenses.
+
+SEND TO 
+Doctoral Symposium Chair 
+Tetsuo Tamai 
+Graduate School of Arts and Sciences 
+University of Tokyo
+3-8-1 Komaba, Meguro-ku
+Tokyo 153, Japan
+TEL: +81-3-5454-6847
+FAX: +81-3-5454-6845
+E-MAIL: tamai@graco.c.u-tokyo.ac.jp
+
+DEADLINE 
+Students may request application forms by electronic mail beginning
+October 1997.
+Applications are due no later than 1 November 1997.
+Notification of acceptance will be by 10 January 1998. 
+------------------------------------------------------------------------
+TUTORIALS
+
+AIM 
+The ICSE'98 Tutorials Program provides conference participants with
+the opportunity to gain new insights, knowledge and skills in a broad
+range of areas in the field of software engineering. Participants at
+the tutorials include software professionals, teachers, researchers
+and students both in software engineering and in other areas seeking
+to gain a better understanding of software engineering
+topics. Proposals for full-day (6 hours) or half-day (3 hours)
+tutorials are solicited. Tutorial topics are expected to cover a wide
+range, from practical guidelines, standards and surveys to academic
+and theoretical issues. The topics are not limited to past ICSE
+tutorial offerings.
+
+REVIEW PROCESS 
+Submitted proposals will be reviewed and evaluated by a committee
+consisting of experts based on their estimated benefit for the
+prospective participants and on their fit within the tutorial program
+as a whole. Factors to be considered also include: relevance,
+timeliness, importance and audience appeal; suitability for
+presentation in a half- or full-day tutorial format; effectiveness of
+teaching methods; and past experience and qualifications of
+instructors.
+
+HOW TO SUBMIT 
+
+Tutorial proposals (of ten pages or less) for review purposes should
+include:
+* title, proposer's name, postal and email addresses, telephone and
+fax numbers, a list of keywords
+* aims and learning objectives
+* duration (half- or full-day) 
+* scope (survey or in-depth of one/few topics)
+* target audience:
+  -beginners, intermediates, advanced
+  -practitioner, researchers, teachers, (university) students
+  -background required for target audience 
+* suitability for ICSE audience
+* description of the material that will be covered (including
+breakdown & content summary)
+* schedule of events with time allocations
+* description and samples of material that will be included in
+tutorial notes
+* list of requirements for running the tutorials (e.g., supplies,
+restrictions, etc...)
+* brief history of tutorial (if given before), including how it will
+be modified for ICSE98)
+* short curriculum vitae (biography) of instructors 
+
+Please submit proposals to one of the tutorial co-chairs by E-mail
+(ASCII text only) or air mail(six copies) to arrive by 6th October
+1997. Please mark your submissions "ICSE98 Tutorial".
+
+SEND TO 
+Tutorial Co-Chairs
+Motoshi Saeki
+Dept. of Computer Science
+Tokyo Institute of Technology
+Ookayama 2-12-1, Meguro-ku,
+Tokyo 152, Japan
+TEL: +81-3-5734-2192
+FAX: +81-3-5734-2911
+E-MAIL: saeki@cs.titech.ac.jp
+
+or 
+
+Bashar Nuseibeh
+Department of Computing
+Imperial College
+180 Queen's Gate
+London SW7 2BZ, UK
+TEL: +44-171-594-8286
+FAX: +44-171-581-8024
+E-MAIL: ban@doc.ic.ac.uk
+
+or 
+
+Gail Murphy
+Dept. of Computer Science
+University of British Columbia
+201-2366 Main Mall
+Vancouver B.C. Canada V6T 1Z4
+TEL: +1-604-822-5169
+FAX: +1-604-822-5485
+E-MAIL: murphy@cs.ubc.ca 
+
+DEADLINE 
+
+Tutorial Proposals : 6 October, 1997 
+------------------------------------------------------------------------
+WORKSHOPS
+
+AIM 
+Workshops provide a forum for a group of participants to exchange
+opinions on topics in either research or applications. Workshops are
+held either before or after the conference and may be one, one and a
+half or two days in length. Workshops are not alternative forums for
+full papers which otherwise could be submitted to ICSE. Participation
+in workshops is typically dependent on submission of position
+statements.
+
+REVIEW PROCESS 
+Workshop proposals will be reviewed by a committee representing a
+cross-section of software engineering researchers and
+professionals. Acceptance will be based on an evaluation of the
+workshop's potential for generating useful results, the timeliness and
+expected interest level in the topic, and organizer's ability to lead
+a successful workshop.
+
+HOW TO SUBMIT 
+Prepare a three-page proposal for the workshop review
+committee. Workshop proposal should contain:
+* an outline of the theme and goals of the workshop and its
+relevance to the field;
+* a description of the desired number of participants, the participant
+solicitation and selection process, pre-workshop activities, and
+planned workshop activities including length of time and required
+rooms;
+* a brief description of each organizer's background, including relevant
+past experience with workshops, and whether the organizers have
+organized ICSE workshops before.
+
+SEND TO 
+Mikio Aoyama
+Global Development Division
+Fujitsu Limited
+2-12-5 Shimo-kodanaka, Nakahara-ku
+Kawasaki 211, Japan
+TEL: +81-44-754-4139
+FAX: +81-44-754-4140
+E-MAIL: mikio@csd.ts.fujitsu.co.jp 
+
+DEADLINE 
+Proposal: 1 July 1997 (7 copies, hard copy only) 
+------------------------------------------------------------------------
+EXHIBITION
+
+AIM 
+The Exhibit offers commercial exhibit space to vendors as well as
+research exhibit space for products by academic and government
+research laboratories.
+
+There are two types of exhibits. 
+
+* Commercial products from vendors.
+
+* Research products from academia, industrial research
+laboratories, and government laboratories.
+
+EXHIBIT SPACE 
+
+The Exhibit has commercial exhibit space and research exhibit
+space. All commercial exhibit space is sold in increments of 2m x
+1.5m. Space rental rate is 400,000Yen per 2m x 1.5m booth, prior to 1
+January 1998. After 1 January, the rate increases to 420,000Yen per
+booth. Cancellations of space will be assessed a 40,000Yen fee if
+cancellation is received in writing by 1 January 1998. Thereafter, no
+refunds will be provided for unoccupied space; space may not be
+sublet. As for research exhibits from academia and government
+laboratories, no rental rate is required.
+
+CONTACT 
+Proposals and questions should be directed to the following.
+
+Shinichi Honiden
+ICSE EXPO 98 Kyoto Producer Office
+c/o Nikkei Advertising Co., LTD.
+Nikkei Koraibashi Bldg., 1-4-2
+Koraibashi, Chuo-ku, Osaka 541
+Japan
+TEL: +81-6-231-9808
+FAX: +81-6-229-1780
+E-MAIL: icseexpo@po.iijnet.or.jp 
+------------------------------------------------------------------------
+ASIA PACIFIC FORUM
+
+AIM 
+ICSE98 provides an opportunity for exchanging ideas and/or information
+for researchers and practitioners in Asia-Pacific Region. At ICSE18 in
+Seattle 1994, we had a workshop on "Asian Approaches to Software
+Engineering". It was very successful. We are planning to have a
+similar event in Kyoto. And it will also be possible to implement
+other plans such as to have a forum to discuss emerging Asian software
+markets, or for special exhibits of software engineering tools made in
+Asia.
+
+HOW TO SUBMIT 
+Prepare a two-page proposal. It should contain: 
+* Theme and objective of the event. 
+* Desired number of participants, participant solicitation and
+selection process, planned activities including time length and
+requirement for rooms.
+* Brief description of organizers' background.
+
+SEND TO 
+Kouichi Kishida
+Technical Director
+Software Research Associates, Inc.
+3-12 Yotsuya, Shinjuku-ku, 
+Tokyo 160 JAPAN
+TEL: +81-3-3357-1507
+FAX: +81-3-3351-0880
+E-MAIL: k2@sra.co.jp
+
+DEADLINE 
+Proposal: 1 July, 1997 
+------------------------------------------------------------------------
+WELCOME TO KYOTO IN CHERRY BLOSSOM SEASON
+
+CITY OF HISTORY AND LEARNING 
+Kyoto, a city with 1,200 years of history, is the cultural soul of
+Japan. Nestled among low mountains, it is blessed with both natural
+beauty and a rich historical legacy. It is the ideal site for
+international conventions. From its establishment as Japan's capital
+in 794 until the Meiji Restoration in 1868, Kyoto flourished as the
+center of government, commerce and culture in Japan. Traditional arts
+and an abundance of shrines and temples give the city its distinct
+character. With nearly 1.5 million residents, Kyoto is a vibrant
+mixture of old and new. Many high-tech firms have chosen it as their
+headquarters, and the city boasts 47 public and private colleges and
+universities. These significant intellectual resources combine with
+Kyoto's long history and tradition to provide an ideal milieu for
+innovation and creativity.
+
+NATURAL BEAUTY 
+Kyoto is a panorama of the changing seasons: from the springtime
+cherry blossoms lining narrow walkways, the lush greenery of summer,
+to the brilliant autumn foliage of Japanese maples and the delicate
+layer of snow covering the surrounding mountainsides in winter. The
+passage of seasons is also evident in the beautiful gardens of Kyoto's
+ancient temples and shrines.
+
+CULTURAL HERITAGE 
+Reflecting its long history as the cultural and religious center of
+Japan, Kyoto is home to nearly 2,000 Buddhist temples and Shinto
+shrines. The city's international cultural significance was recognized
+when 17 historical sites in Kyoto were designated as UNESCO World
+Cultural Heritage Sites. Kyoto is the location of 20% of Japan's
+national treasures. More than 60 museums throughout the city offer
+visitors the opportunity to view priceless works of art and important
+cultural objects.
+
+KYOTO INTERNATIONAL CONFERENCE HALL 
+Japan's leading convention center, the Kyoto International Conference
+Hall, is a complex consisting of seven separate conference halls, the
+largest of which can hold 2,000 persons. Another 70 conference rooms
+of various sizes are available for smaller meetings. Two large banquet
+halls and a Japanese landscape garden offer additional settings for
+convention participants to meet and communicate informally.
+
+TRANSPORT 
+Kyoto has many modern hotels with accommodations for up to 20,000
+visitors. Located near the center of Japan, it is readily accessible
+by land and air. The high-speed Shinkansen (bullet train) links Tokyo
+with Kyoto in 2 hours and 15 minutes. Overseas visitors arriving at
+Kansai International Airport have a comfortable 75-minute ride by the
+Haruka Express train to Kyoto Station. Kyoto has a well-developed
+public transportation system of trains, subways and buses. Extensions
+to the Kyoto subway system will provide a direct link from Kyoto
+Station to the Kyoto International Conference Hall by the end of July '97.
+------------------------------------------------------------------------
+For more information, 
+
+http://icse98.aist-nara.ac.jp/ 
+mail:icse98-info@itc.aist-nara.ac.jp 

@@ -1,0 +1,156 @@
+head	1.2;
+access;
+symbols;
+locks
+	iida:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	97.04.30.08.14.29;	author iida;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	97.04.28.15.02.21;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-2022-jp">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>ICSE98 $@@9qFb;vL3O"Mm%Z!<%8(B</TITLE>
+<META NAME="Template" CONTENT="C:\PROGRAM FILES\MICROSOFT OFFICE\OFFICE\html.dot">
+</HEAD>
+<BODY LINK="#0000ff" VLINK="#800080">
+
+<H2 ALIGN="CENTER">ICSE98 $@@9qFb;vL3O"Mm%Z!<%8(B </H2>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><P><HR></P>
+</FONT><H3>$@@AH?%?^!J7W2hCf!K(B </H3>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><P><HR></P>
+</FONT><H3><A HREF="./meibo.html">$@@3F<o0Q0w2q!?;vL36IL>Jm(B</A></H3>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><P><HR></P>
+</FONT><H3>$@@5D;vO?(B </H3>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><P></FONT><A HREF="log-96-12-18.html"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@#1#9#9#6G/(B12$@@7n(B18$@@F|!JEl5~!&%W%i%$%*K\6?!K(B</FONT></A> </P>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><P></FONT><A HREF="log-96-09-06.html"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@#1#9#9#6G/#97n#6F|!J5~ET9q:]2q5D>l!K(B</FONT></A> </P>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><P><HR></P>
+</FONT><H3>$@@9-Js3hF0MQ%I%-%e%a%s%H(B</H3>
+<UL>
+<LI>$@@1Q8lHG(B</FONT>CFP(<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@%W%l!<%s%F%-%9%H%U%!%$%k7A<0(B</FONT>):<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><BR>
+</FONT><A HREF="cfp-txt/e-8.txt"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@#8%Z!<%8HG(B</FONT></A> / <A HREF="cfp-txt/e-2.txt"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@#2%Z!<%8HG(B</FONT></A> / <A HREF="cfp-txt/e-1.txt"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@#1%Z!<%8HG(B</FONT></A></LI></UL>
+
+
+<UL>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><LI></FONT><A HREF="http://icse98.aist-nara.ac.jp/admin/icse98-annai-jp.txt"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@F|K\8l$K$h$k4JC1$J0FFb$N%F%-%9%H%U%!%$%k!J#3!?#2#1!?#9#7!K(B</FONT></A> </LI>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><LI></FONT><A HREF="http://icse98.aist-nara.ac.jp/admin/regform.html"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">Registration form $@@350F!JEPO?%7%9%F%`$N8!F$MQ!K(B</FONT></A> </LI>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><LI></FONT><A HREF="http://icse98.aist-nara.ac.jp/admin/gakujutsu.html"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@3X=Q2q5D$KDs=P$7$??=@@A=q$J$I$N(BHTML$@@%U%!%$%k(B</FONT></A><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@!J$$$m$$$m$J?=@@A=qN`$N:n@@.$K$*LrN)$F$/$@@$5$$!K(B</LI>
+<LI></FONT><A HREF="http://icse98.aist-nara.ac.jp/admin/gakujutsu.tex"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@3X=Q2q5D$KDs=P$7$??=@@A=q$J$I$N(BLatex$@@%U%!%$%k(B</FONT></A><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@!J$$$m$$$m$J?=@@A=qN`$N:n@@.$K$*LrN)$F$/$@@$5$$!K(B</LI>
+<LI>$@@$=$NB>$N(B</FONT><A HREF="old-docs.html"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@2a5n$N%P!<%8%g%s$N%I%-%e%a%s%H$O$3$A$i$K0\F0$7$^$7$?(B</FONT></A><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"> </LI></UL>
+
+<P><HR></P>
+</FONT><H3>ICSE97</H3>
+
+<UL>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><LI></FONT><A HREF="http://icse98.aist-nara.ac.jp/admin/icse97/"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@$3$A$i$N%5%$%H$K;}$C$F$-$F$$$k%U%!%$%k(B</FONT></A> </LI>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><LI></FONT><A HREF="http://www.ics.uci.edu/icse97/index.html"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@8x<0(BWEB$@@$X$N%j%s%/(B</FONT></A> <FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@$3$A$i$NJ}$,99?7$5$l$F$$$k2DG=@@-$,$"$j$^$9(B</FONT> </LI></UL>
+
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><P><HR></P>
+</FONT><H3>$@@%a!<%k%j%9%H!&%"!<%+%$%V!'(B </H3>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><P>$@@%a!<%k%j%9%H$K$D$$$F!'(B</FONT> <FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@9qFb;vL3O"MmMQ$K8=:_0J2<$N%a!<%j%s%0%j%9%H$,1?MQ$5$l$F$$$^$9!%(B</FONT> <FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@3F%j%9%H$N2a5n$N%a!<%k0l$*$h$SEPO?%a%s%P!<$r;2>H$9$k$3$H$,$G$-$^$9!%(B</FONT> </P>
+
+<UL>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><LI></FONT><A HREF="../wizards/index.html"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@%(%0%<%/%F%#%V%a%s%P!<O"MmMQ(B</FONT></A> <FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">( </FONT><A HREF="mailto:icse98@@itc.aist-nara.ac.jp"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">icse98@@itc.aist-nara.ac.jp </FONT></A><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">) <BR>
+$@@9qFb%9%F%"%j%s%0%a%s%P!<O"MmMQ!J%a%s%P!<0J30$O;2>H$G$-$^$;$s!K(B</FONT> </LI>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><LI></FONT><A HREF="./ML-committee.html"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@3F<o>.0Q0w2q0Q0wD9O"MmMQ(B</FONT></A> <FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">( </FONT><A HREF="mailto:icse98-committee@@itc.aist-nara.ac.jp"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">icse98-committee@@itc.aist-nara.ac.jp </FONT></A><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">) <BR>
+ICSE98$@@3F<o>.0Q0w2q0Q0wD94V$NO"MmMQ(B</FONT> </LI>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><LI></FONT><A HREF="./jimu.html"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@;vL36IFbItO"MmMQ(B</FONT></A> <FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">( </FONT><A HREF="mailto:icse98-jimu@@itc.aist-nara.ac.jp"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">icse98-jimu@@itc.aist-nara.ac.jp </FONT></A><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">) <BR>
+ICSE98$@@9qFb;vL36I!J(BNAIST$@@Fb$K@@_CV!K$N;vL3O"MmMQ(B</FONT> </LI>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><LI></FONT><A HREF="./all-staff.html"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@A4BNO"MmMQ(B</FONT></A> <FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">( </FONT><A HREF="mailto:icse20-staff@@itc.aist-nara.ac.jp"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">icse98-all@@itc.aist-nara.ac.jp </FONT></A><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">) <BR>
+ICSE98$@@$N3F<o0Q0w2q0Q0wD9$*$h$S;vL36I0w$J$I!$$9$Y$F$N%9%?%C%U$X(B</FONT> <FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">$@@$NO"MmMQ(B</FONT> </LI></UL>
+
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><P><HR></P>
+<P></FONT><A HREF="../index.html"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">[ICSE98$@@BP30%"%J%&%s%9MQ$N%Z!<%8(B] </FONT></A></P>
+<FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA"><P><HR></P>
+<P><SMALL>This WWW server is supported by </FONT><A HREF="http://itcw3.aist-nara.ac.jp/"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">Information Technology Center</FONT></A><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">, at </FONT><A HREF="http://www.aist-nara.ac.jp/"><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">Nara Institute of Science and Technology </FONT></A><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">,JAPAN <BR>
+This page is currently managed by: </FONT><A HREF="mailto:iida@@itc.aist-nara.ac.jp"><I><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">iida@@itc.aist-nara.ac.jp</I></FONT></A><FONT FACE="$@@#M#S(B $@@L@@D+(B" LANG="JA">. <BR>
+Any suggestions/comments are welcome. </P>
+<P><HR></P>
+<P><!----><DIV ALIGN=RIGHT>Last modified: Monday, 28-Apr-97 22:20:28 JST</DIV></SMALL></P></FONT></BODY>
+</HTML>
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d5 1
+a5 1
+<TITLE>ICSE98 $B9qFb;vL3O"Mm%Z!<%8(B</TITLE>
+d10 11
+a20 16
+<H2 ALIGN="CENTER">ICSE98 $B9qFb;vL3O"Mm%Z!<%8(B </H2>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><P><HR></P>
+</FONT><H3>$BAH?%?^!J7W2hCf!K(B </H3>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><P><HR></P>
+</FONT><H3><A HREF="./meibo.html">$B3F<o0Q0w2q!?;vL36IL>Jm(B</A></H3>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><P><HR></P>
+</FONT><H3>$B5D;vO?(B </H3>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><P></FONT><A HREF="log-96-12-18.html"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B#1#9#9#6G/(B12$B7n(B18$BF|!JEl5~!&%W%i%$%*K\6?!K(B</FONT></A> </P>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><P></FONT><A HREF="log-96-09-06.html"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B#1#9#9#6G/#97n#6F|!J5~ET9q:]2q5D>l!K(B</FONT></A> </P>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><P><HR></P>
+</FONT><H3>$B9-Js3hF0MQ(B$B%I%-%e%a%s%H(B</H3><DIR>
+
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><P>$B8=:_8x3+Cf$N(B</FONT><A HREF="http://icse98.aist-nara.ac.jp/icse98-cfp-v5/"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B:G?7HG(B</FONT></A>(HTML)<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B$O$3$A$i$G$9(B</FONT> </P>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><P>$B!!(B</P></DIR>
+
+
+d22 2
+a23 2
+<LI>$B1Q8lHG(B</FONT>CFP(<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B%W%l!<%s%F%-%9%H%U%!%$%k7A<0(B</FONT>):<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><BR>
+</FONT><A HREF="cfp-txt/e-8.txt"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B#8(B$B%Z(B$B!<(B$B%8(B$BHG(B</FONT></A> / <A HREF="cfp-txt/e-2.txt"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B#2%Z(B$B!<(B$B%8HG(B</FONT></A> / <A HREF="cfp-txt/e-1.txt"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B#1%Z(B$B!<(B$B%8HG(B</FONT></A></LI></UL>
+d27 5
+a31 5
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><LI></FONT><A HREF="http://icse98.aist-nara.ac.jp/admin/icse98-annai-jp.txt"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$BF|K\8l$K$h$k4JC1$J0FFb$N%F%-%9%H%U%!(B$B%$%k!J#3!?#2#1!?#9#7!K(B</FONT></A> </LI>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><LI></FONT><A HREF="http://icse98.aist-nara.ac.jp/admin/regform.html"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">Registration form $B350F!JEPO?%7%9%F%`$N8!F$MQ!K(B</FONT></A> </LI>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><LI></FONT><A HREF="http://icse98.aist-nara.ac.jp/admin/gakujutsu.html"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B3X=Q2q5D$KDs=P$7$??=@@A=q$J$I$N(BHTML$B%U%!%$%k(B</FONT></A><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B!J$$$m$$$m$J?=@@A=qN`$N:n@@.$K$*LrN)$F$/$@@$5$$!K(B</LI>
+<LI></FONT><A HREF="http://icse98.aist-nara.ac.jp/admin/gakujutsu.tex"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B3X=Q2q5D$KDs=P$7$??=@@A=q$J$I$N(BLatex$B%U%!%$%k(B</FONT></A><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B!J$$$m$$$m$J?=@@A=qN`$N:n@@.$K$*LrN)$F$/$@@$5$$!K(B</LI>
+<LI>$B$=$NB>$N(B</FONT><A HREF="old-docs.html"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B2a5n$N%P!<%8%g%s$N%I%-%e%a(B$B%s(B$B%H$O$3$A$i$K0\F0$7$^$7$?(B</FONT></A><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"> </LI></UL>
+d37 2
+a38 2
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><LI></FONT><A HREF="http://icse98.aist-nara.ac.jp/admin/icse97/"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B$3$A$i$N%5%$%H$K;}$C$F$-$F$$$k%U%!%$%k(B</FONT></A> </LI>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><LI></FONT><A HREF="http://www.ics.uci.edu/icse97/index.html"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B8x<0(BWEB$B$X$N%j%s%/(B</FONT></A> <FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B$3$A$i$NJ}$,99?7$5$l$F$$$k2DG=@@-$,$"$j$^$9(B</FONT> </LI></UL>
+d40 3
+a42 3
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><P><HR></P>
+</FONT><H3>$B%a!<%k%j%9%H!&%"!<%+%$%V!'(B </H3>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><P>$B%a!<%k%j%9%H$K$D$$$F!'(B</FONT> <FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B9qFb;vL3O"MmMQ$K8=:_0J2<$N%a!<%j%s%0%j%9%H$,1?MQ$5$l$F$$$^$9!%(B</FONT> <FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B3F%j%9%H$N2a5n$N%a!<%k0l$*$h$SEPO?%a%s%P!<$r;2>H$9$k$3$H$,$G$-$^$9!%(B</FONT> </P>
+d45 14
+a58 14
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><LI></FONT><A HREF="../wizards/index.html"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B%(%0%<%/%F%#%V%a%s%P!<O"MmMQ(B</FONT></A> <FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">( </FONT><A HREF="mailto:icse98@@itc.aist-nara.ac.jp"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">icse98@@itc.aist-nara.ac.jp </FONT></A><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">) <BR>
+$B9qFb%9%F%"%j%s%0%a%s%P!<O"MmMQ!J%a%s%P!<0J30$O;2>H$G$-$^$;$s!K(B</FONT> </LI>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><LI></FONT><A HREF="./ML-committee.html"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B3F<o>.0Q0w2q0Q0wD9O"MmMQ(B</FONT></A> <FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">( </FONT><A HREF="mailto:icse98-committee@@itc.aist-nara.ac.jp"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">icse98-committee@@itc.aist-nara.ac.jp </FONT></A><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">) <BR>
+ICSE98$B3F<o>.0Q0w2q0Q0wD94V$NO"MmMQ(B</FONT> </LI>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><LI></FONT><A HREF="./jimu.html"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B;vL36IFbItO"MmMQ(B</FONT></A> <FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">( </FONT><A HREF="mailto:icse98-jimu@@itc.aist-nara.ac.jp"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">icse98-jimu@@itc.aist-nara.ac.jp </FONT></A><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">) <BR>
+ICSE98$B9qFb;vL36I!J(BNAIST$BFb$K@@_CV!K$N;vL3O"MmMQ(B</FONT> </LI>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><LI></FONT><A HREF="./all-staff.html"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$BA4BNO"MmMQ(B</FONT></A> <FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">( </FONT><A HREF="mailto:icse20-staff@@itc.aist-nara.ac.jp"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">icse98-all@@itc.aist-nara.ac.jp </FONT></A><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">) <BR>
+ICSE98$B$N3F<o0Q0w2q0Q0wD9$*$h$S;vL36I0w$J$I!$$9$Y$F$N%9%?%C%U$X(B</FONT> <FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">$B$NO"MmMQ(B</FONT> </LI></UL>
+
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><P><HR></P>
+<P></FONT><A HREF="../index.html"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">[ICSE98$BBP30%"%J%&%s%9MQ$N%Z!<%8(B] </FONT></A></P>
+<FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA"><P><HR></P>
+<P><SMALL>This WWW server is supported by </FONT><A HREF="http://itcw3.aist-nara.ac.jp/"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">Information Technology Center</FONT></A><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">, at </FONT><A HREF="http://www.aist-nara.ac.jp/"><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">Nara Institute of Science and Technology </FONT></A><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">,JAPAN <BR>
+This page is currently managed by: </FONT><A HREF="mailto:iida@@itc.aist-nara.ac.jp"><I><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">iida@@itc.aist-nara.ac.jp</I></FONT></A><FONT FACE="$B#M#S(B $BL@@D+(B" LANG="JA">. <BR>
+@

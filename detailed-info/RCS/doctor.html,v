@@ -1,0 +1,93 @@
+head	1.1;
+access;
+symbols;
+locks
+	iida:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	97.05.09.03.58.52;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<HTML>
+<HEAD>
+<TITLE>The annual International Conference on Software Engineering (ICSE) is the leading forum for the exchange of ideas on all aspects of software engineering
+</TITLE>
+
+</HEAD>
+<BODY bgcolor=white text=black>
+
+<A NAME="doctor"></A><CENTER><FONT SIZE=5 FACE="Optimum">DOCTORAL SYMPOSIUM</FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">AIM</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">ICSE'98 will host a forum
+for graduate students to present and discuss their dissertation
+research objectives, approaches and preliminary results. Doctoral
+students, who are within approximately one year of thesis completion,
+are invited to apply to the Doctoral Symposium, a closed session
+in which a group of students present their research and get useful
+guidance and comments from established researchers and other doctoral
+students. The one-day symposium aims to broaden the perspectives
+of new entrants to the software engineering research community
+and to provide constructive comments on the ongoing thesis research.
+</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">As the systems of doctoral
+courses are different by cultures, we are expecting participants
+coming from America, Europe, Asia-Pacific and all over the world.
+We plan to invite people from typical academic cultures to explain
+their doctoral systems so that we can compare and discuss differences
+between countries.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">HOW TO APPLY</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">We are looking for students
+who are advanced enough to have a specific research proposal and
+some preliminary results, but with sufficient time remaining to
+thesis completion to benefit from the symposium experience. Application
+forms for describing the thesis topic and progress are available
+from the Symposium chair. A letter of recommendation from the
+student's thesis advisor is also required. The applications are
+reviewed by the committee, and acceptance and rejection will be
+notified. Students selected as participants will receive partial
+reimbursement for conference-related expenses.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SEND TO</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Doctoral Symposium Chair 
+<BR>
+Tetsuo Tamai</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Graduate School of Arts and
+Sciences <BR>
+University of Tokyo<BR>
+3-8-1 Komaba, Meguro-ku<BR>
+Tokyo 153, Japan<BR>
+TEL: +81-3-5454-6847<BR>
+FAX: +81-3-5454-6845<BR>
+E-MAIL: tamai@@graco.c.u-tokyo.ac.jp<BR>
+</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">DEADLINE </FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Students may request application
+forms by electronic mail beginning October 1997. <BR>
+Applications are due no later than 1 November 1997.<BR>
+Notification of acceptance will be by 10 January 1998. </FONT>
+<HR>
+<P>
+</body>
+</html>@

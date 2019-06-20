@@ -1,0 +1,301 @@
+
+		  Preliminary Announcement
+     
+		     FORGING NEW LINKS
+     
+		The 20th International Conference 
+		 on Software Engineering (ICSE98)
+			in Kyoto, JAPAN
+     
+			April 19~25, 1998
+     
+Sponsored by 
+ Science Council of Japan
+ Information Processing Society of Japan
+ Japan Society for Software Science and Technology 
+ IEEE Computer Society Technical Council on Software Engineering
+ ACM Special Interest Group on Software Engineering 
+     
+Corporate Sponsors (Tentative)
+ Nippon Telegraph and Telephone Corporation 
+ Nihon Keizai Shimbun, Inc.
+     
+For more information:
+http://icse98.aist-nara.ac.jp/
+e-mail:icse98-info@itc.aist-nara.ac.jp 
+     
+The annual International Conference on Software Engineering (ICSE) is 
+the leading forum for the exchange of ideas on all aspects of software 
+engineering. ICSE98 invites you to submit work to share with the ICSE 
+community.
+     
+ICSE 98 encourages submissions from the many perspectives that 
+contribute to the whole of Software Engineering. We particularly 
+encourage papers addressing topics wherein software engineering issues 
+play a key role, but where those topics have not been highlighted in 
+previous ICSEs. We encourage discussions of both the process and 
+outcome of research concerning design, engineering, development, 
+installation, use, and maintenance.  
+   Different classes of contributions are sought, ranging from research 
+papers to lessons and status reports from software engineering 
+organizations. The ultimate goal is to build a rich and comprehensive 
+conference program that can fit the interests and needs of different 
+classes of attendees: professionals, researchers, managers, and 
+students.  
+     
+     
+     
+Submission Categories
+     
+Note: If you decide to submit, you should look into the ICSE98 Home 
+Page (http://icse98.aist-nara.ac.jp/) to get the necessary information 
+for the submission. 
+ - - - - - - - - - - - - - - - - - - - -
+Techinical Papers:
+     
+Papers describe innovative and significant work in the research and 
+practice of Software Engineering.  The title and abstract of every 
+submission must be transmitted by email to icse-98-papers@cs.ucsb.edu 
+by the deadline for abstracts. Then the full paper, no longer than 10 
+pages in the conference proceedings format 
+(http://icse98.aist-nara.ac.jp/pubform/), including 
+references, appendices and figures, must be sent. The full papers may 
+not be submitted electronically; six paper copies are required.
+     
+Send to
+Richard A. Kemmerer
+ICSE 98 Program Co-Chair
+Computer Science Department
+University of California, Santa Barbara 
+Santa Barbara, CA 93106
+USA
+E-MAIL: icse-98-papers@cs.ucsb.edu 
+     
+Deadline 20 August 1997 (electronic abstract)
+  3 September 1997 (full paper due)
+     
+ - - - - - - - - - - - - - - - - - - - -
+Panels:
+     
+The aim of the ICSE 98 panels is to stimulate discussion about ideas 
+and issues of crucial importance to the software engineering 
+community. Panel proposal should be sent via e-mail to both of the 
+program co-chairs. The proposal should contain one-page description of 
+the topic, one-page description of the panel format, and one-page 
+summary of the organizer(s) and all the panelists.
+     
+Send to
+Kokichi Futatsugi
+ICSE98 Program Co-Chair
+E-MAIL: icse-98-panels@ldl.jaist.ac.jp   and 
+Richard A. Kemmerer
+ICSE 98 Program Co-Chair
+E-MAIL: icse-98-panels@cs.ucsb.edu
+     
+Deadline 20 September 1997
+      - - - - - - - - - - - - - - - - - - - -
+Lessons and Status Reports:
+     
+The reports are intended to provide software engineering professionals 
+with a picture of practices, procedures, techniques, products, and 
+organizational structures. We encourage submissions from institutions, 
+organizations, and groups within companies, universities, and 
+government. Submissions may be from organizations of any size and any 
+maturity level, ranging from small software development teams to larger 
+teams of professional software developers working in large companies. 
+Send two page report in the conference proceeding format (http: 
+//icse98.aist-nara.ac.jp/pubform/).
+
+Send to
+Motoei AZUMA,
+Department of Industrial and Management Systems Engineering 
+Waseda University
+Okubo, Shinjuku-ku, Tokyo 169, Japan 
+TEL: +81-3-5286-3302
+FAX: +81-3-3200-2567
+E-MAIL: ICSE-LSR@azuma.mgmt.waseda.ac.jp
+     
+Deadline  1 December 1997
+     
+ - - - - - - - - - - - - - - - - - - - -
+Posters and Research Demonstrations:
+     
+Posters are used to present various types of work in software 
+engineering interactively. Display space will be provided in the 
+poster and research demonstration room. Research demonstrations will 
+be scheduled into blocks of time for demonstration. Authors should 
+prepare a four page description of their poster and research 
+demonstration proposal for review.
+     
+Send to
+Yoshiaki Fukazawa 
+Waseda University 
+3-4-1, Ohkubo, Shinjuku-ku, 
+Tokyo 169 JAPAN
+E-MAIL : fukazawa@fuka.info.waseda.ac.jp
+     
+Deadline 1 January 1998
+     
+ - - - - - - - - - - - - - - - - - - - -
+Doctoral Symposium:
+     
+We are looking for students who are advanced enough to have a specific 
+research proposal and some preliminary results, but with sufficient 
+time remaining to thesis completion to benefit from the symposium 
+experience. Application forms for describing the thesis topic and 
+progress are available from the symposium chair. A letter of 
+recommendation from the student's thesis advisor is also required.
+     
+Send to
+Tetsuo Tamai 
+Doctoral Symposium Chair 
+Graduate School of Arts and Sciences 
+University of Tokyo
+3-8-1 Komaba, Meguro-ku
+Tokyo 153, Japan
+TEL: +81-3-5454-6847
+FAX: +81-3-5454-6845
+E-MAIL: tamai@graco.c.u-tokyo.ac.jp
+   Deadline1 1 November 1997 
+     
+ - - - - - - - - - - - - - - - - - - - -
+Tutorials:
+     
+Proposals for full-day (6 hours) or half-day (3 hours) tutorials are 
+solicited. Tutorial proposals (of ten pages or less) for review, which 
+have to contain title, aims, and other necessary information (check 
+ICSE98 home page) should be submitted.
+     
+Send to
+Tutorial Co-Chairs
+Motoshi Saeki
+Dept. of Computer Science
+Tokyo Institute of Technology
+Ookayama 2-12-1, Meguro-ku,
+Tokyo 152, Japan
+TEL: +81-3-5734-2192
+FAX: +81-3-5734-2911
+E-MAIL: saeki@cs.titech.ac.jp
+     
+Deadline 6 October 1997 
+ - - - - - - - - - - - - - - - - - - - -
+Workshops:
+     
+Workshops provide a forum for a group of participants to exchange 
+opinions on topics in either research or applications. Prepare a 
+three-page proposal for the workshop review committee.
+     
+Send to
+Mikio Aoyama
+Global Development Division
+Fujitsu Limited
+2-12-5 Shimo-kodanaka, Nakahara-ku
+Kawasaki 211, Japan
+TEL: +81-44-754-4139
+FAX: +81-44-754-4140
+E-MAIL: mikio@csd.ts.fujitsu.co.jp 
+     
+Deadline 1 July 1997
+     
+ - - - - - - - - - - - - - - - - - - - -
+Exhibition:
+     
+The Exhibit offers commercial exhibit space to vendors as well as 
+research exhibit space for products by academic and government 
+research laboratories. Proposals and questions should be directed to 
+the following.
+     
+Contact
+Shinichi Honiden
+ICSE EXPO'98 Producer Office
+c/o Nikkei Advertising Co., LTD.
+Nikkei Koraibashi Bldg., 1-4-2
+Koraibashi, Chuo-ku, Osaka 541
+Japan
+TEL: +81-6-231-9808
+FAX: +81-6-229-1780
+E-MAIL: icseexpo@po.iijnet.or.jp 
+     
+ - - - - - - - - - - - - - - - - - - - -
+Asia Pacific Forum:
+     
+ICSE98 provides an opportunity for exchanging ideas and/or information 
+for researchers and practitioners in Asia-Pacific Region. Prepare a 
+two-page proposal which contains, theme and objective of the event, 
+desired number of participants, participant solicitation and selection 
+process, planned activities including time length and requirement for 
+rooms, and brief description of organizers' background. 
+     Send to
+Kouichi Kishida
+Technical Director
+Software Research Associates, Inc.
+3-12 Yotsuya, Shinjuku-ku, 
+Tokyo 160 JAPAN
+TEL: +81-3-3357-1507
+FAX: +81-3-3351-0880
+E-MAIL: k2@sra.co.jp
+     
+Deadline 1 July 1997  
+ - - - - - - - - - - - - - - - - - - - -
+     
+ICSE98 Committee Chairs
+     
+General Chair
+ Koji Torii (NAIST, Japan)
+Technical Chair
+ Takuya Katayama (JAIST, Japan)
+ David Notkin (U.of Washington,USA)
+Program Committee
+ Kokichi Futatsugi (JAIST, Japan)
+ Richard Kemmerer (UCSB, USA)
+Lessons & Status Reports
+ Motoei Azuma (WasedaU., Japan)
+ Richard E. Fairley (Colorado Tech, USA) 
+ Mario Fusani (CNDE, Italy)
+Poster & Research Demonstration
+ Yoshiaki Fukazawa (Waseda U., Japan) 
+ Ray Offen (Macquarie U., Australia)
+Doctoral Symposium
+ Simon Kaplan (U. of Queensland, Australia) 
+ Tetsuo Tamai (Tokyo U., Japan)
+Tutorials
+ Gail Murphy (U. of British Columbia, Canada) 
+ Bashar Nuseibeh (Imperial College, UK) 
+ Motoshi Saeki (TITEC, Japan)
+Workshops 
+ Mikio Aoyama (NIIT, Japan)
+ Frances Paulish (Siemens, Germany)
+ Dewayne Perry (Bell Lab, USA)
+Exhibition
+ Shinichi Honiden (Toshiba, Japan)
+ Bernd J. Kraemer (Fern U. Hagen, Germany)
+ Anthony Wasserman (Software Methods & Tools, USA)
+Asia Pacific
+ Dines Bjorner (UNU/IIST, Macao)
+ Kouichi Kishida (SRA, Japan)
+Operating Chair
+ Norihisa Doi (Keio U., Japan)
+Publicity
+ Katsuro Inoue (Osaka U., Japan)
+ Stan Jarzabek (National U of Singapore, Singapore) 
+ Andrew Vickers (U. York, UK)
+ Marvin Zelkowitz(U. Maryland, USA)
+Technology Support
+ Ichiro Morihara (NTT, Japan)
+Publication
+ Tsuneo Ajisaka (Wakayama U., Japan)
+ Hiroyuki Tarumi (Kyoto U., Japan)
+Local Arrangement
+ Kiyoshi Agusa (Nagoya U., Japan)
+Registration
+ Ryohei Nakatsu (ATR, Japan)
+Treasurer 
+ Seishiro Tsuruho (NTT Data, Japan) 
+Secretariat
+ Masaki Koyama (NAIST, Japan)
+
+
+
+
+
+

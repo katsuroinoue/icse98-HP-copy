@@ -1,0 +1,40 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	97.04.28.16.13.39;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<HTML>
+<HEADER>
+<TITLE>“d˜b”Ô†•ë</TITLE>
+</HEADER>
+<BODY BGCOLOR=#AA9988 TEXT=#550000 LINK=#FF0000>
+
+<PRE>
+<A HREF = "/misc/phone1.gif">A“1F-3F</A>
+<A HREF = "/misc/phone2.gif">A“4F-6F</A>
+<A HREF = "/misc/phone3.gif">A“7F,BF</A>
+<A HREF = "/misc/phone4.gif">B“1F-2F</A>
+<A HREF = "/misc/phone5.gif">B“3F-5F</A>
+<A HREF = "/misc/phone6.gif">B“6F-7F</A>
+</PRE>
+
+</BODY>
+</HTML>
+@

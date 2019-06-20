@@ -1,0 +1,1023 @@
+   **************************************************************************
+   *     	    ADVANCE PROGRAM & REGISTRATION                          *
+   *    The 20th International Conference on Software Engineering(ICSE98)   *
+   *			April 19-25, 1998                                   *
+   *		Kyoto International Conference Hall, Kyoto, JAPAN           *
+   *		    http://icse98.aist-nara.ac.jp/                          *
+   **************************************************************************
+
+ICSE's twentieth birthday affords an opportunity to reflect on
+profound changes of the past two decades. Since ICSE's founding,
+politics and technology have converged to shatter once formidable
+barriers to international cooperation.
+
+The collapse of the Berlin Wall symbolizes the end of the Cold War,
+and links in a Web page are a metaphor for our enhanced capacity for
+global information exchange. In this spirit, we have worked hard to
+ensure that ICSE98 will see an unprecedented increase in the level of
+international participation and provide an opportunity to highlight
+the interests and accomplishments of members from the Asian-Pacific
+region. Yet our outreach must extend beyond geography. As we continue
+to build bridges to other software disciplines, researchers and
+practitioners in allied fields will benefit from an understanding of
+the contributions that software engineering can make to their work. In
+turn, we must address their problems in our research.
+
+New collaborations between academia and industry will also enrich
+ICSE98 and our profession as a whole. The presentation of top-notch
+papers will, of course, constitute the core activity of
+ICSE98. Cutting edge research will be showcased in technical paper
+sessions, workshops, panels, posters, demonstrations, and special
+sessions devoted to the lessons learned from building large and
+complex software systems.  We hope you will take advantage of this
+unique opportunity to meet new colleagues, exchange ideas, and explore
+the nearly limitless possibilities that lie ahead. Join us in Kyoto
+for ICSE98 and share the excitement that comes from forging new links.
+
+Koji Torii, ICSE98 General Chair 
+Kokichi Futatsugi and Richard Kemmerer, ICSE98 Program Co-chairs
+
+Sponsored by
+	Science Council of Japan
+	Information Processing Society of Japan
+	Japan Society of Software Science Technology
+	IEEE Computer Society, Technical Council on Software Engineering
+	ACM Special Interest Group on Software Engineering
+In cooperation with
+	Ministry of Education, Science, Sports and Culture
+	Ministry of Posts and Telecommunications
+	City of Kyoto
+	National Institute of Standards and Techology
+
+Corporate Sponsors
+	Nippon Telegraph and Telephone Corporation
+	NihonKeizai Shimbun,Inc.	
+
+		      *************
+			Tutorials
+		      *************
+		APRIL 20 (MONDAY) 1998
+		Morning (9:30 - 13:00)
+TH01: Software Patterns
+   Ralph Johnson (University of Illinois)
+TH02: Software Testing and Analysis for Practitioners
+   Mauro Pezze' (Politecnico di Milano) and Michal Young (University of Oregon)
+TH03: The Objectory Process
+   Philippe Kruchten (Rational Software Corporation)
+TH04: Cleanroom's Place in Today's Software development World
+   Charles Engle and Dave Fuhrer (Q-labs)
+		Afternoon (14:00 - 17:30)
+TH05: Using Design Patterns to Construct Frameworks
+   Ralph Johnson  (University of Illinois)
+TH06: Introducing the Unified Modeling Language (UML)
+   Stephen Morris  (The City University, London)
+TH07: C++ for Software Engineering: Standard Solutions for Standard Problems
+   Mehdi Jazayeri and Georg Trausmuth (Technical University of Vienna)
+TH08: Software Surgery
+   Keith Gallagher  (Loyola College)
+		Full day (9:30 - 17:00)
+TF01: The Experience Factory: How to Build and Run One
+   Victor Basili and Frank McGarry  (University of Maryland)
+
+		APRIL 21 (TUESDAY) 1998
+		Morning (9:30 - 13:00)
+TH09: Requirements Analysis for Evolving Systems
+   Colin Potts (Georgia Institute of Technology)
+TH10: An Introduction to OMG/CORBA
+   Wolfgang Emmerich (University College London)
+TH11: COTS Product and Technology Evaluation: Concepts and Pragmatics
+   Kurt Wallnau and David Carney (Software Engineering Institute)
+		Afternoon (14:00 - 17:30)
+TH12: Java (title tentative)
+   James Gosling (Sun Microsystems)
+TH13: Distributed Software Architectures
+   Jeff Kramer and Jeff Magee (Imperial College)
+TH14: What Every Software Engineer Should Know about Hypermedia for
+  Designing World Wide Web Applications
+   Michael Bieber (New Jersey Institute of Technology)
+		Full-day (9:30 - 17:00)
+TF02: Design by Contract
+   Bertrand Meyer (Interactive Software Engineering Inc.)
+TF03: Software Forensics: Digging through the data
+   Shari Lawrence Pfleeger (Systems/Software, Inc.)
+
+	      **********************
+		Technical Program
+	      **********************
+Lessons and Status Reports, Mini-Tutorial, and Demonstration Sessions
+will be announced in the final program or WEB site
+ http://icse98.aist-nara.ac.jp/.
+
+		APRIL 22 (WEDNESDAY) 1998
+			MORNING
+W1: Plenary Session
+- Opening Remarks
+- Invited Presentation, Nobuaki Kumagai (Past President of Osaka U., Japan)
+			AFTERNOON
+W2-1: Experiences with Software Process Improvement
+- Agile Software Process and Its Experience, Mikio Aoyama (Nigata 
+  Institute of Tech., Japan)
+- Software Process Modeling and Enactment: An Experience Report Related 
+  to Problem Tracking in an Industrial 
+  Project, Volker Gruhn (U. of Dortmund, Germany), Juri Urbainczyk 
+  (Open Software Associates, Germany)
+- Toward Computational Support for Software Process Improvement Activities,
+  Keishi Sakamoto (OMRON Corp., Japan), Kumiyo Nakakoji (Nara Institute 
+  of Science and Tech., Japan), Naoki Niihara, Yasunari Takagi (OMRON Corp., 
+  Japan)
+W2-2: Formal Modeling
+- Modeling and Analysis of a Virtual Reality System with Time Petri Nets,
+  Rajesh Mascarenhas (Sybase Inc., USA), Dinkar Karumuri (Oracle Consulting,
+  USA), Ugo Buy (U. of Illinois, USA), Robert Kenyon (U. of Illinois, USA)
+- Specification and Verification of an Object Request Broker, Gregory Duval
+  (EPFL, Switzerland)
+- Integrating Obstacles in Goal-Driven Requirements Engineering, Axel van
+   Lamsweerde, Emmanuel Letier (U. Catholique de Louvain, Belgium)
+W2-3: Panel - Critical Issues in Software Evolution
+  Dewayne Perry (Bell Lab., USA), et. al.
+W3-1: Reverse Engineering
+- Conceptual Module Querying for Software Reengineering, Elisa Baniassad,
+  Gail Murphy (U. of British Columbia, Canada)
+- Reuse-Driven Interprocedural Slicing, Mary Jean Harrold, Ning Ci (Ohio
+  State U., USA)
+- Extracting Concepts from File Names: A New File Clustering Criterion,
+  Nicolas Anquetil, Timothy Lethbridge (U. of Ottawa, Canada)
+W3-2: Formal Methods and Object Orientation
+- Blending Object-Z and Timed CSP: An Introduction to TCOZ, Brendan Mahony
+  (Dept. of Defence, Australia), Jin Song Dong (CSIRO, Australia)
+- Three Dimensional Software Modeling, Joseph Gil (Israel Institute of Tech.,
+  Israel), Stuart Kent (U. of Brighton, UK)
+- Formalizing Design Patterns, Tommi Mikkonen (Tampere U. of Tech., Finland)
+W3-3: Panel - Computing and Communication in the Age of Mobility
+  Gruia-Catalin Roman (Washington U. in Saint Louis, USA), et. al.
+Welcome Party
+
+		APRIL 23 (THURSDAY) 1998
+			MORNING
+T1: Plenary Session
+  Keynote Presentation, James Gosling (SUN, USA)
+T2-1: Internet/Mobile Code/Security
+- Techniques for Trusted Software Engineering, Premkumar Devanbu 
+  (U. of California Davis, USA), Philip Fong (Simon Fraser U., Canada),
+   Stuart Stubblebine (AT&T Lab., USA)
+- An Approach to Large-Scale Collection of Application Usage Data over
+   the Internet, David Hilbert, David Redmiles (U. of California Irvine, USA)
+- Evaluating the Tradeoffs of Mobile Code Design Paradigms in Network 
+  Management Applications, Mario Baldi, Gian Pietro Picco (Politecnico di
+  Torino, Italy)
+T2-2: Software Evolution
+- The Use of Goals to Surface Requirements for Evolving Systems, Annie Anton
+  (U. of South Florida, USA), Colin Potts (Georgia Institute of Tech., USA)
+- Promises: Limited Specifications for Analysis and Manipulation, Edwin Chan,
+  John Boyland, William Scherlis (Carnegie Mellon U., USA)
+- Architecture-Based Runtime Software Evolution, Peyman Oreizy, Nenad 
+  Medvidovic, Richard Taylor (U. of California Irvine, USA)
+T2-3: Panel - Are Methods Really Useful?
+  Motoshi Saeki (Tokyo Inst. of Tech, Japan), Leon Osterweil (University of
+  Massachusetts), Mehmet Aksit (University of Twente) et.al.
+
+			AFTERNOON
+T3-1: Testing
+- An Empirical Study of Regression Test Selection Techniques, Todd Graves
+  (Bell Lab., USA), Mary Jean Harrold (Ohio State U., USA), Jung-Min Kim,
+  Adam Porter (U. of Maryland, USA), Gregg Rothermel (Oregon State U., USA)
+- What You See Is What You Test: A Methodology for Testing Form-Based Visual
+  Programs, Gregg Rothermel, Lixin Li, Christopher DuPuis, Margaret Burnett
+  (Oregon State U., USA)
+T3-2: Novel Approaches to Design and Validation
+- Integrating Architecture Description Languages with a Standard Design
+  Method, Jason Robbins, Nenad Medvidovic, David Redmiles, David Rosenblum
+  (U. of California Irvine, USA)
+- Assisting the Automated Validation Process of User Interfaces Systems, Bruno
+  d'Ausbourg, Christel Seguin, Guy Durrieu, Pierre Roche (ONERA-CERT, France)
+T3-3: Managing Objects
+- Consistency Management for Complex Applications, Peri Tarr (IBM, USA), Lori
+  Clarke (U. of Massachusetts, USA)
+- Reifying Configuration Management for Object-Oriented Software, J-M Jezequel
+  (Irisa/CNRS, France)
+T4: Plenary Session
+Most Influential Paper from ICSE-10
+T5-1: Large Scale and Complex System Development
+- Parallel Changes in Large Scale Software Development: An Observational Case
+  Study, Dewayne Perry, Harvey Siy, Lawrence Votta (Bell Lab., USA)
+- Exploiting an Event-Based Infrastructure to Develop Complex Distributed
+  Systems, G. Cugola, E. Di Nitto, A. Fuggetta (Politecnico di Milano, Italy)
+- Conceptual Simplicity Meets Organizational Complexity: Case Study of a 
+  Corporate Metrics Program, James Herbsleb, Rebecca Grinter (Bell Lab., USA)
+T5-2: Computer Supported Cooperative Work
+- An Adaptable Generation Approach to Agenda Management, Eric McCall, Lori
+  Clarke, Leon Osterweil, (U. of Massachusetts, USA)
+- Measuring Cognitive Activities in Software Engineering, Pierre Robillard,
+  Patrick d'Astous (Ecole Polytechnique de Montreal, Canada), Francoise
+  Detienne, Willemien Visser (INRIA, France)
+T5-3: Panel - Component-Based Software Engineering
+  Mikio Aoyama (Niigata Inst. of Tech., Japan), et. al. 
+Conference Banquet
+
+		APRIL 24 (FRIDAY) 1998
+			MORNING
+F1: Plenary Session
+- Keynote Presentation: Cordell Green, Kestrel Institute
+F2-1: Object-Oriented Technology
+- Design Components: Towards Software Composition at the Design Level,
+  Rudolf Keller, Reinhard Schauer (U. de Montreal, Canada)
+- Non-Intrusive Object Introspection in C++: Architecture and Application,
+  Tyng-Ruey Chuang, Y. S. Kuo, Chien-Min Wang (Academia Sinica, Taiwan)
+- Object Oriented Reuse: Experience in Developing a Framework for Speech
+  Recognition Applications, Savitha Srinivasan, John Vergo (IBM, USA)
+F2-2: Project Estimation and Simulation
+- Evaluation of Subjective Effort Estimation Techniques, Martin Hoest, Claes
+  Wohlin (Lund U., Sweden)
+- Using Simulation to Build Inspection Efficiency Benchmarks for Development
+  Projects, Lionel Briand, Khaled El Emam, Oliver Laitenberger (Fraunhofer
+  IESE, Germany), Thomas Fussbroich (U. of Kaiserslautern, Germany)
+- A Learning Curve Based Simulation Model for Software Development, Noriko
+  Hanakawa, Syuji Morisaki, Ken-ichi Matsumoto (Nara Institute of Science
+  and Tech., Japan)
+F2-3: Panel - Formal Methods in the 21st Century (Tentative)
+  TBD
+			AFTERNOON
+F3-1: Project and Workflow Management
+- The Ramp-Up Problem in Software Projects: A Case Study of How Software
+  Immigrants Naturalize, Susan Sim (U. of Toronto, Canada), Richard Holt
+  (U. of Waterloo, Canada)
+- Overcoming the NAH Syndrome for Inspection Deployment, Pankaj Jalote, 
+  S. Haragopal (Infosys Technologies Ltd., India)
+- Workflow Management Based on Process Model Repositories, Volker Gruhn
+  (U. of Dortmund, Germany), Monika Schneider (o.tel.o service GmbH, Germany)
+F3-2: Estimation Technologies
+- A Hybrid Method for Software Cost Estimation and Risk Assessment, Lionel
+  Briand, Khaled El Emam, Frank Bomarius (Fraunhofer IESE, Germany)
+- Defect Content Estimations from Review Data, Claes Wohlin, Per Runeson
+  (Lund U., Sweden)
+- Analyzing Effects of Cost Estimation Accuracy on Quality and Productivity,
+  Osamu Mizuno, Tohru Kikuno (Osaka U., Japan), Katsumi Inagaki, Yasunari
+  Takagi, Keishi Sakamoto (OMRON Corp., Japan)
+F3-3: Panel -  Are New-Generation Architecture Description Language Useful?
+  John Salasin (DOD, USA), Barry W. Boehm (USC, USA), David Garlan (CMU, USA),
+  Alex Wolf (U. of Colorado, USA) et. al.
+F4: Plenary Session
+- Closing Panel: TBD
+- Closing Remarks
+
+               *************************************
+		Posters and Research Demonstrations
+               *************************************
+Posters and Research Demonstrations provide an excellent opportunity
+to show late-breaking results and to discuss the results with the
+conference participants. Interactive communication and demonstration
+will be the most exciting and powerful presentation.
+
+Posters: All types of work in software engineering can be presented
+effectively using posters during the conference. Display space will be
+provided in the poster and research demonstration room. A description
+of each poster will appear in the proceedings for posters and research
+demonstrations.
+
+Research Demonstrations: Research demonstrations are intended to show
+early implementation of novel software engineering concepts. Research
+demonstrations will be scheduled into blocks of time for
+demonstration. In addition, a booth will be provided in the poster and
+research demonstration room to allow informal demonstrations
+throughout the conference. A description of each research
+demonstration will appear in the proceedings for research
+demonstrations. We consider any system which is at least six months
+away from appearing in a commercial product as a "research
+system". Commercial systems will not be accepted as research
+demonstrations.
+
+Contact: Yoshiaki Fukazawa  (fukazawa@fuka.info.waseda.ac.jp)
+
+                      *****************
+                       Joint Workshops
+                      *****************
+For details, please check each WWW page.
+
+WS01: IWSSD-9 (9th Int'l Workshop on Software Specification and Design) 
+  PC Co-chairs: A. Finkelstein (Imperial College, UK) and U. Buy (U. 
+  Illinois at Chicago, USA)
+  Date: April 16-18, 1998
+  Place: Ise-shima Royal Hotel (This workshop only)
+  Contact: M. Saeki (TIT, Japan), E-mail saeki@cs.titech.ac.jp
+  http://salab-www.cs.titech.ac.jp/iwssd9.html
+
+Topics: The IWSSD is a leading international forum for research on
+software architecture, concurrent, distributed and real-time systems,
+formal models, and requirements and design methods.IWSSD-9 will use
+working-group discussions in order for participants to focus on their
+shared concerns in representing and reasoning about models of
+software-intensive systems.
+
+WS02: ISORC'98 (Int'l Symposium on Object-oriented Real-time Distributed
+  Computing)
+  General Co-chairs: K. Kim (U.C. Irvine, USA), K. Mori (Tokyo Inst. of
+  Tech, Japan) and E. Nett (GMD, Germany)
+  Date: April 20-22, 1998
+  Contact: Chittur Subbaraman (U.C. Irvine, USA), 
+  E-mail: csubbara@ece.uci.edu
+  http://dream.eng.uci.edu/isorc/
+
+Topics: The ISORC is a new symposium series dealing with the emerging
+object-oriented real-time distributed computing (ORC) technology. The
+main technical theme of the ISORC is how to extend the well
+established object-oriented computing technology, i.e., the technology
+that has prevailed the non-real-time business data processing field in
+the past decade, into the technologies that are effectively applicable
+to various classes of real-time applications.
+
+WS03: PDSE'98 (Int'l Symp. on Software Engineering for Parallel and
+  Distributed systems) 
+  PC Co-chairs: B. Kraemer (Fern Universitaet Hagen, Germany) and N. 
+  Uchihira (Toshiba, Japan) 
+  Date: April 20-21, 1998
+  Contact: N. Uchihira, E-mail: uchi@ssel.toshiba.co.jp
+  http://www.dcs.shef.ac.uk/~prc/PDSE98/ or
+  http://www.ec.kyushu-u.ac.jp/~zengo/PDSE98/
+
+Topics: PDSE98 provides a forum for exchange of information and
+publication of the latest technological and theoretical advances in
+software engineering for parallel and distributed systems. Topics
+include development methodologies, software architectures, languages
+(eg Java), software reuse, testing and verification, performance
+modeling and prediction, practical experiences for parallel and
+distributed systems.
+
+WS04: Int'l Workshop on the Principles of Software Evolution
+  Organizer: T. Katayama (JAIST, Japan), D. Perry (Bell Labs, USA), et al.
+  Date: April 20-21, 1998
+  Contact: T. Katayama, E-mail: katayama@jaist.ac.jp
+  http://kt-www.jaist.ac.jp:8000/icse98.html
+
+Topics: Software evolution is widely recognized as one of the most
+important problems in software engineering.  Despite the significant
+amount of work that has been done, there are still fundamental
+problems to be solved. The purpose of this workshop is to discuss
+principles and mechanisms for software evolution.
+
+WS05: Int'l Workshop on Component-Based Software Engineering
+  PC Co-Chairs: K. Wallnau (SEI, USA), J. Ning (Andersen Consulting,
+  USA) and S. Uehara (Fujitsu Labs., Japan)
+  Date: April 25-26, 1998
+  Contact: K. Wallnau, E-mail: kcw@sei.cmu.edu
+  http://www.sei.cmu.edu/technology/dynamic_systems/cbs/icsewkshp.html
+
+Topics: The theme of this workshop is focused on component-management
+infrastructures?the software technology that supports development,
+execution, and deployment of component-based systems.
+
+WS06: Int'l Workshop on Aspect-Oriented Programming
+  PC Co-Chairs: C. V. Lopes (Xerox PARC, USA), G. Kiczales (Xerox PARC, USA),
+  G. Murphy (U. British Columbia, Canada) and A. Lee (Korea U., Korea)
+  Date: April 20, 1998
+  Contact: C. V. Lopes (Xerox PARC, U. S. A.)
+  E-mail: lopes@parc.xerox.com
+  http://www.parc.xerox.com/aop/icse98/
+
+Topics: migrating to aspects / software design with aspects / how to
+identify aspects / reusing aspects / aspect description languages /
+the effect of aspects on software structure / programming language and
+environment support / translation techniques / debugging and testing
+with aspects
+
+WS07: Software Engineering over the Internet
+  PC Co-Chairs & Contact: F. Maurer (U. Calgary, Canada)
+  E-mail: maurer@cpsc.ucalgary.ca
+  http://sern.cpsc.ucalgary.ca/~maurer/ICSE98WS/ICSE98WS.html
+  Date: April 25, 1998
+
+Topics: web-based software process modeling environments /distributed
+process enactment / replication support for software documents /
+distributed data repositories / world-wide configuration management
+support
+
+WS08: Engineering Hypertext for Future Information Systems
+  PC Co-Chairs: G. Rossi (LIFIA, Argentina) and 
+  H. Ziv (Quest Software and U.C. Irvine, USA)
+  Date: April 20, 1998
+  Contact: H. Ziv
+  E-mail: zivh@quests.com
+  http://www.ics.uci.edu/~kanderso/htf5/cfp.html or 
+  http://www.ep.cs.nott.ac.uk/HTF
+
+Topics: This workshop focuses on the value added to a system by
+hypertext and hypermedia support capabilities as well as the actual
+process of embedding hypertext functions into non-hypertext
+information systems. The main theme for this workshop is engineering
+hypertext functionality, i.e., various aspects of constructing
+hypertext capabilities.
+
+WS09: PSMT (Workshop on Precise Semantics for Software Modeling Techniques)
+  PC Co-Chairs: M. Broy (Tech. U. Munich, Germany), D. Coleman (Kings College,
+  UK), T. S. E. Maibaum (Imperial College, UK), and B. Rumpe (Tech. U. 
+  Munich, Germany)
+  Date: April 20, 1998
+  Contact: B. Rumpe 
+  E-mail: rumpe@informatik.tu-muenchen.de
+  http://www4.informatik.tu-muenchen.de/~rumpe/icse98-ws/
+
+WS10: Workshop on Human Dimensions in Successful Software Development
+  PC Chair & Contact: S. Murugesan (U. of Western Sydney Macarthur, Australia) 
+  E-mail: s.murugesan@uws.edu.au
+  http://btwebsh.macarthur.uws.edu.au/san/hudworkshop/
+  Date: April 21, 1998
+
+Topics: This workshop will focus on human dimensions in software
+development, implementation, utilization and maintenance and have a
+fresh and comprehensive look at a range of human issues that impede
+successful software development and what could be, or should be, done
+solve those problems.
+
+WS11: IWSEE5 (Int'l Workshop on Software Engineering Education)
+  Date: April 25, 1998
+  PC Chair & Contact: J. Jenkins (U. London, U.K.)
+  E-mail: J.O.Jenkins@city.ac.uk
+
+Topics: The workshop focuses on the following topics but not limited. 
+	Graduate programs in software engineering education 
+	Discussion of syllabuses
+  	Teaching and learning processes and assessment    
+
+WS12: MSE'98 (Int'l Workshop on Multimedia Software Engineering) 
+  Date: April 20-21, 1998
+  General Co-Chairs & Contact: J. Tsai (U. Illinois at Chicago, USA), 
+  tsai@eecs.uic.edu, and F. Bastani(General Co-Chair, U. Texas at Dallas,
+  USA), bastani@utdallas.edu
+  http://kel.eecs.uic.edu/MSE98/ 
+
+Topics: The purpose of this workshop is to bring together active
+researchers in the area of software engineering and multimedia systems
+to exchange and evaluate the issues, experience, and trends in this
+area. MSE'98 will be conducted as a combination of paper
+presentations, invited talks, and panel discussion.
+
+WS13: Int'l Workshop on Computing and Communication in the Presence of 
+  Mobility
+  Organizer C. Ghezzi (Politecnico di Milano, Italy)  and G.-C. Roman 
+  (Washington U. in St. Louis, U.S.A.)
+  Date: April 25, 1998
+  Submision Due: February 1, 1998
+  Contact: G.-C. Roman, E-mail: roman@cs.wustl.edu
+  http://www.cs.wustl.edu/~roman/ICSE-MOB/
+
+Topics: The immediate objective is to provide a forum for intellectual
+debate as well as a tutorial introduction for new comers to this
+field.  The ultimate goal is to define an influential research agenda
+for the area as a whole and to generate advocacy for it by stimulating
+new research initiatives.
+
+               ********************
+		Asia Pacific Forum 
+               ********************
+	Monday, April 20 - Tuesday, April 21 (Tentative)
+
+ICSE98 provides an opportunity for exchanging ideas and/or information
+for researchers and practitioners in Asia-Pacific Region. At ICSE17 in
+Seattle 1994, we had a workshop on "Asian Approaches to Software
+Engineering". It was very successful. We are planning to have a
+similar event in Kyoto. And it will also be possible to implement
+other plans such as to have a forum to discuss emerging Asian software
+markets, or for special exhibits of software engineering tools made in
+Asia. 
+Contact: Kouichi Kishida (k2@sra.co.jp)
+
+                ******************
+		Doctoral Symposium
+                ******************
+	Tuesday, April 21  9:00am-5:00pm
+
+The ICSE 98 Doctoral Symposium is a one day workshop prior to the
+regular ICSE technical conference. The goal of the doctoral symposium
+is to publicly discuss research goals, methods, and results at an
+early stage of Ph.D. research and provide useful guidance for
+completion of the dissertation research. The symposium will also
+provide an opportunity for student participants to interact with each
+other as well as with established researchers and engineers in the
+field.
+
+As the systems of doctoral courses are different by cultures, we are
+expecting participants coming from America, Europe, Asia-Pacific and
+all over the world. We also plan to discuss how common or different
+the doctoral systems are among countries.
+
+Contact: Tetsuo Tamai (tamai@graco.c.u-tokyo.ac.jp)
+
+                ************
+		ICSE98 EXPO	
+                ************	
+	Tuesday, April 21 - Friday, April 24
+
+The Exhibit offers commercial exhibit space to vendors as well as
+research exhibit space for products by academic and government
+research laboratories. There are two types of exhibits.
+     - Commercial products from vendors. 
+     - Research products from academia, industrial research laboratories,
+	 and government laboratories. 
+Some exhibit space remains, and applications will be accepted on a
+first-come first-served basis.
+Exhibitors in Alphabetical Order(tentative):
+
+Anritsu
+CSK
+DEC
+Fuji-Xerox
+Hewlett Packard
+Hitachi
+IBM
+NEC
+NTT DATA
+NTT Software
+OGIS Research Institute
+OMRON
+PFU
+Rikei
+SEKI TECHNOTRON
+SGI
+Sharp
+Software Research Associates
+Sumitomo Electric Industries
+Toshiba
+
+               *******************************************
+		WELCOME TO KYOTO IN CHERRY BLOSSOM SEASON
+			CITY OF HISTORY AND LEARNING 	
+               *******************************************
+Kyoto, a city with 1,200 years of history, is the cultural soul of
+Japan. Nestled among low mountains, it is blessed with both natural
+beauty and a rich historical legacy. It is the ideal site for
+international conventions. From its establishment as Japan's capital
+in 794 until the Meiji Restoration in 1868, Kyoto flourished as the
+center of government, commerce and culture in Japan. Traditional arts
+and an abundance of shrines and temples give the city its distinct
+character. With nearly 1.5 million residents, Kyoto is a vibrant
+mixture of old and new. Many high-tech firms have chosen it as their
+headquarters, and the city boasts 47 public and private colleges and
+universities. These significant intellectual resources combine with
+Kyoto's long history and tradition to provide an ideal milieu for
+innovation and creativity.
+			NATURAL BEAUTY 
+Kyoto is a panorama of the changing seasons: from the springtime
+cherry blossoms lining narrow walkways, the lush greenery of summer,
+to the brilliant autumn foliage of Japanese maples and the delicate
+layer of snow covering the surrounding mountainsides in winter. The
+passage of seasons is also evident in the beautiful gardens of Kyoto's
+ancient temples and shrines.
+			CULTURAL HERITAGE 
+Reflecting its long history as the cultural and religious center of
+Japan, Kyoto is home to nearly 2,000 Buddhist temples and Shinto
+shrines. The city's international cultural significance was recognized
+when 17 historical sites in Kyoto were designated as UNESCO World
+Cultural Heritage Sites. Kyoto is the location of 20% of Japan's
+national treasures. More than 60 museums throughout the city offer
+visitors the opportunity to view priceless works of art and important
+cultural objects.
+			KYOTO INTERNATIONAL CONFERENCE HALL 
+Japan's leading convention center, the Kyoto International Conference
+Hall, is a complex consisting of seven separate conference halls, the
+largest of which can hold 2,000 persons. Another 70 conference rooms
+of various sizes are available for smaller meetings. Two large banquet
+halls and a Japanese landscape garden offer additional settings for
+convention participants to meet and communicate informally.
+			TRANSPORT 
+Kyoto has many modern hotels with accommodations for up to 20,000
+visitors. Located near the center of Japan, it is readily accessible
+by land and air. The high-speed Shinkansen (bullet train) links Tokyo
+with Kyoto in 2 hours and 15 minutes. Overseas visitors arriving at
+Kansai International Airport (KIX) have a comfortable 75-minute ride
+by the JR Haruka Express train to Kyoto Station. There is a direct
+subway link from Kyoto Station to Kyoto International Conference Hall,
+taking about 20 minutes.
+
+                *************************
+		ICSE98 Committee Members
+                *************************
+General Chair
+Koji Torii (NAIST, Japan) torii@is.aist-nara.ac.jp 
+
+Technical Co-Chairs
+Takuya Katayama (JAIST, Japan) katayama@jaist.ac.jp 
+David Notkin(U.of Washington) notkin@cs.washington.edu 
+
+Program Committee Co-chairs
+Kokichi Futatsugi (JAIST, Japan) kokichi@jaist.ac.jp 
+Richard Kemmerer (UCSB, USA) kemm@cs.ucsb.edu 
+
+PC Members:
+Betty H.C. Cheng (Michigan State U, USA)
+Shing-Chi Cheung (Hong Kong U of Sci and Tech, Hong Kong)
+Lori A. Clarke (U of Massachusetts, USA)
+Michael Cusumano (MIT, USA)
+Premkumar Devanbu (U of Calf Davis, USA)
+Alfonso Fuggetta (Politecnico di Milano, Italy)
+John Gannon (U of Maryland, USA)
+David Garlan (CMU, USA)
+Richard Gerber (U of Maryland, USA)
+Carlo Ghezzi (Politecnico di Milano, USA)
+William Griswold (U of Calf San Diego, USA)
+Daniel Hoffman (U of Victoria, Canada)
+Shinichi Honiden (Toshiba, Japan)
+Susan Horwitz (U of Wisconsin, USA)
+Katsuro Inoue (Osaka U, Japan)
+Joxan Jaffar (National U of Singapore, Singapore)
+Mehdi Jazayeri (TU Vienna, Austria)
+Ross Jeffery (U of New South Wales, Australia)
+Dehua Ju (East China U of Sci and Tech, China)
+Kyo C. Kang (Pohang U of Sci and Tech, Korea)
+John C. Knight (U of Virginia, USA)
+Jeff Kramer (Imperial College of Sci Tech and Medicine, UK)
+Reino Kurki-Suonio (Tampere U of Technology, Finland)
+Axel van Lamsweerde (Universite Catholique de Louvain, Belgium) 
+Nancy Leveson (U of Washington, USA)
+Klaus-Peter Lohr (Freie U Berlin, Germany)
+Mark Moriconi (SRI, USA)
+Kumiyo Nakakoji (SRA & NAIST, Japan)
+Dewayne E. Perry (Bell Lab, USA)
+Adam Porter (U of Maryland, USA)
+Gruia-Catalin Roman (Washington U in St.Louis, USA)
+Motoshi Saeki (Tokyo Inst. of Tech., Japan)
+Wilhelm Schaefer (U Paderborn, Germany)
+Will Tracz (Lockheed Martin Federal Systems, USA)
+Alexander L. Wolf (U of Colorado, USA)
+Michal Young (U of Oregon, USA) 
+
+Lessons and Status Reports Chair
+Motoei Azuma(Waseda U., Japan) azuma@azuma.mgmt.waseda.ac.jp
+Asia Pacific Area Chair
+Ryoichi Hosoya (NTT, Japan)
+hosoya@slab.nett.co.jp
+LSR North and South America Area Chair
+Richard Fairley (Colorado Tech., USA) Dfairley@aol.com
+LSR Europe and Africa Area Chair
+Mario Fusani (CNDE, Italy) fusani@iei.pi.cnr.it 
+
+Lessons and Status Reports Members:
+Alain Abran (U. de Quebec a Montreal, Canada)
+Lorraine Duval (Kaman Sciences Corporation, USA)
+Hans-Ludwig Hausen (GMD Germany)
+Barbara Hoerger (Benz, Germany)
+Tomoji Kishi (NEC, Japan)
+Dan-Hyun Lee (SERI/KIST, Korea)
+Kiyoo Nakamura (Fujitsu, Japan)
+Akihiko Ohsuga (Toshiba, Japan)
+Jun Ohya (ATR, Japan)
+Shigeru Otsuki (Hitachi, Japan)
+Hugo Rehesaar (U.of New South Wales, Australia)
+Terry Rout (Griffit U., Australia)
+Walt Sccachi (USC,USA)
+Kenji Uehara (Mitsubishi, Japan) 
+Poster & Research Demo 
+Yoshiaki Fukazawa (Waseda U., Japan) fukazawa@cfi.waseda.ac.jp
+Ray Offen (Macquarie University, Australia) roffen@mpce.mq.edu.au
+
+Doctor Symposium 
+Simon Kaplan (U. of Queensland, Australia) s.kaplan@dstc.edu.au 
+Tetsuo Tamai (Tokyo U., Japan) tamai@graco.c.u-tokyo.ac.jp 
+
+Tutorials 
+Gail Murphy (U. of British Colombia, Canada) murphy@cs.ubc.ca 
+Bashar Nuseibeh (Imperial College, UK) ban@doc.ic.ac.uk
+Motoshi Saeki (TITEC, Japan) saeki@cs.titech.ac.jp 
+
+Workshops 
+Mikio Aoyama (NIIT, Japan) mikio@csd.ts.fujitsu.co.jp 
+Frances Paulish (Siemens, Germany)  Frances.Paulish@zfe.siemens.de 
+Dewayne Perry (Bell Lab, USA) dep@research.bell-labs.com
+
+Exhibition 
+Shinichi Honiden (Toshiba, Japan) honiden@ssel.toshiba.co.jp 
+Bernd J. Kraemer (Fern U. Hagen, Germany) 
+	bernd.kraemer@fernui-hagen.de 
+Anthony Wasserman (Software Methods & Tools, USA)  tonyw@methods-tools.com 
+
+Asia Pacific Forum
+Koichi Kishida (SRA, Japan) k2@sra.co.jp
+Dines Bjorner (UNU/IIST, Macao) db@iist.unu.edu
+Keijiro Araki (Kyushu U., Japan) araki@csce.kyushu-u.ac.jp 
+
+Operating Chair 
+Norihisa Doi (Keio U., Japan) doi@keio.ac.jp 
+
+Publicity
+Katsuro Inoue (Osaka U., Japan) inoue@ics.es.osaka-u.ac.jp 
+Stan Jarzabek (National U of Singapore, Singapore) stan@iscs.nus.sg 
+Andrew Vickers (U. York, UK) andyv@minster.york.ac.uk
+Marvin Zelkowitz(U. Maryland, USA) mvz@cs.umd.edu 
+
+Technical Service 
+Ichiro Morihara (NTT, Japan) morihara@sdc.bch.ksi.ntt.co.jp
+
+Publication
+Tsuneo Ajisaka (Wakayama U., Japan) ajisaka@sys.wakayama-u.ac.jp
+Masami Noro (Nanzan U., Japan) yoshie@iq.nanzan-u.ac.jp
+Hiroyuki Tarumi (Kyoto U., Japan) tarumi@kuis.kyoto-u.ac.jp
+
+Local Arrangement
+Kiyoshi Agusa (Nagoya U., Japan) agusa@nuie.nagoya-u.ac.jp 
+
+Registration 
+Ryohei Nakatsu (ATR, Japan) nakatsu@mic.atr.co.jp 
+
+Treasurer 
+Seishiro Tsuruho (NTT Data, Japan) tsuruho@plan.rd.nttdata.co.jp 
+
+Secretariat
+Masaki Koyama (NAIST, Japan) koyama@itc.aist-nara.ac.jp 
+
+
+ICSE98 Office
+C/O Kumiko Maemura/Torii Laboratory
+Graduate School of Information Science, Nara Institute of Sicence and
+ Technology
+8916-5, Takayama-cho, Nara 630-01, JAPAN
+Phone: +81-743-72-5314 / Fax: +81-743-72-5319
+icse98-info@itc.aist-nara.ac.jp
+http://icse98.aist-nara.ac.jp/
+
+
+                ***********************************
+		ICSE98 CONFERENCE REGISTRATION FORM
+                ***********************************
+We recommend using our web page for filling and printing this
+registration form. URL is http://icse98.aist-nara.ac.jp/registration/
+
+Early Registration .... Received before or on March 16, 1998 JST
+Late Registration ..... Received after March 16, 1998 JST
+
+A) Technical Program
+    Member	       Nonmember	       Student		 Fee Paid
+Early  Late/On-site  Early  Late/On-site   Early   Late/On-site
+40,000yen 52,000yen  52,000yen 65,000yen   20,000yen 25,000yen ______________
+* The registration fee for the technical program includes ONE copy
+ of the proceedings and tickets to social events (excluding banquets). 
+* Students must send a proof of eligibility with your registration form.
+
+B) Tutorials
+		Full Day Tutorials
+   Member                Nonmember                              Fee Paid
+Early    Late/On-site  Early   Late/On-site
+40,000yen 50,000yen   50,000yen 60,000 yen
+
+Monday, April 20, 1998
+__ TF01: The Experience Factory: How to Build and Run One       ______________
+Tuesday, April 21, 1998
+__ TF02: Design by Contract, or
+__ TF03: Software Forensics:  Digging through the data          ______________
+
+		Half Day Tutorials
+   Member                Nonmember                              Fee Paid
+Early  Late/On-site   Early  Late/On-site
+20,000yen 25,000yen   25,000yen 30,000 yen
+
+AM Monday, April 20, 1998
+__ TH01: Software Patterns, or
+__ TH02: Software Testing and Analysis for Practitioners, or
+__ TH03: The Objectory Process, or
+__ TH04: Cleanroom's Place in Today's Software development World ______________
+
+PM Monday, April 20, 1998
+__ TH05: Using Design Patterns to Construct Frameworks, or
+__ TH06: Introducing the Unified Modeling Language (UML), or
+__ TH07: C++ for Software Engineering: 
+         Standard Solutions for Standard Problems, or
+__ TH08: What Every Software Engineer Should Know about Hypermedia
+         for Designing World Wide Web Applications              ______________
+
+AM Tuesday, April 21, 1998
+__ TH09: Requirements Analysis for Evolving Systems, or
+__ TH10: An Introduction to OMG/CORBA, or
+__ TH11: COTS Product and Technology Evaluation: 
+         Concepts and Pragmatics                                ______________
+
+PM Tuesday, April 21, 1998
+__ TH12: Java (title tentative), or
+__ TH13: Distributed Software Architectures, or
+__ TH14:Software Surgery                                        ______________
+
+C) Workshops 
+  Some workshops are limited only to invited atendance. Please check the
+  web site before registration.
+
+   WS01: IWSSD-9 (9th Int'l Workshop on Software Specification and Design)
+   (Invited Only) Separately registered. 
+   Check  http://salab-www/cs.titech.ac.jp/iwssd9.html
+   WS02: ISORC98 (Int'l Symposium on Object-oriented Real-time distributed
+   Computing) Separately registered. Check http://dream.eng.uci.edu/isorc/
+__ WS03: PDSE'98 (Software Engineering on Parallel and Distributed systems)
+   Early: 15,000yen  Late: 18,000yen  Student: 12,000yen        ______________
+__ WS04: Int'l Workshop on the Principles of Software Evolution (Invited Only)
+   Early: 15,000yen  Late: 18,000yen  Student: 12,000yen        ______________
+__ WS05: Int'l Workshop on Component-Based Software Engineering
+   Early: 15,000yen  Late: 18,000yen  Student: 12,000yen        ______________
+__ WS06: Aspect-Oriented Programming Workshop
+   Early: 10,000yen  Late: 12,000yen  Student:   8,000yen       ______________
+__ WS07: Workshop on Software Engineering over the Internet
+   Early: 10,000yen  Late: 12,000yen  Student:   8,000yen       ______________
+__ WS08: Engineering Hypertext for Future Information Systems
+   Early: 10,000yen  Late: 12,000yen  Student:   8,000yen       ______________
+__ WS09: Workshop on Precise Semantics for Software Modeling Techniques
+   Early: 10,000yen  Late: 12,000yen  Student:   8,000yen       ______________
+__ WS10: Workshop on Human Dimensions in Successful Software Development
+   Early: 10,000yen  Late: 12,000yen  Student:   8,000yen       ______________
+__ WS11: IWSEE5 (Int'l Workshop on Software Engineering Education)
+   Early: 10,000yen  Late: 12,000yen  Student:   8,000yen       ______________
+__ WS12: Int'l Workshop on Multimedia Software Engineering
+   Early: 15,000yen Late: 18,000yen Student: 12,000yen          ______________
+__ WS13: Int'l Workshop on Computing and Communication in the Presence
+    of Mobility
+   Early: 10,000yen  Late: 12,000yen  Student:   8,000yen       ______________
+
+D) Banquet
+____ Will attend (5,000 yen)
+____ Will attend with my spouse (8,000 yen)
+If you select "Will attend with my spouse", please type your spouse's 
+Title & Name. This will be printed on your spouse's name card at the Banquet.
+Title & Name:   _______________________________________________________
+
+
+PLEASE PRINT/TYPE CLEARLY
+Title (check one):  Prof.__ Dr.__  Mr.__  Mrs.__ Ms. __
+
+First Name (Given Name)	  ______________________
+
+Middle Initial		  ______________________
+
+Last Name (Family/Surname)______________________
+
+Company / Organization	  _______________________________________________
+
+Abbreviation		  ______________________
+(The information above will be printed on your name card at the conference.)
+
+Mailing  Address	_________________________________________________
+
+_________________________________________________________________________
+
+_________________________________________________________________________
+
+City_________________ State_______________ Postal Code_____________ 
+
+Country_________________
+
+Phone _____________________
+
+Fax   _____________________
+
+E-mail _____________________
+
+Society Membership:
+__ IPSJ __ JSSST __ IEEE __ ACM
+Membership Number of Above Society  ________________________
+
+Indicate Payment Method:
+We cannot accept checks or money orders. 
+
+__ Wire Transfer (Please pay any transfer fee involved.) 
+	Account Name: ICSE98 
+	Saving Account Number: 259794
+	Nanto Bank, Tomigaoka Branch
+	Sender Name     _____________________
+	Transfer Date   ______________________
+
+__ VISA
+__ Master Card
+I authorize ICSE98 to apply the full balance due, for selected
+Registrations and Options, to my credit card.
+
+Credit Card Number _________________________________
+
+Name (as it appears on card) ______________________________
+
+Expiration Date  ____________________________
+
+Signature _________________________________ Date _________________
+
+TOTAL REMITTANCE (A+B+C+D):_________________
+ (must be in Japanese Yen)
+
+Notes:
+* The deadline for refund requests is April 6, 1998.
+* A 5,000 yen processing fee will be assessed for all refunds.
+
+MAIL OR FAX COMPLETED FORM WITH PAYMENT TO:
+ICSE98 Registration Office
+c/o ATR Media Interaction & Communications Research Laboratories
+2-2 Hikaridai, Seika-cho,       
+Soraku-gun, Kyoto 619-02 JAPAN  
+phone: +81-774-95-1430 fax: +81-774-98-2054
+e-mail: icse98-apply@mic.atr.co.jp
+
+
+                        ************************
+                         HOTEL RESERVATION FORM
+                        ************************
+April in Japan is the best tourism season and it will be very tight to
+make hotel and tour reservation, so we welcome your requests as early
+as possible. We have prepared the tours around Kyoto & Nara. If you
+need further information, please feel free to contact with KNT.
+
+Reserved Hotels List
+
+	Hotels   	Room Rate(yen)              Access to the venue
+A-1 Takaragaike Prince
+	S: ---		T/S:13,640	T:21,820	5 min.(walk)
+  (URL: http://www.princehotels.co.jp/kyoto-e/index.html)
+B-1 Rhiga Royal Hotel Kyoto
+	S:11,370	T/S:15,460	T:18,180	35 min.(subway)
+  (URL: http://www.rihga.com/kyoto/index.html)
+B-2 New Miyako Hotel
+	S: --		T/S:13,000	T:17,000	30 min.(subway)
+B-3 Hotel New Hankyu
+	S:12,000	T/S:14,000	T:14,000	30 min.(subway)
+  (URL: http://www.o-kini.or.jp/hotel/hnh/kyoto-e/kyoto_1.html)
+C-1 Hotel Keihan Kyoto
+	S:8,640		T/S: ---	T: ---		30 min.(subway)
+C-2 Kyoto Garden
+	S:7,280		T/S:10,000	T:12,730	25 min.(subway)
+  (URL: http://www.ampark.co.jp/ghs/ghshijoe.html)
+C-3 Maruko Inn Kyoto
+	S:6,820		T/S: ---	T:11,280        25 min.(subway)
+
+Notice:
+- S stands for single, T/S stands for twin for single usage, and T stands
+  for twin room.
+- Above rates are room charges per room per day basis. They do not include 
+  a 10% service charge or a 5% consumption tax.
+- If total amount of the hotel bill per day per person exceeds more than 
+  15,000 yen, another 3% of local tax will be added.
+- If the room of your first choice is fully booked, second or third choice
+  or other alternatives will be automatically assigned.
+- Check hotel rates in URL :
+   http://www.keihanna-plaza.co.jp/ICSE98/Hotel/registration.html
+
+
+   *********** Application Deadline: Monday March 16, 1997 JST ************
+
+* Please use one form per room request and fill in block letters.
+* Please type and return this form to Kinki Nippon Tourist Co., Ltd. 
+(KNT) by fax (+81-6-314-1601).
+
+PLEASE PRINT/TYPE CLEARLY
+Title (check one):  Prof.__ Dr.__  Mr.__  Mrs.__ Ms. __
+
+First Name (Given Name)	  ______________________
+
+Middle Initial		  ______________________
+
+Last Name (Family/Surname)______________________
+
+Company / Organization	  _______________________________________________
+
+Mailing  Address	_________________________________________________
+
+_________________________________________________________________________
+
+_________________________________________________________________________
+
+City_________________ State_______________ Postal Code_____________ 
+
+Country_________________
+
+Phone _____________________
+
+Fax   _____________________
+
+E-mail _____________________
+
+Please give your chosen hotel code from reserved hotel list
+1st choice__________  2nd choice__________  3rd choice__________
+
+Desired room type: ( )Single  ( )Twin room/Single Usage
+                   (  ) Twin  (shared with: _______________________)
+Check-in Date: ________ for _____ night(s)
+
+PAYMENT INFORMATION
+Please fill your credit card information.
+Type of Card: (   )Visa, (   )Master Card,(   )American Express
+
+Credit Card Number ____________________________________________
+
+Expiration Date:(Month/Year)  ________/____________
+
+Holder's Name (please type) ___________________________________
+
+Holder's Signature  _____________________________________ Date __________
+
+Above credit card information is necessary for the process of hotel
+reservation. If you cancel the assigned hotel, we charge the
+cancellation fee based on the hotel agreement. 
+
+I agree with the deduction of cancellation charge caused by my
+cancellation of assigned hotel.
+Signature__________________________________ Date_____________
+
+Cancellatioin Policy: 
+If the notice reached                                 Cancellation Fee
+- Up to 10 days before the first night of stay     No cancellation fee
+- 9 - 2 days before                                10% of the room charge
+- One day before                                   20% of the room charge
+- Date of accomodation (Notice given)              80% of the room charge
+- No notice given (No show)                        100% of the room charge
+
+Kinki Nippon Tourist Co., Ltd. International Travel, Osaka Branch 
+c/o Nikko Bldg. 7F, 2-11-8, Sonezaki, Kita-ku, Osaka 530, JAPAN
+Phone:+81-6-313-6868 / Fax:+81-6-314-1601 / E-Mail:intlosa@tabi.knt.co.jp
+

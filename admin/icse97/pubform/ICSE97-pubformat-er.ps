@@ -1,0 +1,1330 @@
+%!PS-Adobe-3.0
+%%BoundingBox: (atend)
+%%Pages: (atend)
+%%DocumentFonts: (atend)
+%%EndComments
+%
+% FrameMaker PostScript Prolog 3.0, for use with FrameMaker 3.0
+% Copyright (c) 1986,87,89,90,91 by Frame Technology Corporation.
+% All rights reserved.
+%
+% Known Problems:
+%	Due to bugs in Transcript, the 'PS-Adobe-' is omitted from line 1
+%       UCI-> added the PS-Adobe-3.0 line because we don't use Transcript
+/FMversion (3.0) def 
+% Set up Color vs. Black-and-White
+	/FMPrintInColor systemdict /colorimage known
+		systemdict /currentcolortransfer known or def
+% Uncomment this line to force b&w on color printer
+%   /FMPrintInColor false def
+/FrameDict 195 dict def 
+systemdict /errordict known not {/errordict 10 dict def
+		errordict /rangecheck {stop} put} if
+% The readline in 23.0 doesn't recognize cr's as nl's on AppleTalk
+FrameDict /tmprangecheck errordict /rangecheck get put 
+errordict /rangecheck {FrameDict /bug true put} put 
+FrameDict /bug false put 
+mark 
+% Some PS machines read past the CR, so keep the following 3 lines together!
+currentfile 5 string readline
+00
+0000000000
+cleartomark 
+errordict /rangecheck FrameDict /tmprangecheck get put 
+FrameDict /bug get { 
+	/readline {
+		/gstring exch def
+		/gfile exch def
+		/gindex 0 def
+		{
+			gfile read pop 
+			dup 10 eq {exit} if 
+			dup 13 eq {exit} if 
+			gstring exch gindex exch put 
+			/gindex gindex 1 add def 
+		} loop
+		pop 
+		gstring 0 gindex getinterval true 
+		} def
+	} if
+/FMVERSION {
+	FMversion ne {
+		/Times-Roman findfont 18 scalefont setfont
+		100 100 moveto
+		(FrameMaker version does not match postscript_prolog!)
+		dup =
+		show showpage
+		} if
+	} def 
+/FMLOCAL {
+	FrameDict begin
+	0 def 
+	end 
+	} def 
+	/gstring FMLOCAL
+	/gfile FMLOCAL
+	/gindex FMLOCAL
+	/orgxfer FMLOCAL
+	/orgproc FMLOCAL
+	/organgle FMLOCAL
+	/orgfreq FMLOCAL
+	/yscale FMLOCAL
+	/xscale FMLOCAL
+	/manualfeed FMLOCAL
+	/paperheight FMLOCAL
+	/paperwidth FMLOCAL
+/FMDOCUMENT { 
+	array /FMfonts exch def 
+	/#copies exch def
+	FrameDict begin
+	0 ne dup {setmanualfeed} if
+	/manualfeed exch def
+	/paperheight exch def
+	/paperwidth exch def
+	/yscale exch def
+	/xscale exch def
+	currenttransfer cvlit /orgxfer exch def
+	currentscreen cvlit /orgproc exch def
+	/organgle exch def /orgfreq exch def
+	end 
+	} def 
+	/pagesave FMLOCAL
+	/orgmatrix FMLOCAL
+	/landscape FMLOCAL
+/FMBEGINPAGE { 
+	FrameDict begin 
+	/pagesave save def
+	3.86 setmiterlimit
+	/landscape exch 0 ne def
+	landscape { 
+		90 rotate 0 exch neg translate pop 
+		}
+		{pop pop}
+		ifelse
+	xscale yscale scale
+	/orgmatrix matrix def
+	gsave 
+	} def 
+/FMENDPAGE {
+	grestore 
+	pagesave restore
+	end 
+	showpage
+	} def 
+/FMFONTDEFINE { 
+	FrameDict begin
+	findfont 
+	ReEncode 
+	1 index exch 
+	definefont 
+	FMfonts 3 1 roll 
+	put
+	end 
+	} def 
+/FMFILLS {
+	FrameDict begin
+	array /fillvals exch def
+	end 
+	} def 
+/FMFILL {
+	FrameDict begin
+	 fillvals 3 1 roll put
+	end 
+	} def 
+/FMNORMALIZEGRAPHICS { 
+	newpath
+	0.0 0.0 moveto
+	1 setlinewidth
+	0 setlinecap
+	0 0 0 sethsbcolor
+	0 setgray 
+	} bind def
+	/fx FMLOCAL
+	/fy FMLOCAL
+	/fh FMLOCAL
+	/fw FMLOCAL
+	/llx FMLOCAL
+	/lly FMLOCAL
+	/urx FMLOCAL
+	/ury FMLOCAL
+/FMBEGINEPSF { 
+	end 
+	/FMEPSF save def 
+	/showpage {} def 
+	FMNORMALIZEGRAPHICS 
+	[/fy /fx /fh /fw /ury /urx /lly /llx] {exch def} forall 
+	fx fy translate 
+	rotate
+	fw urx llx sub div fh ury lly sub div scale 
+	llx neg lly neg translate 
+	} bind def
+/FMENDEPSF {
+	FMEPSF restore
+	FrameDict begin 
+	} bind def
+FrameDict begin 
+/setmanualfeed {
+%%BeginFeature *ManualFeed True
+	 statusdict /manualfeed true put
+%%EndFeature
+	} def
+/max {2 copy lt {exch} if pop} bind def
+/min {2 copy gt {exch} if pop} bind def
+/inch {72 mul} def
+/savematrix {
+	orgmatrix currentmatrix pop
+	} bind def
+/restorematrix {
+	orgmatrix setmatrix
+	} bind def
+/dmatrix matrix def
+/dpi    72 0 dmatrix defaultmatrix dtransform
+    dup mul exch   dup mul add   sqrt def
+/freq dpi 18.75 div 8 div round dup 0 eq {pop 1} if 8 mul dpi exch div def
+/sangle 1 0 dmatrix defaultmatrix dtransform exch atan def
+/DiacriticEncoding [
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /space /exclam /quotedbl
+/numbersign /dollar /percent /ampersand /quotesingle /parenleft
+/parenright /asterisk /plus /comma /hyphen /period /slash /zero /one
+/two /three /four /five /six /seven /eight /nine /colon /semicolon
+/less /equal /greater /question /at /A /B /C /D /E /F /G /H /I /J /K
+/L /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft /backslash
+/bracketright /asciicircum /underscore /grave /a /b /c /d /e /f /g /h
+/i /j /k /l /m /n /o /p /q /r /s /t /u /v /w /x /y /z /braceleft /bar
+/braceright /asciitilde /.notdef /Adieresis /Aring /Ccedilla /Eacute
+/Ntilde /Odieresis /Udieresis /aacute /agrave /acircumflex /adieresis
+/atilde /aring /ccedilla /eacute /egrave /ecircumflex /edieresis
+/iacute /igrave /icircumflex /idieresis /ntilde /oacute /ograve
+/ocircumflex /odieresis /otilde /uacute /ugrave /ucircumflex
+/udieresis /dagger /.notdef /cent /sterling /section /bullet
+/paragraph /germandbls /registered /copyright /trademark /acute
+/dieresis /.notdef /AE /Oslash /.notdef /.notdef /.notdef /.notdef
+/yen /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/ordfeminine /ordmasculine /.notdef /ae /oslash /questiondown
+/exclamdown /logicalnot /.notdef /florin /.notdef /.notdef
+/guillemotleft /guillemotright /ellipsis /.notdef /Agrave /Atilde
+/Otilde /OE /oe /endash /emdash /quotedblleft /quotedblright
+/quoteleft /quoteright /.notdef /.notdef /ydieresis /Ydieresis
+/fraction /currency /guilsinglleft /guilsinglright /fi /fl /daggerdbl
+/periodcentered /quotesinglbase /quotedblbase /perthousand
+/Acircumflex /Ecircumflex /Aacute /Edieresis /Egrave /Iacute
+/Icircumflex /Idieresis /Igrave /Oacute /Ocircumflex /.notdef /Ograve
+/Uacute /Ucircumflex /Ugrave /dotlessi /circumflex /tilde /macron
+/breve /dotaccent /ring /cedilla /hungarumlaut /ogonek /caron
+] def
+/ReEncode { 
+	dup 
+	length 
+	dict begin 
+	{
+	1 index /FID ne 
+		{def} 
+		{pop pop} ifelse 
+	} forall 
+	0 eq {/Encoding DiacriticEncoding def} if 
+	currentdict 
+	end 
+	} bind def
+/graymode true def
+	/bwidth FMLOCAL
+	/bpside FMLOCAL
+	/bstring FMLOCAL
+	/onbits FMLOCAL
+	/offbits FMLOCAL
+	/xindex FMLOCAL
+	/yindex FMLOCAL
+	/x FMLOCAL
+	/y FMLOCAL
+/setpattern {
+	 /bwidth  exch def
+	 /bpside  exch def
+	 /bstring exch def
+	 /onbits 0 def  /offbits 0 def
+	 freq sangle landscape {90 add} if 
+		{/y exch def
+		 /x exch def
+		 /xindex x 1 add 2 div bpside mul cvi def
+		 /yindex y 1 add 2 div bpside mul cvi def
+		 bstring yindex bwidth mul xindex 8 idiv add get
+		 1 7 xindex 8 mod sub bitshift and 0 ne
+		 {/onbits  onbits  1 add def 1}
+		 {/offbits offbits 1 add def 0}
+		 ifelse
+		}
+		setscreen
+	 {} settransfer
+	 offbits offbits onbits add div FMsetgray
+	/graymode false def
+	} bind def
+/grayness {
+	FMsetgray
+	graymode not {
+		/graymode true def
+		orgxfer cvx settransfer
+		orgfreq organgle orgproc cvx setscreen
+		} if
+	} bind def
+	/HUE FMLOCAL
+	/SAT FMLOCAL
+	/BRIGHT FMLOCAL
+	/Colors FMLOCAL
+FMPrintInColor 
+	
+	{
+	/HUE 0 def
+	/SAT 0 def
+	/BRIGHT 0 def
+	% array of arrays Hue and Sat values for the separations [HUE BRIGHT]
+	/Colors   
+	[[0    0  ]    % black
+	 [0    0  ]    % white
+	 [0.00 1.0]    % red
+	 [0.37 1.0]    % green
+	 [0.60 1.0]    % blue
+	 [0.50 1.0]    % cyan
+	 [0.83 1.0]    % magenta
+	 [0.16 1.0]    % comment / yellow
+	 ] def
+      
+	/BEGINBITMAPCOLOR { 
+		BITMAPCOLOR} def
+	/BEGINBITMAPCOLORc { 
+		BITMAPCOLORc} def
+	/BEGINBITMAPTRUECOLOR { 
+		BITMAPTRUECOLOR } def
+	/BEGINBITMAPTRUECOLORc { 
+		BITMAPTRUECOLORc } def
+	/K { 
+		Colors exch get dup
+		0 get /HUE exch store 
+		1 get /BRIGHT exch store
+		  HUE 0 eq BRIGHT 0 eq and
+			{1.0 SAT sub setgray}
+			{HUE SAT BRIGHT sethsbcolor} 
+		  ifelse
+		} def
+	/FMsetgray { 
+		/SAT exch 1.0 exch sub store 
+		  HUE 0 eq BRIGHT 0 eq and
+			{1.0 SAT sub setgray}
+			{HUE SAT BRIGHT sethsbcolor} 
+		  ifelse
+		} bind def
+	}
+	
+	{
+	/BEGINBITMAPCOLOR { 
+		BITMAPGRAY} def
+	/BEGINBITMAPCOLORc { 
+		BITMAPGRAYc} def
+	/BEGINBITMAPTRUECOLOR { 
+		BITMAPTRUEGRAY } def
+	/BEGINBITMAPTRUECOLORc { 
+		BITMAPTRUEGRAYc } def
+	/FMsetgray {setgray} bind def
+	/K { 
+		pop
+		} def
+	}
+ifelse
+/normalize {
+	transform round exch round exch itransform
+	} bind def
+/dnormalize {
+	dtransform round exch round exch idtransform
+	} bind def
+/lnormalize { 
+	0 dtransform exch cvi 2 idiv 2 mul 1 add exch idtransform pop
+	} bind def
+/H { 
+	lnormalize setlinewidth
+	} bind def
+/Z {
+	setlinecap
+	} bind def
+	/fillvals FMLOCAL
+/X { 
+	fillvals exch get
+	dup type /stringtype eq
+	{8 1 setpattern} 
+	{grayness}
+	ifelse
+	} bind def
+/V { 
+	gsave eofill grestore
+	} bind def
+/N { 
+	stroke
+	} bind def
+/M {newpath moveto} bind def
+/E {lineto} bind def
+/D {curveto} bind def
+/O {closepath} bind def
+	/n FMLOCAL
+/L { 
+ 	/n exch def
+	newpath
+	normalize
+	moveto 
+	2 1 n {pop normalize lineto} for
+	} bind def
+/Y { 
+	L 
+	closepath
+	} bind def
+	/x1 FMLOCAL
+	/x2 FMLOCAL
+	/y1 FMLOCAL
+	/y2 FMLOCAL
+	/rad FMLOCAL
+/R { 
+	/y2 exch def
+	/x2 exch def
+	/y1 exch def
+	/x1 exch def
+	x1 y1
+	x2 y1
+	x2 y2
+	x1 y2
+	4 Y 
+	} bind def
+/RR { 
+	/rad exch def
+	normalize
+	/y2 exch def
+	/x2 exch def
+	normalize
+	/y1 exch def
+	/x1 exch def
+	newpath
+	x1 y1 rad add moveto
+	x1 y2 x2 y2 rad arcto
+	x2 y2 x2 y1 rad arcto
+	x2 y1 x1 y1 rad arcto
+	x1 y1 x1 y2 rad arcto
+	closepath
+	16 {pop} repeat
+	} bind def
+/C { 
+	grestore
+	gsave
+	R 
+	clip
+	} bind def
+	/FMpointsize FMLOCAL
+/F { 
+	FMfonts exch get
+	FMpointsize scalefont
+	setfont
+	} bind def
+/Q { 
+	/FMpointsize exch def
+	F 
+	} bind def
+/T { 
+	moveto show
+	} bind def
+/RF { 
+	rotate
+	0 ne {-1 1 scale} if
+	} bind def
+/TF { 
+	gsave
+	moveto 
+	RF
+	show
+	grestore
+	} bind def
+/P { 
+	moveto
+	0 32 3 2 roll widthshow
+	} bind def
+/PF { 
+	gsave
+	moveto 
+	RF
+	0 32 3 2 roll widthshow
+	grestore
+	} bind def
+/S { 
+	moveto
+	0 exch ashow
+	} bind def
+/SF { 
+	gsave
+	moveto
+	RF
+	0 exch ashow
+	grestore
+	} bind def
+/B { 
+	moveto
+	0 32 4 2 roll 0 exch awidthshow
+	} bind def
+/BF { 
+	gsave
+	moveto
+	RF
+	0 32 4 2 roll 0 exch awidthshow
+	grestore
+	} bind def
+/G { 
+	gsave
+	newpath
+	normalize translate 0.0 0.0 moveto 
+	dnormalize scale 
+	0.0 0.0 1.0 5 3 roll arc 
+	closepath fill
+	grestore
+	} bind def
+/A { 
+	gsave
+	savematrix
+	newpath
+	2 index 2 div add exch 3 index 2 div sub exch 
+	normalize 2 index 2 div sub exch 3 index 2 div add exch 
+	translate 
+	scale 
+	0.0 0.0 1.0 5 3 roll arc 
+	restorematrix
+	stroke
+	grestore
+	} bind def
+	/x FMLOCAL
+	/y FMLOCAL
+	/w FMLOCAL
+	/h FMLOCAL
+	/xx FMLOCAL
+	/yy FMLOCAL
+	/ww FMLOCAL
+	/hh FMLOCAL
+	/FMsaveobject FMLOCAL
+	/FMoptop FMLOCAL
+	/FMdicttop FMLOCAL
+/BEGINPRINTCODE { 
+	/FMdicttop countdictstack 1 add def 
+	/FMoptop count 4 sub def 
+	/FMsaveobject save def
+	userdict begin 
+	/showpage {} def 
+	FMNORMALIZEGRAPHICS 
+	3 index neg 3 index neg translate
+	} bind def
+/ENDPRINTCODE {
+	count -1 FMoptop {pop pop} for 
+	countdictstack -1 FMdicttop {pop end} for 
+	FMsaveobject restore 
+	} bind def
+/gn { 
+	0 
+	{	46 mul 
+		cf read pop 
+		32 sub 
+		dup 46 lt {exit} if 
+		46 sub add 
+		} loop
+	add 
+	} bind def
+	/str FMLOCAL
+/cfs { 
+	/str sl string def 
+	0 1 sl 1 sub {str exch val put} for 
+	str def 
+	} bind def
+/ic [ 
+	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0223
+	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0223
+	0
+	{0 hx} {1 hx} {2 hx} {3 hx} {4 hx} {5 hx} {6 hx} {7 hx} {8 hx} {9 hx}
+	{10 hx} {11 hx} {12 hx} {13 hx} {14 hx} {15 hx} {16 hx} {17 hx} {18 hx}
+	{19 hx} {gn hx} {0} {1} {2} {3} {4} {5} {6} {7} {8} {9} {10} {11} {12}
+	{13} {14} {15} {16} {17} {18} {19} {gn} {0 wh} {1 wh} {2 wh} {3 wh}
+	{4 wh} {5 wh} {6 wh} {7 wh} {8 wh} {9 wh} {10 wh} {11 wh} {12 wh}
+	{13 wh} {14 wh} {gn wh} {0 bl} {1 bl} {2 bl} {3 bl} {4 bl} {5 bl} {6 bl}
+	{7 bl} {8 bl} {9 bl} {10 bl} {11 bl} {12 bl} {13 bl} {14 bl} {gn bl}
+	{0 fl} {1 fl} {2 fl} {3 fl} {4 fl} {5 fl} {6 fl} {7 fl} {8 fl} {9 fl}
+	{10 fl} {11 fl} {12 fl} {13 fl} {14 fl} {gn fl}
+	] def
+	/sl FMLOCAL
+	/val FMLOCAL
+	/ws FMLOCAL
+	/im FMLOCAL
+	/bs FMLOCAL
+	/cs FMLOCAL
+	/len FMLOCAL
+	/pos FMLOCAL
+/ms { 
+	/sl exch def 
+	/val 255 def 
+	/ws cfs 
+	/im cfs 
+	/val 0 def 
+	/bs cfs 
+	/cs cfs 
+	} bind def
+400 ms 
+/ip { 
+	is 
+	0 
+	cf cs readline pop 
+	{	ic exch get exec 
+		add 
+		} forall 
+	pop 
+	
+	} bind def
+/wh { 
+	/len exch def 
+	/pos exch def 
+	ws 0 len getinterval im pos len getinterval copy pop
+	pos len 
+	} bind def
+/bl { 
+	/len exch def 
+	/pos exch def 
+	bs 0 len getinterval im pos len getinterval copy pop
+	pos len 
+	} bind def
+/s1 1 string def
+/fl { 
+	/len exch def 
+	/pos exch def 
+	/val cf s1 readhexstring pop 0 get def
+	pos 1 pos len add 1 sub {im exch val put} for
+	pos len 
+	} bind def
+/hx { 
+	3 copy getinterval 
+	cf exch readhexstring pop pop 
+	} bind def
+	/h FMLOCAL
+	/w FMLOCAL
+	/d FMLOCAL
+	/lb FMLOCAL
+	/bitmapsave FMLOCAL
+	/is FMLOCAL
+	/cf FMLOCAL
+/wbytes { 
+	dup 
+	8 eq {pop} {1 eq {7 add 8 idiv} {3 add 4 idiv} ifelse} ifelse
+	} bind def
+/BEGINBITMAPBWc { 
+	1 {} COMMONBITMAPc
+	} bind def
+/BEGINBITMAPGRAYc { 
+	8 {} COMMONBITMAPc
+	} bind def
+/BEGINBITMAP2BITc { 
+	2 {} COMMONBITMAPc
+	} bind def
+/COMMONBITMAPc { 
+	/r exch def
+	/d exch def
+	gsave
+	translate rotate scale /h exch def /w exch def
+	/lb w d wbytes def 
+	sl lb lt {lb ms} if 
+	/bitmapsave save def 
+	r                    
+	/is im 0 lb getinterval def 
+	ws 0 lb getinterval is copy pop 
+	/cf currentfile def 
+	w h d [w 0 0 h neg 0 h] 
+	{ip} image 
+	bitmapsave restore 
+	grestore
+	} bind def
+/BEGINBITMAPBW { 
+	1 {} COMMONBITMAP
+	} bind def
+/BEGINBITMAPGRAY { 
+	8 {} COMMONBITMAP
+	} bind def
+/BEGINBITMAP2BIT { 
+	2 {} COMMONBITMAP
+	} bind def
+/COMMONBITMAP { 
+	/r exch def
+	/d exch def
+	gsave
+	translate rotate scale /h exch def /w exch def
+	/bitmapsave save def 
+	r                    
+	/is w d wbytes string def
+	/cf currentfile def 
+	w h d [w 0 0 h neg 0 h] 
+	{cf is readhexstring pop} image
+	bitmapsave restore 
+	grestore
+	} bind def
+	/proc1 FMLOCAL
+	/proc2 FMLOCAL
+	/newproc FMLOCAL
+/Fmcc {
+    /proc2 exch cvlit def
+    /proc1 exch cvlit def
+    /newproc proc1 length proc2 length add array def
+    newproc 0 proc1 putinterval
+    newproc proc1 length proc2 putinterval
+    newproc cvx
+} bind def
+/ngrayt 256 array def
+/nredt 256 array def
+/nbluet 256 array def
+/ngreent 256 array def
+	/gryt FMLOCAL
+	/blut FMLOCAL
+	/grnt FMLOCAL
+	/redt FMLOCAL
+	/indx FMLOCAL
+	/cynu FMLOCAL
+	/magu FMLOCAL
+	/yelu FMLOCAL
+	/k FMLOCAL
+	/u FMLOCAL
+/colorsetup {
+	currentcolortransfer
+	/gryt exch def
+	/blut exch def
+	/grnt exch def
+	/redt exch def
+	0 1 255 {
+		/indx exch def
+		/cynu 1 red indx get 255 div sub def
+		/magu 1 green indx get 255 div sub def
+		/yelu 1 blue indx get 255 div sub def
+		/k cynu magu min yelu min def
+		/u k currentundercolorremoval exec def
+		nredt indx 1 0 cynu u sub max sub redt exec put
+		ngreent indx 1 0 magu u sub max sub grnt exec put
+		nbluet indx 1 0 yelu u sub max sub blut exec put
+		ngrayt indx 1 k currentblackgeneration exec sub gryt exec put
+	} for
+	{255 mul cvi nredt exch get}
+	{255 mul cvi ngreent exch get}
+	{255 mul cvi nbluet exch get}
+	{255 mul cvi ngrayt exch get}
+	setcolortransfer
+	{pop 0} setundercolorremoval
+	{} setblackgeneration
+	} bind def
+	/tran FMLOCAL
+/fakecolorsetup {
+	/tran 256 string def
+	0 1 255 {/indx exch def 
+		tran indx
+		red indx get 77 mul
+		green indx get 151 mul
+		blue indx get 28 mul
+		add add 256 idiv put} for
+	currenttransfer
+	{255 mul cvi tran exch get 255.0 div}
+	exch Fmcc settransfer
+} bind def
+/BITMAPCOLOR { 
+	/d 8 def
+	gsave
+	translate rotate scale /h exch def /w exch def
+	/bitmapsave save def 
+	colorsetup
+	/is w d wbytes string def
+	/cf currentfile def 
+	w h d [w 0 0 h neg 0 h] 
+	{cf is readhexstring pop} {is} {is} true 3 colorimage 
+	bitmapsave restore 
+	grestore
+	} bind def
+/BITMAPCOLORc { 
+	/d 8 def
+	gsave
+	translate rotate scale /h exch def /w exch def
+	/lb w d wbytes def 
+	sl lb lt {lb ms} if 
+	/bitmapsave save def 
+	colorsetup
+	/is im 0 lb getinterval def 
+	ws 0 lb getinterval is copy pop 
+	/cf currentfile def 
+	w h d [w 0 0 h neg 0 h] 
+	{ip} {is} {is} true 3 colorimage
+	bitmapsave restore 
+	grestore
+	} bind def
+/BITMAPTRUECOLORc { 
+        gsave
+        translate rotate scale /h exch def /w exch def
+        /bitmapsave save def 
+        
+        /is w string def
+        
+        ws 0 w getinterval is copy pop 
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        {ip} {gip} {bip} true 3 colorimage
+        bitmapsave restore 
+        grestore
+        } bind def
+/BITMAPTRUECOLOR { 
+        gsave
+        translate rotate scale /h exch def /w exch def
+        /bitmapsave save def 
+        /is w string def
+        /gis w string def
+        /bis w string def
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        { cf is readhexstring pop } 
+        { cf gis readhexstring pop } 
+        { cf bis readhexstring pop } 
+        true 3 colorimage 
+        bitmapsave restore 
+        grestore
+        } bind def
+/BITMAPTRUEGRAYc { 
+        gsave
+        translate rotate scale /h exch def /w exch def
+        /bitmapsave save def 
+        
+        /is w string def
+        
+        ws 0 w getinterval is copy pop 
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        {ip gip bip w gray} image
+        bitmapsave restore 
+        grestore
+        } bind def
+/ww FMLOCAL
+/r FMLOCAL
+/g FMLOCAL
+/b FMLOCAL
+/i FMLOCAL
+/gray { 
+        /ww exch def
+        /b exch def
+        /g exch def
+        /r exch def
+        0 1 ww 1 sub { /i exch def r i get .299 mul g i get .587 mul
+			b i get .114 mul add add r i 3 -1 roll floor cvi put } for
+        r
+        } bind def
+/BITMAPTRUEGRAY { 
+        gsave
+        translate rotate scale /h exch def /w exch def
+        /bitmapsave save def 
+        /is w string def
+        /gis w string def
+        /bis w string def
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        { cf is readhexstring pop 
+          cf gis readhexstring pop 
+          cf bis readhexstring pop w gray}  image
+        bitmapsave restore 
+        grestore
+        } bind def
+/BITMAPGRAY { 
+	8 {fakecolorsetup} COMMONBITMAP
+	} bind def
+/BITMAPGRAYc { 
+	8 {fakecolorsetup} COMMONBITMAPc
+	} bind def
+/ENDBITMAP {
+	} bind def
+end 
+	/ALDsave FMLOCAL
+	/ALDmatrix matrix def ALDmatrix currentmatrix pop
+/StartALD {
+	/ALDsave save def
+	 savematrix
+	 ALDmatrix setmatrix
+	} bind def
+/InALD {
+	 restorematrix
+	} bind def
+/DoneALD {
+	 ALDsave restore
+	} bind def
+%%EndProlog
+%%BeginSetup
+(3.0) FMVERSION
+1 1 612 792 0 1 9 FMDOCUMENT
+0 0 /Times-Bold FMFONTDEFINE
+1 0 /Times-Roman FMFONTDEFINE
+2 0 /Times-Italic FMFONTDEFINE
+3 0 /Helvetica FMFONTDEFINE
+4 0 /Courier FMFONTDEFINE
+32 FMFILLS
+0 0 FMFILL
+1 .1 FMFILL
+2 .3 FMFILL
+3 .5 FMFILL
+4 .7 FMFILL
+5 .9 FMFILL
+6 .97 FMFILL
+7 1 FMFILL
+8 <0f1e3c78f0e1c387> FMFILL
+9 <0f87c3e1f0783c1e> FMFILL
+10 <cccccccccccccccc> FMFILL
+11 <ffff0000ffff0000> FMFILL
+12 <8142241818244281> FMFILL
+13 <03060c183060c081> FMFILL
+14 <8040201008040201> FMFILL
+16 1 FMFILL
+17 .9 FMFILL
+18 .7 FMFILL
+19 .5 FMFILL
+20 .3 FMFILL
+21 .1 FMFILL
+22 0.03 FMFILL
+23 0 FMFILL
+24 <f0e1c3870f1e3c78> FMFILL
+25 <f0783c1e0f87c3e1> FMFILL
+26 <3333333333333333> FMFILL
+27 <0000ffff0000ffff> FMFILL
+28 <7ebddbe7e7dbbd7e> FMFILL
+29 <fcf9f3e7cf9f3f7e> FMFILL
+30 <7fbfdfeff7fbfdfe> FMFILL
+%%EndSetup
+%%Page: "2" 2
+%%BeginPaperSize: Letter
+%%EndPaperSize
+612 792 0 FMBEGINPAGE
+0 10 Q
+0 X
+0 K
+(Subsequent Pages) 56.69 731.33 T
+1 F
+1.39 (For pages other than the \336rst page, start at the top of the) 56.69 720.33 P
+0.21 (page and continue in double-column format. It is preferable) 56.69 709.33 P
+1.86 (\050but not required\051 that the two columns on the last page) 56.69 698.33 P
+0.12 (have approximately equal length. This can be accomplished) 56.69 687.33 P
+(by adjusting the length of the left column on the last page.) 56.69 676.33 T
+0 F
+(Refer) 56.69 659.33 T
+(ences and Citations) 80.37 659.33 T
+1 F
+1.42 (Use the standard) 56.69 648.33 P
+2 F
+1.42 (Communications of the ACM) 130.07 648.33 P
+1 F
+1.42 ( format for) 250.67 648.33 P
+2.4 (references \321 that is, a numbered list at the end of the) 56.69 637.33 P
+-0.17 (article, ordered alphabetically by \336rst author) 56.69 626.33 P
+-0.17 (, and referenced) 233.07 626.33 P
+0.17 (by numbers in brackets [1]. See the examples of citations at) 56.69 615.33 P
+0.68 (the end of this document. W) 56.69 604.33 P
+0.68 (ithin this template \336le, use the) 172.93 604.33 P
+0.13 (style named) 56.69 593.33 P
+3 9 Q
+0.13 (Numbered) 107.48 593.33 P
+1 10 Q
+0.13 (for the text of your citation; the \336rst) 152.36 593.33 P
+(citation should be of Paragraph T) 56.69 582.33 T
+(ag) 189.51 582.33 T
+3 9 Q
+(Numbered1) 201.44 582.33 T
+1 10 Q
+(.) 248.39 582.33 T
+0.88 (References should be published materials accessible to the) 56.69 565.33 P
+0.96 (public. Internal technical reports may be cited) 56.69 554.33 P
+2 F
+0.96 (only) 249.37 554.33 P
+1 F
+0.96 ( if they) 266.58 554.33 P
+0 (are easily accessible \050i.e., you can give the address to obtain) 56.69 543.33 P
+0.56 (it within your citation\051 and may be obtained by any reader) 56.69 532.33 P
+0.56 (.) 294.31 532.33 P
+5.64 (Proprietary information should) 56.69 521.33 P
+2 F
+5.64 (not) 199.93 521.33 P
+1 F
+5.64 ( be cited. Private) 212.71 521.33 P
+2.06 (communications should be acknowledged, not referenced) 56.69 510.33 P
+(\050e.g., \322[Robertson, personal communication]\323\051.) 56.69 499.33 T
+0 F
+(Page Numbering, Headers and Footers) 56.69 482.33 T
+1 F
+0.4 (Do not include headers or footers in your submission. Page) 56.69 471.33 P
+0.43 (numbers should be included in your submission for review) 56.69 460.33 P
+0.43 (.) 294.31 460.33 P
+0.24 (Final submission of accepted papers should) 56.69 449.33 P
+2 F
+0.24 (not) 234.7 449.33 P
+1 F
+0.24 ( include any) 247.47 449.33 P
+3.89 (page numbers; they will be added for you when the) 56.69 438.33 P
+(publications are assembled.) 56.69 427.33 T
+0 F
+(SECTIONS \050P) 56.69 410.33 T
+(ARAGRAPH T) 118.43 410.33 T
+(AG: HEADING1\051) 184.59 410.33 T
+1 F
+1.17 (The title of a section should be in T) 56.69 399.33 P
+1.17 (imes Roman 10-point) 207.85 399.33 P
+(bold in all capitals. Please do not number the sections.) 56.69 388.33 T
+0 F
+(Subsections \050Paragraph T) 56.69 371.33 T
+(ag: Heading2\051) 166.83 371.33 T
+1 F
+0.1 (The title of subsections should be in T) 56.69 360.33 P
+0.1 (imes Roman 10-point) 209.99 360.33 P
+1.26 (bold with only the initial letters of each word capitalized.) 56.69 349.33 P
+-0 (For subsections and subsubsections, a word like) 56.69 338.33 P
+2 F
+-0 (the) 251.01 338.33 P
+1 F
+-0 ( and) 263.22 338.33 P
+2 F
+-0 (a) 282.65 338.33 P
+1 F
+-0 ( is) 287.65 338.33 P
+(not capitalized unless it is the \336rst word of the heading.) 56.69 327.33 T
+2 F
+(Subsubsections \050Paragraph T) 56.69 310.33 T
+(ag: Heading3\051) 174.6 310.33 T
+1 F
+0.49 (The heading for subsubsections should be in T) 56.69 299.33 P
+0.49 (imes Roman) 246.07 299.33 P
+(10-point italic with initial letters of each word capitalized.) 56.69 288.33 T
+0 F
+(FIGURES) 56.69 271.33 T
+1 F
+0.93 (Figures should be inserted at the appropriate point in your) 56.69 260.33 P
+0.97 (text. Figures may extend over the two columns up to 17.8) 56.69 249.33 P
+2.44 (cm \0507\323\051 if necessary) 56.69 238.33 P
+2.44 (. Black and white photographs \050not) 144.13 238.33 P
+-0.03 (Polaroid prints\051 may be mounted on the camera-ready paper) 56.69 227.33 P
+1.1 (with glue or double-sided tape. \050T) 56.69 216.33 P
+1.1 (o avoid smudges, attach) 197.48 216.33 P
+(\336gures by paste or tape applied to their) 56.69 205.33 T
+2 F
+(back) 214.92 205.33 T
+1 F
+( surfaces only) 233.79 205.33 T
+(.\051) 288.64 205.33 T
+0 F
+(LANGUAGE, STYLE AND CONTENT) 317.88 731.33 T
+1 F
+1.7 (The written and spoken language of ICSE 97 is English.) 317.88 720.33 P
+1.19 (Spelling and punctuation may consistently use any dialect) 317.88 709.33 P
+0.71 (of English \050e.g., British, Canadian or US\051. Please write for) 317.88 698.33 P
+(an international audience:) 317.88 687.33 T
+(\245) 317.88 670.33 T
+2.07 (W) 332.05 670.33 P
+2.07 (rite in a straightforward sty structure. T) 341.09 670.33 P
+2.07 (ry to avoid) 510.55 670.33 P
+3.1 (long sentences and complex sentence structure. Use) 332.05 659.33 P
+(semicolons carefully) 332.05 648.33 T
+(.) 414.4 648.33 T
+(\245) 317.88 634.33 T
+1.22 (Use common and basic vocabulary \050e.g., use the word) 332.05 634.33 P
+(\322unusual\323 rather than the word \322arcane\323\051.) 332.05 623.33 T
+(\245) 317.88 609.33 T
+(Brie\337y de\336ne or explain all technical terms.) 332.05 609.33 T
+(\245) 317.88 595.33 T
+0.15 (Explain all acronyms when they \336rst appear in your text) 332.05 595.33 P
+(such as, \322W) 332.05 584.33 T
+(orld W) 379.27 584.33 T
+(ide W) 406.9 584.33 T
+(eb \050WWW\051\323) 430.25 584.33 T
+(\245) 317.88 570.33 T
+1.74 (Explain \322insider\323 comments. Be sure that your whole) 332.05 570.33 P
+0.75 (audience will understand any reference whose meaning) 332.05 559.33 P
+1.36 (you do not explain \050e.g., do not assume that everyone) 332.05 548.33 P
+(has used a Macintosh or MS-DOS\051.) 332.05 537.33 T
+(\245) 317.88 523.33 T
+1.21 (A) 332.05 523.33 P
+1.21 (void or explain puns, jokes, and colloquial language.) 338.53 523.33 P
+(Humor and irony are dif) 332.05 512.33 T
+(\336cult to translate.) 429.02 512.33 T
+(\245) 317.88 498.33 T
+4.27 (Use unambiguous forms for representing culturally) 332.05 498.33 P
+0.44 (localized concepts, such as times, dates, and currencies,) 332.05 487.33 P
+1.85 (\050e.g., \3221-5-96\323 or \3225/1/96\323 may mean 5 January or 1) 332.05 476.33 P
+(May) 332.05 465.33 T
+(, and \322seven o\325clock\323 may mean 7:00 am or 1900\051.) 349.72 465.33 T
+2.95 (Authors are responsible for ensuring that their work is) 317.88 451.33 P
+5.04 (conducted in a professional and ethical manner [1],) 317.88 440.33 P
+2.46 (including \050but not limited to\051 fully informed consent of) 317.88 429.33 P
+-0.21 (participants in studies, protection of personal data \050e.g., [3]\051,) 317.88 418.33 P
+(and permission to use others\325 copyrighted materials.) 317.88 407.33 T
+0 F
+(INFORMA) 317.88 390.33 T
+(TION AND QUESTIONS) 365.99 390.33 T
+1 F
+1.1 (For more information, contact the ICSE 97 Of) 317.88 379.33 P
+1.1 (\336ce at icse-) 510.28 379.33 P
+(97-publications@ics.uci.edu, or phone +1-714-824-8756.) 317.88 368.33 T
+0 F
+(ACKNOWLEDGEMENTS) 317.88 351.33 T
+1 F
+3.16 (This document has been adapted from the Style Sheet) 317.88 340.33 P
+-0.01 (de\336ned for CHI 96 by Michael J. Muller) 317.88 329.33 P
+-0.01 (, Bonnie Nardi, and) 479.49 329.33 P
+3.57 (Michael J. T) 317.88 318.33 P
+3.57 (auber) 374.57 318.33 P
+3.57 (, and numberous people in the CHI) 396.37 318.33 P
+1.08 (community) 317.88 307.33 P
+1.08 (. Judith Meskill translated this document into a) 362.77 307.33 P
+7.94 (FrameMaker template \336le. Their contributions are) 317.88 296.33 P
+(gratefully acknowledged.) 317.88 285.33 T
+0 F
+(REFERENCES) 317.88 268.33 T
+1 F
+(1.) 317.88 257.33 T
+(Anderson, R.E. Social impacts of computing: Codes of) 332.05 257.33 T
+(professional ethics.) 332.05 246.33 T
+2 F
+(Social Science Computing Review) 411.72 246.33 T
+(10, 2) 332.05 235.33 T
+1 F
+( \050W) 352.04 235.33 T
+(inter 1992\051, 453-469.) 366.9 235.33 T
+(2.) 317.88 221.33 T
+(ICSE 97 Electronic Author Kit, A) 332.05 221.33 T
+(vailable at <http://) 467.34 221.33 T
+(www) 332.05 210.33 T
+(.ics.uci.edu/icse97/pubform/>.) 353.05 210.33 T
+(3.) 317.88 196.33 T
+(Mackay) 332.05 196.33 T
+(, W) 363.6 196.33 T
+(.E. Ethics, lies and videotape. . . in) 377.11 196.33 T
+2 F
+(Pr) 518.13 196.33 T
+(oc.) 527.76 196.33 T
+(CHI\32595) 332.05 185.33 T
+1 F
+( \050Denver CO, May 1995\051, ACM Press, 138-145.) 362.59 185.33 T
+FMENDPAGE
+%%EndPage: "2" 1
+%%Page: "1" 1
+612 792 0 FMBEGINPAGE
+54 612 558 738 R
+7 X
+0 K
+V
+0 10 Q
+0 X
+(ABSTRACT) 54 558.56 T
+1 F
+2.79 (This is a sample paper using the format and guidelines) 54 547.56 P
+4.76 (required for the) 54 536.56 P
+2 F
+4.76 (ICSE 97 Confer) 132.96 536.56 P
+4.76 (ence Pr) 205.97 536.56 P
+4.76 (oceedings) 241.16 536.56 P
+1 F
+4.76 (. It) 281.13 536.56 P
+1.29 (includes instructions for preparing a camera-ready copy of) 54 525.56 P
+(your accepted submission.) 54 514.56 T
+0 F
+(Keywords) 54 497.56 T
+1 F
+(Guides, instructions, author) 54 486.56 T
+(\325) 164.86 486.56 T
+(s kit, conference publications) 167.64 486.56 T
+0 F
+(INTRODUCTION) 54 469.56 T
+1 F
+2.39 (The) 54 458.56 P
+2 F
+2.39 (Pr) 74.43 458.56 P
+2.39 (oceedings) 84.05 458.56 P
+1 F
+2.39 ( of ICSE 97 represent the \336nal archival) 124.02 458.56 P
+1.19 (records of the conference. T) 54 447.56 P
+1.19 (o give the book a high quality) 170.46 447.56 P
+1.27 (appearance we ask that authors follow these guidelines. In) 54 436.56 P
+0.96 (essence, we ask you to make your document look as much) 54 425.56 P
+0.49 (like this document as possible. The easiest way to do this is) 54 414.56 P
+0.31 (simply to replace the \337ow content of this \336le with your own) 54 403.56 P
+(material.) 54 392.56 T
+1.37 (This FrameMaker document has several de\336ned paragraph) 54 375.56 P
+1.35 (tags to help you format your text \050e.g.,) 54 364.56 P
+3 9 Q
+1.35 ( T) 217.22 364.56 P
+1.35 (itle, AuthorName,) 226.22 364.56 P
+1.07 (AuthorAddress, Body) 54 353.56 P
+1.07 (, Heading1, Heading2, and Heading3\051.) 139.33 353.56 P
+1 10 Q
+0.45 (An electronic copy of this \336le, as well as \336les for W) 54 342.56 P
+0.45 (ord and) 266.3 342.56 P
+0.6 (LaTEX formats, may be downloaded from the ICSE 97 on-) 54 331.56 P
+(line author kit [2].) 54 320.56 T
+0 F
+(P) 54 303.56 T
+(AGE LIMIT AND P) 59.37 303.56 T
+(AGE SIZE) 146.08 303.56 T
+1 F
+3.83 (Submissions in dif) 54 292.56 P
+3.83 (ferent categories have dif) 135.9 292.56 P
+3.83 (ferent page) 248.5 292.56 P
+0.9 (limits that must be adhered to. Papers, for example, should) 54 281.56 P
+2 (be no longer than 1) 54 270.56 P
+2 (1 pages. Submissions that exceed the) 138.78 270.56 P
+(limit for their category will not be reviewed.) 54 259.56 T
+1.54 (All material on each page should \336t within a rectangle of) 54 242.56 P
+0.99 (18) 54 231.56 P
+0.99 (x) 66.49 231.56 P
+0.99 (23.5) 73.99 231.56 P
+0.99 (cm \0507\323 x 9.25\323\051, centered on the page, beginning) 93.98 231.56 P
+0.41 (1.9 cm \050.75\323\051 from the top of the page, with a .85 cm \050.33\323\051) 54 220.56 P
+1.63 (space between two 8.4 cm \0503.3"\051 columns. Use either US) 54 209.56 P
+1.57 (Letter or A4 paper) 54 198.56 P
+1.57 (. Right mar) 132.26 198.56 P
+1.57 (gins should be justi\336ed, not) 180.48 198.56 P
+(ragged.) 54 187.56 T
+0 F
+(TYPESET TEXT) 54 170.56 T
+1 F
+2.41 (Submissions should be prepared on a typesetter or word) 54 159.56 P
+0.24 (processor) 54 148.56 P
+0.24 (. Please use a 10-point T) 91.75 148.56 P
+0.24 (imes Roman font, or other) 190.84 148.56 P
+56.44 72 294.55 142.87 C
+2 10 Q
+0 X
+0 K
+(LEA) 65.44 133.87 T
+(VE BLANK THE LAST 2.5 cm \0501\323\051) 82.71 133.87 T
+(Y) 65.44 98.43 T
+(ou can pr) 70.08 98.43 T
+(eserve this space with an) 108.02 98.43 T
+(anchor) 65.44 86.61 T
+(ed frame \0508.4 cm x 2.5 cm\051, anchor) 93.39 86.61 T
+(ed) 233.46 86.61 T
+(to the bottom of the column.) 65.44 74.8 T
+(OF THE LEFT COLUMN ON THE FIRST P) 65.44 123.87 T
+(AGE) 243.79 123.87 T
+(FOR THE COPYRIGHT NOTICE.) 65.44 113.87 T
+0 0 612 792 C
+1 10 Q
+0 X
+0 K
+0.07 (Roman font with serifs, as close as possible in appearance to) 311.81 558.56 P
+0.27 (T) 311.81 547.56 P
+0.27 (imes Roman in which these guidelines have been set. Note) 317.57 547.56 P
+1.25 (that dif) 311.81 536.56 P
+1.25 (ferent components \050such as title, authors, headers \320) 341.48 536.56 P
+1.42 (see below\051 use the same font, but with dif) 311.81 525.56 P
+1.42 (ferent sizes and) 489.81 525.56 P
+0.4 (styles. The tar) 311.81 514.56 P
+0.4 (get is to have a 10-point text, as you see here.) 368.77 514.56 P
+0.12 (Please do not use sans-serif or non-proportional fonts except) 311.81 503.56 P
+0.29 (for special purposes, such as distinguishing source code text) 311.81 492.56 P
+1.23 (\050e.g.,) 311.81 481.56 P
+4 9 Q
+2.65 (#include <iostream.h>) 335.8 481.56 P
+1 10 Q
+1.23 (\051. Fonts similar to T) 451.69 481.56 P
+1.23 (imes) 535.93 481.56 P
+-0.14 (Roman include T) 311.81 470.56 P
+-0.14 (imes, Computer Modern Roman, and Press.) 380.59 470.56 P
+-0.06 (If you do not have a laser printer) 311.81 453.56 P
+-0.06 (, you may be able to arrange) 441.68 453.56 P
+1.5 (for a business to print your document for you. If no laser) 311.81 442.56 P
+0.31 (printer is available, then please ask the conference of) 311.81 431.56 P
+0.31 (\336ce for) 525.91 431.56 P
+(assistance.) 311.81 420.56 T
+0 F
+(T) 311.81 403.56 T
+(itle and Authors) 318.3 403.56 T
+1 F
+2.08 (The title \05018-point bold\051, authors\325 names \05012-point bold\051,) 311.81 392.56 P
+1.7 (and af) 311.81 381.56 P
+1.7 (\336liations \05012-point\051 run across the full width of the) 338.02 381.56 P
+0.6 (page \321 one column 17.8 cm \0507\323\051 wide. Please also include) 311.81 370.56 P
+2.08 (phone numbers and e-mail addresses. See the top of this) 311.81 359.56 P
+-0.12 (page for three names with dif) 311.81 348.56 P
+-0.12 (ferent addresses. Note that each) 428.45 348.56 P
+0.47 (of the names/addresses has its own table cell in a table with) 311.81 337.56 P
+1.43 (invisible borders. If only one address is needed, center all) 311.81 326.56 P
+0.14 (address text in a single-column table. For two addresses, use) 311.81 315.56 P
+1.45 (two columns, and so on. For more that three authors, you) 311.81 304.56 P
+1.35 (may have to improvise \050if necessary) 311.81 293.56 P
+1.35 (, you may place some) 462.52 293.56 P
+2.08 (address information in a footnote\051. In addition, experince) 311.81 282.56 P
+3.85 (reports must be indicated with the words \324) 311.81 271.56 P
+3.85 (\324Experience) 506.53 271.56 P
+3.53 (Report\325) 311.81 260.56 P
+3.53 (\325 \05014-point bold\051 centered between the title and) 341.6 260.56 P
+(authors.) 311.81 249.56 T
+0 F
+(Abstract and Keywords) 311.81 232.56 T
+1 F
+0.57 (Every submission \050except summaries of W) 311.81 221.56 P
+0.57 (orkshops\051 should) 485.67 221.56 P
+0.4 (begin with an abstract of no more than 100 words, followed) 311.81 210.56 P
+0.68 (by a set of keywords. The abstract and keywords should be) 311.81 199.56 P
+2.45 (placed in the left column of the \336rst page. The abstract) 311.81 188.56 P
+2.48 (should be a concise summary of the work and resulting) 311.81 177.56 P
+0.53 (conclusions. Keywords should help readers determine if the) 311.81 166.56 P
+(paper contains topics they are interested in.) 311.81 155.56 T
+0 F
+(First Page Copyright Notice) 311.81 138.56 T
+1 F
+0.15 (Remember to leave at least 2.5 cm \0501\323\051 of blank space at the) 311.81 127.56 P
+-0.03 (bottom of the left column of the \336rst page only) 311.81 116.56 P
+-0.03 (. This space is) 498.27 116.56 P
+1.12 (reserved for the copyright notice that will be added during) 311.81 105.56 P
+(\336nal printing.) 311.81 94.56 T
+54 579.4 558 738 R
+7 X
+V
+0 18 Q
+0 X
+(ICSE 97 Confer) 147.94 726 T
+(ence Pr) 270.54 726 T
+(oceedings Format) 327.66 726 T
+0 14 Q
+(Experience Report) 249.85 698.67 T
+0 12 Q
+(First Author) 112.77 668 T
+1 F
+(First author) 88.49 655 T
+(\325) 144.58 655 T
+(s af) 147.91 655 T
+(\336liation) 164.68 655 T
+(1st line of address) 101.78 642 T
+(2nd line of address) 99.78 629 T
+(Last line, including country) 78.95 616 T
+(Phone number) 64.54 603 T
+(, incl. country code) 133.69 603 T
+(1st author) 82.9 590 T
+(\325) 130.98 590 T
+(s email address) 134.32 590 T
+0 F
+(Second Author) 281.69 668 T
+1 F
+(Advanced Research Group) 255.57 655 T
+(Kiwi Computers) 280.36 642 T
+(386 Hard Drive) 282.54 629 T
+(Mountain Foo, CA 95030 USA) 244.71 616 T
+(+1 408 555 1212) 279.31 603 T
+(author2@netaddress) 271.02 590 T
+0 F
+(Third N. Lastauthor) 428.45 668 T
+1 F
+(Dipartimento di Elettronica) 414.97 655 T
+(Politecnico di Milano) 428.95 642 T
+(P) 416.33 629 T
+(.za Leonardo da V) 421.67 629 T
+(inci, 32) 509.54 629 T
+(20133 Milano, Italia) 431.79 616 T
+(+39 2 555 93540) 440.06 603 T
+(author3@netaddress) 431.77 590 T
+FMENDPAGE
+%%EndPage: "1" 0
+%%Trailer
+%%BoundingBox: 0 0 612 792
+%%Pages: 2 -1
+%%DocumentFonts: Times-Bold
+%%+ Times-Roman
+%%+ Times-Italic
+%%+ Helvetica
+%%+ Courier

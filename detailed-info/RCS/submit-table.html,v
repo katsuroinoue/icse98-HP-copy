@@ -1,0 +1,96 @@
+head	1.1;
+access;
+symbols;
+locks
+	iida:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	97.05.09.03.58.52;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<HTML>
+<HEAD>
+<TITLE>The annual International Conference on Software Engineering (ICSE) is the leading forum for the exchange of ideas on all aspects of software engineering
+</TITLE>
+
+</HEAD>
+<BODY bgcolor=white text=black>
+
+<A NAME="submit-table"></A><CENTER><FONT SIZE=5 FACE="Optimum">Submissions at a Glance</FONT></CENTER>
+<P>
+<CENTER><TABLE BORDER=1 ALIGN="CENTER">
+<TR><TD BGCOLOR="#000000" WIDTH=170><CENTER><FONT SIZE=1 COLOR=#FFFFFF FACE="Arial">Participation Category</FONT></CENTER>
+</TD><TD BGCOLOR="#000000" WIDTH=330><CENTER><FONT SIZE=1 COLOR=#FFFFFF FACE="Arial">Description</FONT></CENTER>
+</TD><TD BGCOLOR="#000000" WIDTH=260><CENTER><FONT SIZE=1 COLOR=#FFFFFF FACE="Arial">Deadline</FONT></CENTER>
+</TD><TD BGCOLOR="#000000" WIDTH=130><CENTER><FONT SIZE=1 COLOR=#FFFFFF FACE="Arial">Event Dates*</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Technical Papers</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Report research or practical experiences </FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">20 August 1997</FONT><FONT SIZE=1>(</FONT><FONT SIZE=1 FACE="Times New Roman">electronic abstract</FONT><FONT SIZE=1>)</FONT></CENTER>
+<P>
+<CENTER><FONT SIZE=1 FACE="Times New Roman">3 September 1997 (full paper due)</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">22~24</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Panels</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Discuss and debate pressing issues</FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">20 September 1997</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">22~24</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Lessons &amp; Status Reports</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Present summaries of work taking place in institutions, organizations, or groups</FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">1 December 1997</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">22~24</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Posters &amp; Research Demonstrations</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Present late-breaking results and ongoing work </FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">1 January 1998</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">22~24</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Doctoral Symposium</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Discuss Ph.D. students' work</FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">1 November 1997</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">TBD</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Tutorials</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Teach Software Engineering techniques and theory</FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">6 October 1997 (proposal)</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">20~21</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Workshops</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Discuss focused topic in a small-group setting</FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">1 July 1997 (proposal)</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">19~21, 24~25</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Exhibition</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Show commercial and research tools </FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">Contact icseexpo@@po.iijnet.or.jp</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">21~24</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Asia Pacific Forum</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Discuss Asia-Pacific SE issues</FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">1 July 1997 (proposal)</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">TBD</FONT></CENTER>
+</TD></TR>
+</TABLE>
+</CENTER>
+<P>
+<CENTER><FONT FACE="Times New Roman">*</FONT><FONT SIZE=1 FACE="Times New Roman">Note:
+Event dates show a current plan of those held in the conference
+week from April 19 (Sun.) to 25 (Sat.), '98. These dates are subject
+to change.</FONT></CENTER>
+<P>
+</body>
+</html>@

@@ -1,0 +1,437 @@
+head	1.7;
+access;
+symbols;
+locks
+	iida:1.7; strict;
+comment	@# @;
+
+
+1.7
+date	97.09.29.09.48.03;	author iida;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	97.09.29.09.44.40;	author iida;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	97.04.30.08.10.36;	author iida;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	97.04.28.16.17.20;	author iida;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	96.04.09.08.19.09;	author iida;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	96.04.09.08.18.31;	author iida;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	96.04.01.14.14.32;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.7
+log
+@*** empty log message ***
+@
+text
+@<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>index2</TITLE>
+<META NAME="Template" CONTENT="C:\PROGRAM FILES\MICROSOFT OFFICE\OFFICE\html.dot">
+</HEAD>
+<BODY LINK="#0000ff" VLINK="#800080" BACKGROUND="./bg001.jpg">
+
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P><IMG SRC="img00002.gif" WIDTH=108 HEIGHT=122><IMG SRC="img00003.gif" WIDTH=242 HEIGHT=85></FONT><FONT FACE="Century Schoolbook" SIZE=6>in<IMG SRC="img00001.gif" WIDTH=420 HEIGHT=168></FONT><FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA" SIZE=6><BR>
+</FONT><FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><BR>
+</FONT><I>Preliminary Announcement</I> </P>
+<FONT FACE="Arial Black" SIZE=4><P ALIGN="CENTER">The 20<SUP>th</SUP> International Conference on Software Engineering</P>
+</FONT><P ALIGN="CENTER">April 19~25, 1998</P>
+<P ALIGN="CENTER">Kyoto International Conference Hall, Kyoto, JAPAN</P>
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P ALIGN="CENTER"><IMG SRC="img00004.gif" WIDTH=403 HEIGHT=99></P>
+</FONT><B><P>Sponsored by</B> </P>
+
+<UL>
+<LI>Science Council of Japan </LI>
+<LI>Information Processing Society of Japan </LI>
+<LI>Japan Society for Software Science and Technology </LI>
+<LI>IEEE Computer Society Technical Council on Software Engineering (TCSE) </LI>
+<LI>ACM Special Interest Group on Software Engineering </LI></UL>
+
+<B><I><FONT COLOR="#ff0000"><P>What's new?</P>
+
+<UL>
+<LI><A NAME="_Hlk400188872"></B></I></FONT><A HREF="detailed-info/workshop.html">Joint Workshops are announced now (click here for announce summary)!</A></A></LI></UL>
+<DIR>
+<DIR>
+<DIR>
+
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="http://salab-www.cs.titech.ac.jp/iwssd9.html"><FONT SIZE=1>IWSSD-9</FONT></A><FONT SIZE=1> / </FONT><A HREF="http://dream.eng.uci.edu/isorc/"><FONT SIZE=1>ISORC'98 /</FONT></A><FONT SIZE=1> </FONT><A HREF="http://www.dcs.shef.ac.uk/~prc/PDSE98.html"><FONT SIZE=1>PDSE '98</FONT></A><FONT SIZE=1> / Int'l Workshop on the Principle of Software Evolution / </FONT><A HREF="http://www.sei.cmu.edu/technology/dynamic_systems/cbs/icsewkshp.html"><FONT SIZE=1>Int'l Workshop on Component-Based Software Engineering</FONT></A><FONT SIZE=1> / </FONT><A HREF="http://www.parc.xerox.com/aop/icse98/"><FONT SIZE=1>Aspect-Oriented Programming Workshop</FONT></A><FONT SIZE=1> / Workshop on Software Engineering over the Internet / Engineering Hypertext for Future Information Systems /Precise Semantics for Software Modeling Techniques / Workshop on Human Dimensions in Successful Software Development / Workshop on Software Engineering Education</P></DIR>
+</DIR>
+</DIR>
+
+
+<UL>
+</FONT><LI>Call for technical paper submission is closed on 9/2. Now papers are under the review.</LI></UL>
+
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P>&nbsp;</P></FONT>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=8 WIDTH=742>
+<TR><TD WIDTH="10%" VALIGN="TOP">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="detailed-info/"><IMG SRC="./image/glass.gif" BORDER=0 WIDTH=60 HEIGHT=60></A></TD>
+<TD WIDTH="36%" VALIGN="TOP">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="detailed-info/">See Detailed Information (Call For Papers)!</A></TD>
+<TD WIDTH="54%" VALIGN="TOP">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="icse98cfp.pdf"><IMG SRC="pdficon.gif" BORDER=0 WIDTH=60 HEIGHT=60>Download PDF file of CFP!</A></TD>
+</TR>
+<TR><TD WIDTH="10%" VALIGN="TOP">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="./jp-announce.html"><IMG SRC="image/logo/nippon.gif" BORDER=0 WIDTH=60 HEIGHT=60></A></TD>
+<TD WIDTH="36%" VALIGN="TOP">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="jp-announce.html">Brief description in Japanese</A></TD>
+<TD WIDTH="54%" VALIGN="TOP">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="pubform/"><IMG SRC="pubicon.gif" BORDER=0 WIDTH=60 HEIGHT=60>Download ICSE98 Publication Format!</A></TD>
+</TR>
+</TABLE>
+
+<B><P>ICSE</B>'s twentieth birthday affords an opportunity to reflect on profound changes of the past two decades. </P>
+<P>Since ICSE's founding, politics and technology have converged to shatter once formidable barriers to international cooperation. The collapse of the Berlin Wall symbolizes the end of the Cold War, and links in a Web page are a metaphor for our enhanced capacity for global information exchange. </P>
+<P>In this spirit, we have worked hard to ensure that ICSE98 will see an unprecedented increase in the level of international participation and provide an opportunity to highlight the interests and accomplishments of members from the Asian-Pacific region. Yet our outreach must extend beyond geography. </P>
+<P>As we continue to build bridges to other software disciplines, researchers and practitioners in allied fields will benefit from an understanding of the contributions that software engineering can make to their work. In turn, we must address their problems in our research. New collaborations between academia and industry will also enrich ICSE98 and our profession as a whole. </P>
+<P>I hope you will take advantage of this unique opportunity to meet new colleagues, exchange ideas, and explore the nearly limitless possibilities that lie ahead. Join me in Kyoto for ICSE98 and share the excitement that comes from <I>forging new links</I>. </P>
+<P>For more information: </P>
+
+<UL>
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><LI></FONT><A HREF="http://icse98.aist-nara.ac.jp/detailed-info/">See Detailed Information Pages!</A> </LI>
+<LI>Send e-mail to <A HREF="mailto:icse98-info@@itc.aist-nara.ac.jp">icse98-info@@itc.aist-nara.ac.jp</A> </LI></UL>
+
+<H4>ICSE98 Committee Chairs</H4>
+<TABLE CELLSPACING=0 BORDER=0>
+<TR><TD VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT>General Chair </TD>
+<TD VALIGN="MIDDLE">
+<P>Koji Torii (NAIST) </TD>
+<TD VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="torii@@is.aist-nara.ac.jp">torii@@is.aist-nara.ac.jp</A> </TD>
+</TR>
+<TR><TD VALIGN="MIDDLE">
+<P>Technical Committee </TD>
+<TD VALIGN="MIDDLE">
+<P>Takuya Katayama (JAIST) </TD>
+<TD VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="mailto:katayama@@jaist.ac.jp">katayama@@jaist.ac.jp</A> </TD>
+</TR>
+<TR><TD VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P>&nbsp;</FONT></TD>
+<TD VALIGN="MIDDLE">
+<P>David Notkin (U.of Washington) </TD>
+<TD VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="mailto:notkin@@cs.washington.edu">notkin@@cs.washington.edu</A> </TD>
+</TR>
+<TR><TD VALIGN="MIDDLE">
+<P>Program Committee </TD>
+<TD VALIGN="MIDDLE">
+<P>Kokichi Futatsugi (JAIST) </TD>
+<TD VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="mailto:kokichi@@jaist.ac.jp">kokichi@@jaist.ac.jp</A> </TD>
+</TR>
+<TR><TD VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P>&nbsp;</FONT></TD>
+<TD VALIGN="MIDDLE">
+<P>Richard Kemmerer (UCSB) </TD>
+<TD VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="mailto:kemm@@cs.ucsb.edu">kemm@@cs.ucsb.edu</A> </TD>
+</TR>
+<TR><TD VALIGN="MIDDLE">
+<P>Asia Pacific </TD>
+<TD VALIGN="MIDDLE">
+<P>Dines Bjorner (UNU/IIST) </TD>
+<TD VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="mailto:db@@iist.unu.edu">db@@iist.unu.edu</A> </TD>
+</TR>
+<TR><TD VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P>&nbsp;</FONT></TD>
+<TD VALIGN="MIDDLE">
+<P>Koichi Kishida (SRA) </TD>
+<TD VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="mailto:k2@@sra.co.jp">k2@@sra.co.jp</A> </TD>
+</TR>
+<TR><TD VALIGN="MIDDLE">
+<P>Operating Committee </TD>
+<TD VALIGN="MIDDLE">
+<P>Norihisa Doi (Keio U.) </TD>
+<TD VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="mailto:doi@@keio.ac.jp">doi@@keio.ac.jp</A> </TD>
+</TR>
+<TR><TD VALIGN="MIDDLE">
+<P>Treasurer </TD>
+<TD VALIGN="MIDDLE">
+<P>Seishiro Tsuruho (NTT Data) </TD>
+<TD VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="mailto:tsuruho@@plan.rd.nttdata.co.jp">tsuruho@@plan.rd.nttdata.co.jp </A></TD>
+</TR>
+<TR><TD VALIGN="MIDDLE">
+<P>Secretariat </TD>
+<TD VALIGN="MIDDLE">
+<P>Masaki Koyama (NAIST) </TD>
+<TD VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="mailto:koyama@@itc.aist-nara.ac.jp">koyama@@itc.aist-nara.ac.jp</A> </TD>
+</TR>
+</TABLE>
+
+<B><P>Corporate Sponsors(Tentative):</B> </P>
+
+<UL>
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><LI></FONT><A HREF="http://www.nikkei.co.jp/"><IMG SRC="./nikkei-logo.gif" ALIGN="MIDDLE" BORDER=0 WIDTH=150 HEIGHT=47></A>Nihon Keizai Shimbun, Inc. </LI>
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><LI></FONT><A HREF="http://www.ntt.co.jp/"><IMG SRC="./ntt-logo.gif" ALIGN="MIDDLE" BORDER=0 WIDTH=150 HEIGHT=53></A>Nippon Telegraph and Telephone Corporation </LI></UL>
+
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P><HR WIDTH="80%"></P>
+<P><!--#include file="notice.html"--></P>
+<P><HR></P></FONT></BODY>
+</HTML>
+@
+
+
+1.6
+log
+@*** empty log message ***
+@
+text
+@d23 1
+a23 1
+<LI>IEEE Computer Society Technical Council on Software Engineering (TCSE)</LI>
+d26 35
+a60 9
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="detailed-info/"><IMG SRC="./image/glass.gif" BORDER=0 WIDTH=60 HEIGHT=60></A><A HREF="detailed-info/">See Detailed Information (Call For Papers)!</A> -- Technical paper submission
+closed (9/2) </P>
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A
+HREF="icse98cfp.pdf"><IMG SRC="pdficon.gif" BORDER=0 WIDTH=60
+HEIGHT=60>Download PDF file of CFP!</A></P>
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P><A NAME="_Hlk390676791"></FONT><A HREF="pubform/"><IMG SRC="pubicon.gif" BORDER=0 WIDTH=60 HEIGHT=60>Download ICSE98 Publication Format!</A> </P>
+<P></A><A HREF="./jp-announce.html"><IMG SRC="image/logo/nippon.gif" BORDER=0 WIDTH=60 HEIGHT=60>Brief description in Japanese</A></P>
+<B><FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P>&nbsp;</P>
+</FONT><P>ICSE</B>'s twentieth birthday affords an opportunity to reflect on profound changes of the past two decades. </P>
+d152 2
+a153 3
+</FONT>
+<!--#include file="notice.html"--></P>
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P><HR></P></FONT></BODY>
+@
+
+
+1.5
+log
+@*** empty log message ***
+@
+text
+@d5 1
+a5 1
+<TITLE>FORGING NEW LINKS</TITLE>
+d16 2
+a17 1
+<B><P>Sponsored by</B> </P>
+d23 1
+a23 1
+<LI>IEEE Computer Society </LI>
+d26 9
+a34 4
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="detailed-info/"><IMG SRC="./image/glass.gif" BORDER=0 WIDTH=64 HEIGHT=60></A><A HREF="detailed-info/">See Detailed Information!</A></P>
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P><IMG SRC="image/logo/nippon.gif" WIDTH=48 HEIGHT=48></FONT><A HREF="./jp-announce.html">Brief description in Japanese</A></P>
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P ALIGN="CENTER"><IMG SRC="img00004.gif" WIDTH=403 HEIGHT=99></P>
+</FONT><B><P>ICSE</B>'s twentieth birthday affords an opportunity to reflect on profound changes of the past two decades. </P>
+d36 1
+a36 1
+<P>In this spirit, we have worked hard to ensure that ICSE98 will see an unprecedented increase in the level of international participation. In particular, we will give a greater voice to members from the Asian-Pacific region, an area under-represented in the past. Yet our outreach must extend beyond geography. </P>
+a44 75
+<B><P ALIGN="CENTER">Submissions at a Glance</P></B>
+<TABLE BORDER CELLSPACING=1 WIDTH=833>
+<TR><TD WIDTH="28%" VALIGN="MIDDLE">
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P ALIGN="CENTER"></FONT><B><FONT FACE="Arial">Participation Category</B></FONT></TD>
+<TD WIDTH="45%" VALIGN="MIDDLE">
+<B><FONT FACE="Arial"><P ALIGN="CENTER">Description</B></FONT></TD>
+<TD WIDTH="27%" VALIGN="MIDDLE">
+<B><FONT FACE="Arial"><P ALIGN="CENTER">Tentative Deadline</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="28%" VALIGN="MIDDLE">
+<P>Technical Papers</TD>
+<TD WIDTH="45%" VALIGN="MIDDLE">
+<P>Report research or practical experiences </TD>
+<TD WIDTH="27%" VALIGN="MIDDLE">
+<P>20 August 1997 (electronic abstract) </P>
+<P>3 September 1997 (full paper due) </TD>
+</TR>
+<TR><TD WIDTH="28%" VALIGN="MIDDLE">
+<P>Panels</TD>
+<TD WIDTH="45%" VALIGN="MIDDLE">
+<P>Discuss and debate pressing issues </TD>
+<TD WIDTH="27%" VALIGN="MIDDLE">
+<P>20 September 1997</TD>
+</TR>
+<TR><TD WIDTH="28%" VALIGN="MIDDLE">
+<P>Software Engineering in Organizations: Lessons and Status Reports </TD>
+<TD WIDTH="45%" VALIGN="MIDDLE">
+<P>Summaries of work taking place in institutions, organizations, or groups </TD>
+<TD WIDTH="27%" VALIGN="MIDDLE">
+<P>1 December 1997</TD>
+</TR>
+<TR><TD WIDTH="28%" VALIGN="MIDDLE">
+<P>Tutorials</TD>
+<TD WIDTH="45%" VALIGN="MIDDLE">
+<P>Teach Software Engineering techniques and theory </TD>
+<TD WIDTH="27%" VALIGN="MIDDLE">
+<P>6 October 1997 (proposal) </TD>
+</TR>
+<TR><TD WIDTH="28%" VALIGN="MIDDLE">
+<P>Workshops</TD>
+<TD WIDTH="45%" VALIGN="MIDDLE">
+<P>Discuss focused topic in a small-group setting </TD>
+<TD WIDTH="27%" VALIGN="MIDDLE">
+<P>1 July 1997 (proposal) </TD>
+</TR>
+<TR><TD WIDTH="28%" VALIGN="MIDDLE">
+<P>Posters &amp; Research Demonstrations </TD>
+<TD WIDTH="45%" VALIGN="MIDDLE">
+<P>Present late-breaking results and ongoing work </TD>
+<TD WIDTH="27%" VALIGN="MIDDLE">
+<P>1 January 1998</TD>
+</TR>
+<TR><TD WIDTH="28%" VALIGN="MIDDLE">
+<P>Doctoral Symposium</TD>
+<TD WIDTH="45%" VALIGN="MIDDLE">
+<P>Discuss Ph.D. students' work </TD>
+<TD WIDTH="27%" VALIGN="MIDDLE">
+<P>1 November 1997</TD>
+</TR>
+<TR><TD WIDTH="28%" VALIGN="MIDDLE">
+<P>Asia Pacific Forum</TD>
+<TD WIDTH="45%" VALIGN="MIDDLE">
+<P>Discuss Asia-Pacific Software Engineering Issues </TD>
+<TD WIDTH="27%" VALIGN="MIDDLE">
+<P>1 July 1997</TD>
+</TR>
+<TR><TD WIDTH="28%" VALIGN="MIDDLE">
+<P>Exhibition</TD>
+<TD WIDTH="45%" VALIGN="MIDDLE">
+<P>Show commercial product and tools </TD>
+<TD WIDTH="27%" VALIGN="MIDDLE">
+<P>Contact to <A HREF="mailto:icseexpo@@po.iijnet.or.jp">icseexpo@@po.iijnet.or.jp</A> </TD>
+</TR>
+</TABLE>
+
+d126 2
+a127 2
+</FONT><P>Approximately <!--#exec cmd="./countup"-->people visited this page at this time. </P>
+<P><!--#include file="notice.html"--></P>
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@d25 1
+a25 1
+<FONT FACE="&#65325;&#65331; &#26126;&#26397;" LANG="JA"><P></FONT><A HREF="detailed-info/"><IMG SRC="file:///\\Holstein/www/image/glass.gif" BORDER=0 WIDTH=64 HEIGHT=60></A><A HREF="detailed-info/">See Detailed Information!</A></P>
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d1 198
+a198 36
+<HTML>
+<HEADER>
+<TITLE>ICSE98 Home Page</TITLE>
+</HEADER>
+<BODY BGCOLOR=#AA9988 TEXT=#550000 LINK=#FF0000>
+
+<CENTER>
+  <H1>ICSE98 official homepage</H1>
+
+</CENTER>
+
+<hr>
+<CENTER>
+<A HREF="./icse98.html">
+	If you have fast line, select this link (including image data).
+</A><P>
+<A HREF="./icse98-text.html">
+	If you have slow line, select this link (text only).
+</A><P>
+</CENTER>
+
+<hr width=80%>
+
+	This WWW server is supported by 
+	<A HREF="http://itcw3.aist-nara.ac.jp/">
+	Information Technology Center</A>, at 
+	<A HREF="http://www.aist-nara.ac.jp/">
+	Nara Institute of Science and Technology
+	</A><BR>
+
+This page is currently managed by: <I><A HREF="mailto:iida@@itc.aist-nara.ac.jp">
+iida@@itc.aist-nara.ac.jp</A></I>.
+Any suggestions/comments are welcome.
+<HR>
+</BODY>
+</HTML>
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d7 4
+a10 1
+  <H1 ALIGN=CENTER>ICSE98 official homepage</H1>
+a19 2
+
+Approximately <!--#exec cmd="./countup"--> people visited this page at this time.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d7 1
+a7 3
+<CENTER>
+  <H1>ICSE98 official homepage</H1>
+</CENTER>
+d10 1
+d13 1
+a13 1
+</A><BR>
+d16 4
+a19 1
+</A><BR>
+d23 9
+a31 2
+This page is currently managed by:<BR>
+<ADDRESS ALIGN=RIGHT> iida@@itc.aist-nara.ac.jp</ADDRESS>.
+d33 1
+@

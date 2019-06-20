@@ -1,0 +1,173 @@
+head	1.1;
+access;
+symbols;
+locks
+	iida:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	97.05.09.03.58.52;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@
+<HEAD>
+<TITLE>The annual International Conference on Software Engineering (ICSE) is the leading forum for the exchange of ideas on all aspects of software engineering
+</TITLE>
+
+</HEAD>
+<BODY bgcolor=white text=black>
+
+
+<A NAME="se-org"></A><CENTER><FONT SIZE=5 FACE="Optimum">LESSONS </FONT><FONT SIZE=4 FACE="Optimum">AND
+</FONT><FONT SIZE=5 FACE="Optimum">STATUS REPORTS </FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">AIM</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Lessons and Status Reports
+were introduced to the ICSE program at ICSE97. The reports are
+intended to provide software engineering professionals with a
+picture of practices, procedures, techniques, products, and organizational
+structures. Our goal is to provide software engineers and managers
+with: </FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">insights that can be adapted
+and applied within their own work practices and organizations;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">information on the activities
+of software engineering practitioners doing innovative and potentially
+influential work;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">information on software
+engineering activities which form the basis for future generations
+of software engineering tools, techniques and management.</FONT>
+</UL>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SCOPE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">We encourage submissions from
+institutions, organizations, and groups within companies, universities,
+and government. Submissions may be from organizations of any size
+and any maturity level, ranging from small software development
+teams to larger teams of professional software developers working
+in large companies. We also encourage submissions</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">describing a broad range of
+applications, from single-user PC software to global, enterprise-wide
+solutions. </FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Reports may describe software
+engineering activities in;</FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">Software planning, acquisition,
+and integration organizations,</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Software development and
+maintenance organizations,</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Software engineering process
+groups or consultatory organizations,</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Quality assurance groups
+or independent products evaluators,</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Collaborative efforts
+involving several groups or organizations,</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Partnerships of different
+types of groups, or</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Groups cooperating across
+geographical, political, or cultural boundaries.</FONT>
+</UL>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">We are looking for lessons,
+procedures, techniques and products, including new perspectives
+on old but as yet unsolved problems, that stimulate practicing
+software engineers, R&amp;D organizations, and software engineering
+researchers, and that can be learned and applied.</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Examples of topics may include
+but are not limited to:</FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">Assessment and transfer
+of new technologies, including education, training and supporting
+issues.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Planning and implementation
+of a new methodology into an organization;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Experience in the application
+of CASE Tools;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Practice of process design,
+process assessment and process improvement;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Application of software
+quality metrics and evaluation practice;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Experience on some aspects
+of the application of innovative software engineering techniques
+in organizations. </FONT>
+</UL>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The submissions should emphasize;</FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">the circumstances under
+which work is done;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">the underlying goals,
+policies, and organizational background;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">perspectives of past,
+present, and future software engineering efforts.</FONT>
+</UL>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">We aim to bring together people
+to report about their practice with the focus on giving the &quot;big
+picture&quot; rather than a technically interesting focus on a
+single scientific result. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">REVIEW PROCESS</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Submissions will be reviewed
+for acceptance based on: the interest to members of the software
+engineering community; the significance of impact of the report
+to the Software Engineering community; and the objective of informing
+the software engineering community activities world wide.</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Submissions are solicited
+from organizations. Solicited proposals will be subject to the
+same review process and criteria as proposals submitted in response
+to this call. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">HOW TO SUBMIT</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Proposed Lessons and Status
+Reports must be prepared in the Conference Proceedings Format
+</FONT><A HREF="http://icse98.aist-nara.ac.jp/">(see http: //icse98.aist-nara.ac.jp/)</A><FONT SIZE=2 FACE="Times New Roman">.
+Proposals must not exceed 2 pages in length. </FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Accepted papers will be published
+in the conference proceedings. The primary author of each accepted
+report will receive an Author Kit with detailed instructions on
+how to submit camera-ready materials for publication. </FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">At the conference, the Status
+Report should be presented by a major participant in the work.
+The presentation should be based on the material described in
+the Status Report Summary. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SEND TO</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Motoei AZUMA,<BR>
+Department of Industrial and Management Systems Engineering<BR>
+Waseda University<BR>
+Okubo, Shinjuku-ku, Tokyo 169, Japan<BR>
+TEL: +81-3-5286-3302<BR>
+FAX: +81-3-3200-2567<BR>
+E-MAIL: azuma@@azuma.mgmt.waseda.ac.jp<BR>
+</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">DEADLINE </FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Reports: 1 December 1997<BR>
+</FONT>
+</body>
+</html>@

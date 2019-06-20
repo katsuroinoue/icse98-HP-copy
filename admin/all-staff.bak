@@ -1,0 +1,17 @@
+<HTML>
+<HEADER>
+<TITLE>ICSE98 事務連絡ＭＬアーカイブ</TITLE>
+</HEADER>
+<BODY BGCOLOR=#AA9988 TEXT=#550000 LINK=#FF0000>
+
+<hr>
+
+<A HREF="all-staff.html">ＭＬ登録者一覧</A>
+
+<HR>
+<PRE>
+<!--#exec cmd="./scan-icse20-staff"-->
+</PRE>
+<HR>
+</BODY>
+</HTML>

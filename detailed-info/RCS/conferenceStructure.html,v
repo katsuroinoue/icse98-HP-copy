@@ -1,0 +1,56 @@
+head	1.1;
+access;
+symbols;
+locks
+	iida:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	97.05.09.03.58.52;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<HTML>
+<HEAD>
+<TITLE>The annual International Conference on Software Engineering (ICSE) is the leading forum for the exchange of ideas on all aspects of software engineering
+</TITLE>
+
+</HEAD>
+<BODY bgcolor=white text=black>
+<CENTER><FONT SIZE=4 FACE="Optimum">OVERALL CONFERENCE STRUCTURE</FONT></CENTER>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The annual International Conference
+on Software Engineering (ICSE) is the leading forum for the exchange
+of ideas on all aspects of software engineering. ICSE98 invites
+you to submit work to share with the ICSE community.</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Different classes of contributions
+are sought, ranging from research papers to lessons and status
+reports from software engineering organizations. The ultimate
+goal is to build a rich and comprehensive conference program that
+can fit the interests and needs of different classes of attendees:
+professionals, researchers, managers, and students. If you are
+unsure of which category to submit to, please consult the co-chairs
+in charge of specific events you may be interested in. </FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">You may prepare as many submissions
+as you like in the same or different categories. In a given category,
+the same materials should be presented only once.</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">In keeping with the international
+character of past ICSEs, the written and spoken language of the
+conference is English.</FONT>
+<P>
+</body>
+</html>@

@@ -1,0 +1,256 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<!-- $Id: pubform.html,v 1.6 1997/01/24 18:21:40 kari Exp $ -->
+<HEAD>
+<TITLE>ICSE 97 Publication Format</TITLE>
+<LINK rev="Made" href="mailto:icse-97-webmaster@ics.uci.edu">
+<META http-equiv="Reply-To" content="icse-97-webmaster@ics.uci.edu">
+</HEAD><BODY>
+
+<h1><a href="../"><img src="../logos/icse.gif" alt="" align=top border=0></a>
+ICSE 97 Publication Format</h1>
+
+<HR>
+<p>
+The text below describes the <i>ICSE 97 Proceedings</i> Publication Format.
+Please note that this is an HTML document and thus won't be displayed
+in the proceedings format.  A properly formatted 
+<a href="ICSE97-pubformat.ps">postscript</a> 
+version of these guidelines is available for printing and/or viewing. 
+Click <a href="ICSE97-pubformat-er.ps">here</a> for a postscript
+version of an <i>Experience Report</i> which has a sightly 
+difference format.
+<p>
+We have also created templates that match the proceedings format for several
+common word processing/DTP applications, including
+<a href="word/word.html">Microsoft Word</a>,
+<a href="frame/frame.html">FrameMaker</a>, and 
+<a href="latex/latex.html">LaTeX</a> formats.
+<p>
+If you have any questions about how to produce a camera-ready document
+or if you have any comments about the format, please email them to
+<a href="mailto:icse-97-publications@ics.uci.edu">
+	 icse-97-publications@ics.uci.edu</a>,
+or phone +1-714-824-8756.
+<p>
+<HR size=6>
+<p>
+
+<H2 align=CENTER>ICSE 97 Conference Proceedings Format</H2>
+
+<P ALIGN=CENTER>
+<b> First Author</b><BR>
+First author's affiliation<BR>
+1st line of address<BR>
+2nd line of address<BR>
+Last line, including country code<BR>
+1st author's email address<BR>
+</P>
+
+<H3>ABSTRACT</H3>
+This is a sample paper using the format and guidelines 
+required for the <i>ICSE 97 Conference Proceedings</i>. It 
+includes instructions for preparing a camera-ready copy of 
+your accepted submission.
+
+<H4>Keywords</H4>
+Guides, formatting, author's kit, conference publications
+
+<H3>INTRODUCTION</H3>
+The Proceedings of ICSE 97 represent the final archival 
+records of the conference. To give the book a high quality 
+appearance we ask that authors follow these guidelines. In 
+essence, we ask you to make your document look as much 
+like this document as possible. 
+One way to do this is to download this document from the 
+ICSE 97 on-line author kit [2] in the file format you wish to 
+use, and then replace the text shown here with your own. 
+Available formats are Microsoft Word, FrameMaker, and 
+LaTeX. Each one has a mechanism for applying styles like 
+Normal, Author Name, Heading 1, etc.
+
+<H3>PAGE LIMIT AND PAGE SIZE</H3>
+Submissions in different categories have different page 
+limits that must be adhered to. Papers, for example, should 
+be no longer than 11 pages. Submissions that exceed the 
+limit for their category will not be reviewed.
+All material on each page should fit within a rectangle of 
+18 x 23.5 cm (7" x 9.25"), centered on the page, beginning 
+1.9 cm (.75") from the top of the page, with a .85 cm (.33") 
+space between two 8.4 cm (3.3") columns. Use either US 
+Letter or A4 paper. Right margins should be justified, not 
+ragged.
+
+<H3>TYPESET TEXT</H3>
+Submissions should be prepared on a typesetter or word 
+processor. Please use a 10-point Times Roman font, or other 
+Roman font with serifs, as close as possible in appearance to 
+Times Roman in which these guidelines have been set. Note 
+that different components (such as title, authors, headers - 
+see below) use the same font, but with different sizes and styles. 
+The target is to have a 10-point text, as you see here. 
+Please do not use sans-serif or non-proportional fonts except 
+for special purposes, such as distinguishing source code text 
+(e.g., #include &lt;iostream.h&gt;). Fonts similar to Times 
+Roman include Times, Computer Modern Roman, and Press.
+If you do not have a laser printer, you may be able to arrange 
+for a business to print your document for you. If no laser 
+printer is available, then please ask the conference office for 
+assistance. 
+
+<H4>Title and Authors</H4>
+The title (18-point bold), authors' names (12-point bold), 
+and affiliations (12-point) run across the full width of the 
+page -- one column 17.8 cm (7") wide. Please also include 
+phone numbers and email addresses. See the top of this 
+page for three names with different addresses. Note that each 
+of the names/addresses has its own table cell in a table with 
+invisible borders. If only one address is needed, center all 
+address text in a single-column table. For two addresses, use 
+two columns, and so on. For more that three authors, you 
+may have to improvise (if necessary, you may place some 
+address information in a footnote).   In addition, experience
+reports <b>must</b> be indicated with the words ``Experience Report''
+(14-point bold) centered between the title and authors.
+
+<H4>Abstract and Keywords</H4>
+Every submission (except summaries of Workshops) should 
+begin with an abstract of no more than 100 words, followed 
+by a set of keywords. The abstract and keywords should be 
+placed in the left column of the first page. The abstract 
+should be a concise summary of the work and resulting 
+conclusions. Keywords should help readers determine if the 
+paper contains topics they are interested in.
+
+<H4>First Page Copyright Notice</H4>
+Remember to leave at least 2.5 cm (1") of blank space at the 
+bottom of the left column of the first page only. This space is 
+reserved for the copyright notice that will be added during 
+final printing.
+
+<H4>Subsequent Pages</H4>
+For pages other than the first page, start at the top of the page 
+and continue in double-column format. It is preferable (but 
+not required) that the two columns on the last page have 
+approximately equal length. 
+
+<H4>References and Citations</H4>
+Use the standard Communications of the ACM format for 
+references -- that is, a numbered list at the end of the article, 
+ordered alphabetically by first author, and referenced by 
+numbers in brackets [1]. See the examples of citations at the 
+end of this document. 
+
+References should be published materials accessible to the 
+public. Internal technical reports may be cited only if they 
+are easily accessible (i.e., you can give the address to obtain 
+it within your citation) and may be obtained by any reader. 
+Proprietary information should not be cited. Private 
+communications should be acknowledged, not referenced 
+(e.g., "[Robertson, personal communication]").
+
+<H4>Page Numbering, Headers and Footers</H4>
+Do not include headers or footers in your submission. Page 
+numbers should be included in your submission for review. 
+Final submission of accepted papers should not include any 
+page numbers; they will be added for you when the 
+publications are assembled.
+
+<H3>SECTIONS</H3>
+The title of a section should be in Times Roman 10-point 
+bold in all capitals. Please do not number the sections.
+
+<H4>Subsections</H4>
+The title of subsections should be in Times Roman 10-point 
+bold with only the initial letters of each word capitalized. 
+For subsections and subsubsections, a word like the and a is 
+not capitalized unless it is the first word of the heading.
+
+<H4><i>Subsubsections</i></H4>
+The heading for subsubsections should be in Times Roman 
+10-point italic with initial letters of each word capitalized.
+
+<H3>FIGURES</H3>
+Figures should be inserted at the appropriate point in your 
+text. Figures may extend over the two columns up to 17.8 
+cm (7") if necessary. Black and white photographs (not 
+Polaroid prints) may be mounted on the camera-ready paper 
+with glue or double-sided tape. (To avoid smudges, attach 
+figures by paste or tape applied to their back surfaces only.)
+
+<H3>LANGUAGE, STYLE AND CONTENT</H3>
+The written and spoken language of ICSE 97 is English. 
+Spelling and punctuation may consistently use any dialect 
+of English (e.g., British, Canadian or US). Please write for 
+an international audience:
+
+<UL>
+<LI>
+Write in a straightforward sty structure. Try to avoid 
+long sentences and complex sentence structure. Use 
+semicolons carefully.
+<LI>
+Use common and basic vocabulary (e.g., use the word 
+"unusual" rather than the word "arcane"). 
+<LI>
+Briefly define or explain all technical terms.
+<LI>
+Explain all acronyms when they first appear in your text 
+such as, "World Wide Web (WWW)"
+<LI>
+Explain "insider" comments. Be sure that your whole 
+audience will understand any reference whose meaning 
+you do not explain (e.g., do not assume that everyone 
+has used a Macintosh or MS-DOS).
+<LI>
+Avoid or explain puns, jokes, and colloquial language. 
+Humor and irony are difficult to translate. 
+<LI>
+Use unambiguous forms for representing culturally 
+localized concepts, such as times, dates, and currencies, 
+(e.g., "1-5-96" or "5/1/96" may mean 5 January or 1 
+May, and "seven o'clock" may mean 7:00 am or 1900).
+</UL>
+
+Authors are responsible for ensuring that their work is 
+conducted in a professional and ethical manner [1], 
+including (but not limited to) fully informed consent of 
+participants in studies, protection of personal data (e.g., [3]), 
+and permission to use others' copyrighted materials.
+
+<H3>INFORMATION AND QUESTIONS</H3>
+For more information, contact the ICSE 97 Office at 
+<a href="mailto:icse-97-publications@ics.uci.edu">
+	 icse-97-publications@ics.uci.edu</a>,
+or phone +1-714-824-8756.
+
+<H3>ACKNOWLEDGEMENTS</H3>
+This document has been adapted from the Style Sheet 
+defined for CHI 96 by Michael J. Muller, Bonnie Nardi, and 
+Michael J. Tauber, and numerous people in the CHI 
+community. Their contributions are gratefully 
+acknowledged.
+
+<H3>REFERENCES</H3>
+<OL>
+<LI>
+Anderson, R.E. Social impacts of computing: Codes of 
+professional ethics. <EM>Social Science Computing Review</EM>,
+10, 2 (Winter 1992), 453-469.
+<LI>
+ICSE 97 Electronic Author Kit, Available at 
+&lt;http://www.ics.uci.edu/icse97/pubform/&gt;.
+<LI>
+Mackay, W.E. Ethics, lies and videotape. . . in 
+<EM>Proc. CHI'95</EM> (Denver CO, May 1995), ACM Press, 138-145.
+</OL>
+<p>
+<HR>
+<ADDRESS>
+<A HREF="../webmaster.html">
+&lt;icse-97-webmaster@ics.uci.edu&gt;</A><BR>
+<A HREF="http://www.ics.uci.edu/icse97/">
+1997 International Conference on Software Engineering</A>
+</ADDRESS>
+Last modified: 15 Feb 1996
+</BODY></HTML>

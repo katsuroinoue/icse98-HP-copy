@@ -1,0 +1,13 @@
+<HTML>
+<HEADER>
+<TITLE>TEST</TITLE>
+</HEADER>
+<BODY BGCOLOR=#AA9988 TEXT=#550000 LINK=#FF0000>
+
+<hr>
+<PRE>
+<!--#exec cmd="./scan-icse20"-->
+</PRE>
+<HR>
+</BODY>
+</HTML>

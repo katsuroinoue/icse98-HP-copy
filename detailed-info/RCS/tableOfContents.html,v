@@ -1,0 +1,77 @@
+head	1.1;
+access;
+symbols;
+locks
+	iida:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	97.05.09.03.58.52;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<HTML>
+<HEAD>
+<TITLE>The annual International Conference on Software Engineering (ICSE) is the leading forum for the exchange of ideas on all aspects of software engineering
+</TITLE>
+
+</HEAD>
+<BODY bgcolor=white text=black>
+
+INDEX
+<br><br><!--
+<nobr>
+<ul>
+<li><A HREF="member.html" target="content">ICSE98 Committee Members</A></li>
+<li><A HREF="org-sponsor.html" target="content">Corporate Sponsors (Tentative)</A></li>
+<li><A HREF="submit-table.html" target="content">Submissions at a Glance</A></li>
+<li><A HREF="topic.html" target="content">TOPIC AREAS</A></li>
+<li><A HREF="asia.html" target="content">ASIA PACIFIC FORUM</A></li>
+<li><A HREF="doctor.html" target="content">DOCTORAL SYMPOSIUM</A></li>
+<li><A HREF="exhibit.html" target="content">EXHIBITION</A></li>
+
+<li><A HREF="se-org.html" target="content">LESSONS AND STATUS REPORTS</A></li>
+<li><A HREF="panel.html" target="content">PANELS</A></li>
+<li><A HREF="poster.html" target="content">POSTERS AND DEMOS</A></li>
+<li><A HREF="paper.html" target="content">TECHNICAL PAPERS</A></li>
+<li><A HREF="tutorial.html" target="content">TUTORIALS</A></li>
+<li><A HREF="workshop.html" target="content">WORKSHOPS</A></li>
+<li><A HREF="kyoto.html" target="content">WELCOME TO KYOTO IN CHERRY BLOSSOM SEASON</A></li>
+
+
+-->
+
+
+<table width=550>
+<tr><td><H6><li><A HREF="member.html" target="content">ICSE98 Committee Members</A></li></td></tr>
+<tr><td><H6><li><A HREF="org-sponsor.html" target="content">Corporate Sponsors (Tentative)</A></li></td></tr>
+<tr><td><H6><li><a href="conferenceStructure.html" target="content">Conference Structure</a></li></td></tr>
+<tr><td><H6><li><A HREF="submit-table.html" target="content">Submissions at a Glance</A></li></td></tr>
+<tr><td><H6><li><A HREF="topic.html" target="content">TOPIC AREAS</A></li></td></tr>
+<tr><td><H6><li><A HREF="asia.html" target="content">ASIA PACIFIC FORUM</A></li></td></tr>
+<tr><td><H6><li><A HREF="doctor.html" target="content">DOCTORAL SYMPOSIUM</A></li></td></tr>
+<tr><td><H6><li><A HREF="exhibit.html" target="content">EXHIBITION</A></li></td></tr>
+
+<tr><td><H6><li><A HREF="se-org.html" target="content">LESSONS AND STATUS REPORTS</A></li></td></tr>
+<tr><td><H6><li><A HREF="panel.html" target="content">PANELS</A></li></td></tr>
+<tr><td><H6><li><A HREF="poster.html" target="content">POSTERS AND DEMOS</A></li></td></tr>
+<tr><td><H6><li><A HREF="paper.html" target="content">TECHNICAL PAPERS</A></li></td></tr>
+<tr><td><H6><li><A HREF="tutorial.html" target="content">TUTORIALS</A></li></td></tr>
+<tr><td><H6><li><A HREF="workshop.html" target="content">WORKSHOPS</A></li></td></tr>
+<tr><td><H6><li><A HREF="kyoto.html" target="content">WELCOME TO KYOTO IN CHERRY BLOSSOM SEASON</A></li></td></tr>
+
+</table>
+</BODY>
+</HTML>
+@

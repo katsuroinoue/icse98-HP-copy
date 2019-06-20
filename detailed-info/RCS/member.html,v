@@ -1,0 +1,172 @@
+head	1.1;
+access;
+symbols;
+locks
+	iida:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	97.05.09.03.58.52;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<HTML>
+<HEAD>
+<TITLE>The annual International Conference on Software Engineering (ICSE) is the leading forum for the exchange of ideas on all aspects of software engineering
+</TITLE>
+
+</HEAD>
+<BODY bgcolor=white text=black>
+
+<P>
+<A NAME="member"></A><CENTER><FONT SIZE=5 FACE="Optimum">ICSE98 Committee Members</FONT></CENTER>
+<P>
+<CENTER><TABLE BORDER=0 ALIGN="CENTER">
+<TR><TD VALIGN="TOP" WIDTH=444><U><B><FONT SIZE=1 FACE="Times New Roman">General Chair<BR>
+</FONT></B></U><FONT SIZE=1 FACE="Times New Roman">Koji Torii (NAIST, Japan) torii@@is.aist-nara.ac.jp</FONT>
+<P>
+<U><B><FONT SIZE=1 FACE="Times New Roman">Technical Chair<BR>
+</FONT></B></U><FONT SIZE=1 FACE="Times New Roman">Takuya Katayama (JAIST, Japan) katayama@@jaist.ac.jp <BR>
+David Notkin(U.of Washington) notkin@@cs.washington.edu</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Technical Papers &amp; Panels<BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Kokichi Futatsugi (JAIST, Japan) kokichi@@jaist.ac.jp <BR>
+Richard Kemmerer (UCSB, USA) kemm@@cs.ucsb.edu </FONT>
+<P>
+<FONT SIZE=1 FACE="Times New Roman">Betty H.C. Cheng (Michigan State U, USA)<BR>
+Shing-Chi Cheung (Hong Kong U of Sci and Tech, Hong Kong)<BR>
+Lori A. Clarke (U of Massachusetts, USA)<BR>
+Michael Cusumano (MIT, USA)<BR>
+Premkumar Devanbu (AT&amp;T Lab, USA)<BR>
+Alfonso Fuggetta (Politecnico di Milano, Italy)<BR>
+John Gannon (U of Maryland, USA)<BR>
+David Garlan (CMU, USA)<BR>
+Richard Gerber (U of Maryland, USA)<BR>
+Carlo Ghezzi (Politecnico di Milano, USA)<BR>
+William Griswold (U of Calf San Diego, USA)<BR>
+Daniel Hoffman (U of Victoria, Canada)<BR>
+Shinichi Honiden (Toshiba, Japan)<BR>
+Susan Horwitz (U of Wisconsin, USA)<BR>
+Katsuro Inoue (Osaka U, Japan)<BR>
+Joxan Jaffar (National U of Singapore, Singapore)<BR>
+Mehdi Jazayeri (TU Vienna, Austria)<BR>
+Ross Jeffery (U of New South Wales, Australia)<BR>
+Dehua Ju (East China U of Sci and Tech, China)<BR>
+Kyo C. Kang (Pohang U of Sci and Tech, Korea)<BR>
+John C. Knight (U of Virginia, USA)<BR>
+Jeff Kramer (Imperial College of Sci Tech and Medicine, UK)<BR>
+Reino Kurki-Suonio (Tampere U of Technology, Finland)<BR>
+Axel van Lamsweerde (Universite Catholique de Louvain, Belgium) <BR>
+Nancy Leveson (U of Washington, USA)<BR>
+Klaus-Peter Lohr (Freie U Berlin, Germany)<BR>
+Mark Moriconi (SRI, USA)<BR>
+Kumiyo Nakakoji (SRA &amp; NAIST, Japan)<BR>
+Dewayne E. Perry (Bell Lab, USA)<BR>
+Adam Porter (U of Maryland, USA)<BR>
+Gruia-Catalin Roman (Washington U, USA)<BR>
+Motoshi Saeki (TITECH, Japan)<BR>
+Wilhelm Schaefer (U Paderborn, Germany)<BR>
+Will Tracz (Lockheed Martin Federal Systems, USA)<BR>
+Alexander L. Wolf (U of Colorado, USA)<BR>
+Michal Young (Purdue U, USA)</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Lessons and Status Reports <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Motoei Azuma(WasedaU., Japan) <BR>
+azuma@@azuma.mgmt.waseda.ac.jp<BR>
+Richard Fairley (Colorado Tech., USA)<BR>
+Dfairley@@aol.com<BR>
+Mario Fusani (CNDE, Italy)<BR>
+fusani@@iei.pi.cnr.it
+</FONT>
+<P>
+<FONT SIZE=1 FACE="Times New Roman">Alain Abran (U. de Quebec a Montreal, Canada)<BR>
+Barbara Hoerger (Benz, Germany)<BR>
+Ryoichi Hosoya (NTT, Japan) <BR>
+Tomoji Kishi (NEC, Japan)<BR>
+Hans-Ludwig Hausen (GMD Germany)<BR>
+Kiyoo Nakamura (Fujitsu, Japan)<BR>
+Akihiko Ohsuga (Toshiba, Japan)<BR>
+Jun Ohya (ATR, Japan)<BR>
+Shigeru Otsuki (Hitachi, Japan)<BR>
+</FONT><FONT SIZE=1>Hugo Rehesaar (U.of New South Wales, Australia)<BR>
+Terry Rout (Griffit U., Australia)<BR>
+</FONT><FONT SIZE=1 FACE="Times New Roman">Walt Sccachi (USC, USA)<BR>
+Kenji Uehara (Mitsubishi, Japan)</FONT>
+</TD><TD VALIGN="TOP" WIDTH=446><B><FONT SIZE=1 FACE="Times New Roman">Poster &amp; Research Demo 
+<BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Yoshiaki Fukazawa (Waseda U., Japan) <BR>
+fukazawa@@cfi.waseda.ac.jp<BR>
+Ray Offen (Macquarie University, Australia)<BR>
+roffen@@mpce.mq.edu.au, Australia </FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Doctor Symposium <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Simon Kaplan (U. of Queensland, Australia) s.kaplan@@dstc.edu.au <BR>
+Tetsuo Tamai (Tokyo U., Japan) tamai@@graco.c.u-tokyo.ac.jp</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Tutorials <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Gail Murphy (U. of British Colombia, Canada) murphy@@cs.ubc.ca <BR>
+Bashar Nuseibeh (Imperial College, UK) ban@@doc.ic.ac.uk<BR>
+Motoshi Saeki (TITEC, Japan) saeki@@cs.titech.ac.jp</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Workshops <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Mikio Aoyama (NIIT, Japan) mikio@@sdb.csd.ts.fujitsu.co.jp <BR>
+Frances Paulish (Siemens, Germany) <BR>
+Frances.Paulish@@zfe.siemens.de <BR>
+Dewayne Perry (Bell Lab, USA) dep@@research.bell-labs.com</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Exhibition <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Shinichi Honiden (Toshiba, Japan) honiden@@ssel.toshiba.co.jp <BR>
+Bernd J. Kraemer (Fern U. Hagen, Germany) <BR>
+bernd.kraemer@@fernui-hagen.de <BR>
+Anthony Wasserman (Software Methods &amp; Tools, USA) <BR>
+tonyw@@methods-tools.com</FONT>
+<P>
+<U><B><FONT SIZE=1 FACE="Times New Roman">Asia Pacific<BR>
+</FONT></B></U><FONT SIZE=1 FACE="Times New Roman">Dines Bjorner (UNU/IIST, Macao) db@@iist.unu.edu<BR>
+Koichi Kishida (SRA, Japan) k2@@sra.co.jp</FONT>
+<P>
+<U><B><FONT SIZE=1 FACE="Times New Roman">Operating Chair</FONT></B></U><B><FONT SIZE=1 FACE="Times New Roman"> 
+<BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Norihisa Doi (Keio U., Japan) doi@@keio.ac.jp </FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Publicity<BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Katsuro Inoue (Osaka U., Japan) inoue@@ics.es.osaka-u.ac.jp <BR>
+Stan Jarzabek (National U of Singapore, Singapore) <BR>
+stan@@iscs.nus.sg <BR>
+Andrew Vickers (U. York, UK) andyv@@minster.york.ac.uk<BR>
+Marvin Zelkowitz(U. Maryland, USA) mvz@@cs.umd.edu</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Technical Service <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Nobuo Araki (NTT, Japan) araki@@si.ksi.cae.ntt.jp</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Publication<BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Tsuneo Ajisaka (Wakayama U., Japan) ajisaka@@sys.wakayama-u.ac.jp</FONT><BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Hiroyuki Tarumi (Kyoto U., Japan) tarumi@@kuis.kyoto-u.ac.jp</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Local Arrangement<BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Kiyoshi Agusa (Nagoya U., Japan) agusa@@nuie.nagoya-u.ac.jp</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Registration <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Ryohei Nakatsu (ATR, Japan) nakatsu@@mic.atr.co.jp</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Treasurer <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Seishiro Tsuruho (NTT Data, Japan) tsuruho@@plan.rd.nttdata.co.jp </FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Secretariat<BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Masaki Koyama (NAIST, Japan) koyama@@itc.aist-nara.ac.jp </FONT>
+</TD></TR>
+</TABLE>
+</CENTER>
+</body>
+</html>@

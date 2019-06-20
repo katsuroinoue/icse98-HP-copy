@@ -1,0 +1,85 @@
+head	1.1;
+access;
+symbols;
+locks
+	iida:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	97.05.09.03.58.52;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<HTML>
+<HEAD>
+<TITLE>The annual International Conference on Software Engineering (ICSE) is the leading forum for the exchange of ideas on all aspects of software engineering
+</TITLE>
+
+</HEAD>
+<BODY bgcolor=white text=black>
+
+<A NAME="topic"></A><CENTER><FONT SIZE=5 FACE="Optimum">TOPIC AREAS</FONT></CENTER>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">ICSE 98 encourages submissions
+from the many perspectives that contribute to the whole of Software
+Engineering. We particularly encourage papers addressing topics
+wherein software engineering issues play a key role, but where
+those topics have not been highlighted in previous ICSEs. We encourage
+discussions of both the process and outcome of research, design,
+engineering, development, installation, use, and maintenance.
+Examples include:</FONT>
+<P>
+<CENTER><TABLE BORDER=0 ALIGN="CENTER">
+<TR><TD WIDTH=428><UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">Computer supported cooperative work (CSCW) and software engineering.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Configuration management. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Design.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Distributed and parallel systems. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Environments: organization and integration principles. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Experimentation. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Formal methods. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Human-computer interaction (HCI). </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Hypermedia. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Information retrieval, digital libraries, and information systems design.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Interoperability.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Knowledge-based approaches and artificial intelligence. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Measurement, metrics.</FONT> 
+</UL>
+
+</TD><TD WIDTH=432>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">Module interconnection languages. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Object oriented technology and patterns.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Programming languages and software engineering.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Project management. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Reliability. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Requirements engineering.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Reuse. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Reverse engineering and program transformation. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Safety and Security. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Software architectures.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Software documentation. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Software process and process improvement.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Standards and legal issues. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Technology transfer, education. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Testing, analysis, and verification. </FONT>
+</UL>
+
+</TD></TR>
+</TABLE>
+</CENTER>
+<HR>
+<P>
+</body>
+</html>@

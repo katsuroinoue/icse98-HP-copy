@@ -1,0 +1,89 @@
+=========================================================================
+		 ICSE98 TECHNICAL PAPERS COVER PAGE
+=========================================================================
+TITLE OF PAPER:
+
+CONTACT PERSON
+  Name:
+  Affiliation:
+  Street:
+  Address:
+  City:
+  State/Province:
+  Postal/Zip Code:
+  Country:
+  Email:
+  Telephone:
+  Fax:
+
+ADDITIONAL AUTHORS
+  Mame:
+  Affiliation:
+  (multiply as needed)
+
+TYPE OF PAPERS 
+  Please select one out of five types listed below.
+
+Research Contribution-Theory
+Research Contribution-System
+Research Contribution-Empirical
+Experience Report
+Opinion 
+
+
+MATCHING PHRASES FOR PAPERS
+  The following list contains matching phrases for papers that will
+aid in selecting reviewers for your submission. You are encouraged to
+select multiple matching phrases and erase unmatched ones. If you do
+not see phrases that you feel describe your submission, please create
+phrases and add them in.
+
+--------------------------------------------------------------------
+Computer supported cooperative work (CSCW) and software engineering.
+Configuration management. 
+Design.
+Distributed and parallel systems.
+Environments: organization and integration principles.
+Experimentation.
+Formal methods.
+Human-computer interaction (HCI).
+Hypermedia.
+Information retrieval, digital libraries, and information systems design.
+Interoperability.
+Knowledge-based approaches and artificial intelligence.
+Measurement, metrics.
+Module interconnection languages.
+Object oriented technology and patterns.
+Programming languages and software engineering.
+Project management.
+Reliability.
+Requirements engineering.
+Reuse.
+Reverse engineering and program transformation.
+Safety and Security.
+Software architectures.
+Software documentation.
+Software process and process improvement.
+Standards and legal issues.
+Technology transfer, education.
+Testing, analysis, and verification. 
+--------------------------------------------------------------------
+
+RELATED SUBMISSION(S) TO ICSE98
+  Please list title and category (demos, panels, poster, etc.) of any
+related submission(s) to ICSE98
+
+  Title:
+  Category:
+  (multiply if needed)
+
+
+CERTIFICATION FOR PAPER SUBMISSIONS
+  This paper has not been previously published nor is it currently
+  under consideration for publication in any forum other than ICSE98.
+
+
+			________________________
+                          Signature
+
+=========================================================================

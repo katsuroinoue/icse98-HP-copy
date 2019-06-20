@@ -1,0 +1,57 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	97.04.28.16.13.39;	author iida;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<HTML>
+<HEADER>
+<TITLE>Around Kyoto International Conference Hallr</TITLE>
+</HEADER>
+<BODY>
+
+<CENTER>
+<H2>Kyoto International Conference Hall</H2>
+<IMG SRC="./image/takaraga-ike/photo5.gif"><BR>
+Kyoto International Conference Hall is situated nearby Takaragaike 
+pond in Kyoto, surrounded by rich nature of Japan.
+</CENTER>
+
+<HR>
+
+<IMG SRC="./image/takaraga-ike/photo9.gif">
+<IMG SRC="./image/takaraga-ike/photo6.gif">
+
+<IMG SRC="./image/takaraga-ike/photoa.gif">
+<IMG SRC="./image/takaraga-ike/photob.gif">
+<HR>
+
+<H3>The cherry blossom is very beautiful around Takaragaike pond in spring.</H3>
+<IMG SRC="./image/takaraga-ike/photo1.gif">
+<IMG SRC="./image/takaraga-ike/photo2.gif">
+
+<IMG SRC="./image/takaraga-ike/photoe.gif">
+<IMG SRC="./image/takaraga-ike/photof.gif">
+
+<hr width=80%>
+<!--#include file="notice.html"-->
+<HR>
+</BODY>
+</HTML>
+@

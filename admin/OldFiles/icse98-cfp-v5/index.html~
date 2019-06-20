@@ -1,0 +1,1161 @@
+<HTML>
+<HEAD>
+<TITLE>The annual International Conference on Software Engineering (ICSE) is the leading forum for the exchange of ideas on all aspects of software engineering
+</TITLE>
+
+<META NAME="GENERATOR" CONTENT="Internet Assistant for Microsoft Word 2.03j">
+</HEAD>
+<BODY>
+<P>
+<IMG SRC="img00001.gif"><IMG SRC="img00002.gif" ALIGN="TOP"> <FONT SIZE=6>in
+<IMG SRC="img00003.gif" ALIGN="BOTTOM"> <BR>
+</FONT>
+<P>
+<CENTER><B><FONT SIZE=6 FACE="Optimum">FORGING NEW LINKS</FONT></B></CENTER>
+<P>
+<CENTER><FONT SIZE=4 FACE="Times New Roman">The 20<SUP>th</SUP>
+International Conference on Software Engineering</FONT></CENTER>
+<P>
+<CENTER><FONT SIZE=4 FACE="Times New Roman">April 19~25, 1998
+<BR>
+Kyoto International Conference Hall,<BR>
+</FONT><FONT FACE="Times New Roman">Kyoto, JAPAN<BR>
+</FONT><FONT SIZE=4 FACE="Times New Roman">http://icse98.aist-nara.ac.jp/</FONT></CENTER>
+<P>
+<B><FONT FACE="Times New Roman">Sponsored by </FONT></B>
+<P>
+<CENTER><TABLE BORDER=0 ALIGN="CENTER">
+<TR><TD COLSPAN=4 WIDTH=898><CENTER><FONT FACE="Garamond">Science Council of Japan,</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=208><A HREF="http://www.ipsj.or.jp/"><IMG SRC="img00005.gif"></A> 
+</TD><TD WIDTH=209><FONT FACE="Garamond">Information Processing Society of Japan,</FONT> 
+</TD><TD WIDTH=207><A HREF="http://www.jssst.or.jp/"><IMG SRC="img00006.gif"></A> 
+</TD><TD WIDTH=275><FONT FACE="Garamond">Japan Society of Software Science and Technology</FONT>
+</TD></TR>
+<TR><TD WIDTH=208><A HREF="http://www.computer.org/"><IMG SRC="img00007.gif"></A> 
+</TD><TD WIDTH=209><FONT FACE="Garamond">IEEE Computer Society,</FONT> 
+</TD><TD WIDTH=207><A HREF="http://www.acm.org/"><IMG SRC="img00008.gif"></A> 
+</TD><TD WIDTH=275><FONT FACE="Garamond">ACM Special Interest Group on Software Engineering</FONT><FONT FACE="Britannic Bold"> </FONT>
+</TD></TR>
+</TABLE>
+</CENTER>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">ICSE's twentieth birthday
+affords an opportunity to reflect on profound changes of the past
+two decades. </FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Since ICSE's founding, politics
+and technology have converged to shatter once formidable barriers
+to international cooperation. The collapse of the Berlin Wall
+symbolizes the end of the Cold War, and links in a Web page are
+a metaphor for our enhanced capacity for global information exchange.
+</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">In this spirit, we have worked
+hard to ensure that ICSE98 will see an unprecedented increase
+in the level of international participation. In particular, we
+will give a greater voice to members from the Asian-Pacific region,
+an area under-represented in the past. Yet our outreach must extend
+beyond geography. </FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">As we continue to build bridges
+to other software disciplines, researchers and practitioners in
+allied fields will benefit from an understanding of the contributions
+that software engineering can make to their work. In turn, we
+must address their problems in our research. New collaborations
+between academia and industry will also enrich ICSE98 and our
+profession as a whole. </FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The presentation of top-notch
+papers will, of course, constitute the core activity of ICSE98.
+Cutting edge research will be showcased in technical paper sessions,
+workshops, panels, posters, demonstrations, and special sessions
+devoted to the lessons learned from building large and complex
+software systems. </FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">We hope you will take advantage
+of this unique opportunity to meet new colleagues, exchange ideas,
+and explore the nearly limitless possibilities that lie ahead.
+Join us in Kyoto for ICSE98 and share the excitement that comes
+from forging new links.</FONT>
+<HR>
+<P>
+<CENTER><FONT SIZE=5 FACE="Optimum">ICSE98 Committee Members</FONT></CENTER>
+<P>
+<CENTER><TABLE BORDER=0 ALIGN="CENTER">
+<TR><TD VALIGN="TOP" WIDTH=444><U><B><FONT SIZE=1 FACE="Times New Roman">General Chair<BR>
+</FONT></B></U><FONT SIZE=1 FACE="Times New Roman">Koji Torii (NAIST, Japan) torii@is.aist-nara.ac.jp</FONT>
+<P>
+<U><B><FONT SIZE=1 FACE="Times New Roman">Technical Chair<BR>
+</FONT></B></U><FONT SIZE=1 FACE="Times New Roman">Takuya Katayama (JAIST, Japan) katayama@jaist.ac.jp <BR>
+David Notkin(U.of Washington) notkin@cs.washington.edu</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Technical Papers &amp; Panels<BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Kokichi Futatsugi (JAIST, Japan) kokichi@jaist.ac.jp <BR>
+Richard Kemmerer (UCSB, USA) kemm@cs.ucsb.edu </FONT>
+<P>
+<FONT SIZE=1 FACE="Times New Roman">Betty H.C. Cheng (Michigan State U, USA)<BR>
+Shing-Chi Cheung (Hong Kong U of Sci and Tech, Hong Kong)<BR>
+Lori A. Clarke (U of Massachusetts, USA)<BR>
+Premkumar Devanbu (AT&amp;T Lab, USA)<BR>
+Alfonso Fuggetta (Politecnico di Milano, Italy)<BR>
+John Gannon (U of Maryland, USA)<BR>
+David Garlan (CMU, USA)<BR>
+Richard Gerber (U of Maryland, USA)<BR>
+Carlo Ghezzi (Politecnico di Milano, USA)<BR>
+William Griswold (U of Calf San Diego, USA)<BR>
+Daniel Hoffman (U of Victoria, Canada)<BR>
+Shinichi Honiden (Toshiba, Japan)<BR>
+Susan Horwitz (U of Wisconsin, USA)<BR>
+Katsuro Inoue (Osaka U, Japan)<BR>
+Joxan Jaffar (National U of Singapore, Singapore)<BR>
+Mehdi Jazayeri (TU Vienna, Austria)<BR>
+Ross Jeffery (U of New South Wales, Australia)<BR>
+Dehua Ju (East China U of Sci and Tech, China)<BR>
+Kyo C. Kang (Pohang U of Sci and Tech, Korea)<BR>
+John C. Knight (U of Virginia, USA)<BR>
+Jeff Kramer (Imperial College of Sci Tech and Medicine, UK)<BR>
+Reino Kurki-Suonio (Tampere U of Technology, Finland)<BR>
+Axel van Lamsweerde (Universite Catholique de Louvain, Belgium) <BR>
+Nancy Leveson (U of Washington, USA)<BR>
+Klaus-Peter Lohr (Freie U Berlin, Germany)<BR>
+Mark Moriconi (SRI, USA)<BR>
+Kumiyo Nakakoji (SRA &amp; NAIST, Japan)<BR>
+Dewayne E. Perry (Bell Lab, USA)<BR>
+Adam Porter (U of Maryland, USA)<BR>
+Gruia-Catalin Roman (Washington U, USA)<BR>
+Motoshi Saeki (TITECH, Japan)<BR>
+Wilhelm Schaefer (U Paderborn, Germany)<BR>
+Will Tracz (Lockheed Martin Federal Systems, USA)<BR>
+Alexander L. Wolf (U of Colorado, USA)<BR>
+Michal Young (Purdue U, USA)</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Lessons and Status Reports <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Motoei Azuma(WasedaU., Japan) <BR>
+azuma@azuma.mgmt.waseda.ac.jp<BR>
+Richard Fairley (Colorado Tech., USA)<BR>
+Dfairley@aol.com<BR>
+Mario Fusani (CNDE, Italy)<BR>
+fusani@iei.pi.cnr.it<BR></FONT>
+<P>
+<FONT SIZE=1 FACE="Times New Roman">Alain Abran (U. de Quebec a Montreal, Canada)<BR>
+Barbara Hoerger (Benz, Germany)<BR>
+Ryoichi Hosoya (NTT, Japan) <BR>
+Tomoji Kishi (NEC, Japan)<BR>
+Hans-Ludwig Hausen (GMD Germany)<BR>
+Kiyoo Nakamura (Fujitsu, Japan)<BR>
+Akihiko Ohsuga (Toshiba, Japan)<BR>
+Jun Ohya (ATR, Japan)<BR>
+Shigeru Otsuki (Hitachi, Japan)<BR>
+</FONT><FONT SIZE=1>Hugo Rehesaar (U.of New South Wales, Australia)<BR>
+Terry Rout (Griffit U., Australia)<BR>
+</FONT><FONT SIZE=1 FACE="Times New Roman">Walt Sccachi (USC, USA)<BR>
+Kenji Uehara (Mitsubishi, Japan)</FONT>
+</TD><TD VALIGN="TOP" WIDTH=446><B><FONT SIZE=1 FACE="Times New Roman">Poster &amp; Research Demo 
+<BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Yoshiaki Fukazawa (Waseda U., Japan) <BR>
+fukazawa@cfi.waseda.ac.jp<BR>
+Ray Offen (Macquarie University, Australia)<BR>
+roffen@mpce.mq.edu.au, Australia </FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Doctor Symposium <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Simon Kaplan (U. of Queensland, Australia) s.kaplan@dstc.edu.au <BR>
+Tetsuo Tamai (Tokyo U., Japan) tamai@graco.c.u-tokyo.ac.jp</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Tutorials <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Gail Murphy (U. of British Colombia, Canada) murphy@cs.ubc.ca <BR>
+Bashar Nuseibeh (Imperial College, UK) ban@doc.ic.ac.uk<BR>
+Motoshi Saeki (TITEC, Japan) saeki@cs.titech.ac.jp</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Workshops <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Mikio Aoyama (NIIT, Japan) mikio@sdb.csd.ts.fujitsu.co.jp <BR>
+Frances Paulish (Siemens, Germany) <BR>
+Frances.Paulish@zfe.siemens.de <BR>
+Dewayne Perry (Bell Lab, USA) dep@research.bell-labs.com</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Exhibition <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Shinichi Honiden (Toshiba, Japan) honiden@ssel.toshiba.co.jp <BR>
+Bernd J. Kraemer (Fern U. Hagen, Germany) <BR>
+bernd.kraemer@fernui-hagen.de <BR>
+Anthony Wasserman (Software Methods &amp; Tools, USA) <BR>
+tonyw@methods-tools.com</FONT>
+<P>
+<U><B><FONT SIZE=1 FACE="Times New Roman">Asia Pacific<BR>
+</FONT></B></U><FONT SIZE=1 FACE="Times New Roman">Dines Bjorner (UNU/IIST, Macao) db@iist.unu.edu<BR>
+Koichi Kishida (SRA, Japan) k2@sra.co.jp</FONT>
+<P>
+<U><B><FONT SIZE=1 FACE="Times New Roman">Operating Chair</FONT></B></U><B><FONT SIZE=1 FACE="Times New Roman"> 
+<BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Norihisa Doi (Keio U., Japan) doi@keio.ac.jp </FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Publicity<BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Katsuro Inoue (Osaka U., Japan) inoue@ics.es.osaka-u.ac.jp <BR>
+Stan Jarzabek (National U of Singapore, Singapore) <BR>
+stan@iscs.nus.sg <BR>
+Andrew Vickers (U. York, UK) andyv@minster.york.ac.uk<BR>
+Marvin Zelkowitz(U. Maryland, USA) mvz@cs.umd.edu</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Technical Service <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Nobuo Araki (NTT, Japan) araki@si.ksi.cae.ntt.jp</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Publication<BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Tsuneo Ajisaka (Kyoto U., Japan) ajisaka@kuis.kyoto-u.ac.jp</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Local Arrangement<BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Kiyoshi Agusa (Nagoya U., Japan) agusa@nuie.nagoya-u.ac.jp</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Registration <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Ryohei Nakatsu (ATR, Japan) nakatsu@mic.atr.co.jp</FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Treasurer <BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Seishiro Tsuruho (NTT Data, Japan) tsuruho@plan.rd.nttdata.co.jp </FONT>
+<P>
+<B><FONT SIZE=1 FACE="Times New Roman">Secretariat<BR>
+</FONT></B><FONT SIZE=1 FACE="Times New Roman">Masaki Koyama (NAIST, Japan) koyama@itc.aist-nara.ac.jp </FONT>
+</TD></TR>
+</TABLE>
+</CENTER>
+<HR>
+<P>
+<CENTER><FONT SIZE=5 FACE="Optimum">Corporate Sponsors (Tentative)</FONT></CENTER>
+<UL>
+<LI><A HREF="http://www.ntt.co.jp/"><IMG SRC="img00010.gif"></A><FONT SIZE=4>
+</FONT><FONT SIZE=4 FACE="Times New Roman">Nippon Telegraph and
+Telephone Corporation </FONT>
+<LI><A HREF="http://www.nikkei.co.jp/"><IMG SRC="img00009.gif"></A>
+<FONT SIZE=4 FACE="Times New Roman">Nihon Keizai Shimbun, Inc.</FONT>
+</UL>
+<HR>
+<P>
+<CENTER><FONT SIZE=4 FACE="Optimum">OVERALL CONFERENCE STRUCTURE</FONT></CENTER>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The annual International Conference
+on Software Engineering (ICSE) is the leading forum for the exchange
+of ideas on all aspects of software engineering. ICSE98 invites
+you to submit work to share with the ICSE community.</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Different classes of contributions
+are sought, ranging from research papers to lessons and status
+reports from software engineering organizations. The ultimate
+goal is to build a rich and comprehensive conference program that
+can fit the interests and needs of different classes of attendees:
+professionals, researchers, managers, and students. If you are
+unsure of which category to submit to, please consult the co-chairs
+in charge of specific events you may be interested in. </FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">You may prepare as many submissions
+as you like in the same or different categories. In a given category,
+the same materials should be presented only once.</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">In keeping with the international
+character of past ICSEs, the written and spoken language of the
+conference is English.</FONT>
+<P>
+<CENTER><FONT SIZE=5 FACE="Optimum">Submissions at a Glance</FONT></CENTER>
+<P>
+<CENTER><TABLE BORDER=1 ALIGN="CENTER">
+<TR><TD BGCOLOR="#000000" WIDTH=170><CENTER><FONT SIZE=1 COLOR=#FFFFFF FACE="Arial">Participation Category</FONT></CENTER>
+</TD><TD BGCOLOR="#000000" WIDTH=330><CENTER><FONT SIZE=1 COLOR=#FFFFFF FACE="Arial">Description</FONT></CENTER>
+</TD><TD BGCOLOR="#000000" WIDTH=260><CENTER><FONT SIZE=1 COLOR=#FFFFFF FACE="Arial">Deadline</FONT></CENTER>
+</TD><TD BGCOLOR="#000000" WIDTH=130><CENTER><FONT SIZE=1 COLOR=#FFFFFF FACE="Arial">Event Dates*</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Technical Papers</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Report research or practical experiences </FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">20 August 1997</FONT><FONT SIZE=1>Åi</FONT><FONT SIZE=1 FACE="Times New Roman">electronic abstract</FONT><FONT SIZE=1>Åj</FONT></CENTER>
+<P>
+<CENTER><FONT SIZE=1 FACE="Times New Roman">3 September 1997 (full paper due)</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">22~24</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Panels</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Discuss and debate pressing issues</FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">20 September 1997</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">22~24</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Lessons &amp; Status Reports</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Present summaries of work taking place in institutions, organizations, or groups</FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">1 December 1997</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">22~24</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Posters &amp; Research Demonstrations</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Present late-breaking results and ongoing work </FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">1 January 1998</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">22~24</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Doctoral Symposium</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Discuss Ph.D. students' work</FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">1 November 1997</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">TBD</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Tutorials</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Teach Software Engineering techniques and theory</FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">6 October 1997 (proposal)</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">20~21</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Workshops</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Discuss focused topic in a small-group setting</FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">1 July 1997 (proposal)</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">19~21, 24~25</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Exhibition</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Show commercial and research tools </FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">Contact icseexpo@po.iijnet.or.jp</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">21~24</FONT></CENTER>
+</TD></TR>
+<TR><TD WIDTH=170><CENTER><FONT SIZE=1 FACE="Times New Roman">Asia Pacific Forum</FONT></CENTER>
+</TD><TD WIDTH=330><FONT SIZE=1 FACE="Times New Roman">Discuss Asia-Pacific SE issues</FONT>
+</TD><TD WIDTH=260><CENTER><FONT SIZE=1 FACE="Times New Roman">1 July 1997 (proposal)</FONT></CENTER>
+</TD><TD WIDTH=130><CENTER><FONT FACE="Times New Roman">TBD</FONT></CENTER>
+</TD></TR>
+</TABLE>
+</CENTER>
+<P>
+<CENTER><FONT FACE="Times New Roman">*</FONT><FONT SIZE=1 FACE="Times New Roman">Note:
+Event dates show a current plan of those held in the conference
+week from April 19 (Sun.) to 25 (Sat.), '98. These dates are subject
+to change.</FONT></CENTER>
+<P>
+<CENTER><FONT SIZE=5 FACE="Optimum">TOPIC AREAS</FONT></CENTER>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">ICSE 98 encourages submissions
+from the many perspectives that contribute to the whole of Software
+Engineering. We particularly encourage papers addressing topics
+wherein software engineering issues play a key role, but where
+those topics have not been highlighted in previous ICSEs. We encourage
+discussions of both the process and outcome of research, design,
+engineering, development, installation, use, and maintenance.
+Examples include:</FONT>
+<P>
+<CENTER><TABLE BORDER=0 ALIGN="CENTER">
+<TR><TD WIDTH=428><UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">Computer supported cooperative work (CSCW) and software engineering.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Configuration management. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Design.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Distributed and parallel systems. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Environments: organization and integration principles. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Experimentation. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Formal methods. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Human-computer interaction (HCI). </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Hypermedia. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Information retrieval, digital libraries, and information systems design.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Interoperability.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Knowledge-based approaches and artificial intelligence. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Measurement, metrics.</FONT> 
+</UL>
+
+</TD><TD WIDTH=432>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">Module interconnection languages. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Object oriented technology and patterns.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Programming languages and software engineering.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Project management. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Reliability. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Requirements engineering.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Reuse. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Reverse engineering and program transformation. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Safety and Security. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Software architectures.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Software documentation. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Software process and process improvement.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Standards and legal issues. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Technology transfer, education. </FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Testing, analysis, and verification. </FONT>
+</UL>
+
+</TD></TR>
+</TABLE>
+</CENTER>
+<HR>
+<P>
+<CENTER><FONT SIZE=5 FACE="Optimum">TECHNICAL PAPERS</FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">AIM</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Papers describe innovative
+and significant work in the research and practice of Software
+Engineering. Papers are collected in an archival, refereed conference
+proceedings, published by IEEE/ACM, which is cited and read by
+researchers and practitioners world-wide. Accepted papers are
+presented at the ICSE conference, attended by hundreds of people.
+Having a paper on the technical program gives authors an opportunity
+to have a tremendous impact on the study and application of Software
+Engineering principles, theory, and techniques.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SCOPE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The Software Engineering community
+consists of researchers and professionals from many different
+disciplines and intellectual traditions. The paper review process
+tries to rigorously review all submissions in a manner that takes
+into account the different criteria from different parts of the
+community. For reviewers to do this effectively, they need an
+accurate assessment of the type of each paper they read; that
+is, research contributions or experience papers. Please select
+the type of paper that best describes your submission and write
+it in the appropriate place on the Cover Page (see the home page).
+If you feel that your submission does not fit any of these types,
+please contact either program co-chair for help in best classifying
+your submission.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">REVIEW PROCESS</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Each submitted paper will
+be reviewed by a group of at least three members of the program
+committee. Reviewer assignment will be done by matching the topic
+and focus of the paper with committee member expertise. The committee
+members will develop a summary review and recommendation for acceptance
+or rejection. Final decisions will be made at a program committee
+meeting, where the committee as a whole will review the recommendations
+and rationale made by committee members.</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Note that in addition to considering
+the criteria outlined for each type of paper (see the ICSE98 Home
+Page), all papers will be evaluated for overall quality of presentation:
+the problem and its context must be clearly described, including
+relation to prior work. It must also be clear from the presentation
+that a succinct, high quality verbal presentation at the conference
+will be possible.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">HOW TO SUBMIT</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">If you decide to submit, you
+should look into the ICSE98 Home Page to get the necessary information
+for the submission! In particular, note that the deadline for
+requesting ICSE98 mentoring is 10 weeks before the deadline of
+the paper submission. </FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The following lists the steps
+you should follow for submitting a paper.</FONT>
+<OL>
+<LI><FONT SIZE=2 FACE="Times New Roman">Electronic Submission
+of Title and Abstract (Required): <BR>
+</FONT><FONT SIZE=2>In addition to their appearance in the full,
+printed paper, the title and abstract of every submission must
+also be transmitted by email to icse-98-papers@cs.ucsb.edu by
+the deadline for abstracts shown above. The abstract must be plain
+text only (ASCII) - no markup languages, no binhex, no binary
+files.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Submission of Full Papers:
+<BR>
+</FONT><FONT SIZE=2>Submitted papers must conform to the standard
+Conference Proceedings format (See http://icse98.aist-nara.ac.jp/how-to-submit.html).
+Papers may be no longer than 10 pages in the Conference Proceedings
+format, including references, appendices and figures. The full
+papers may not be submitted electronically; six paper copies are
+required.</FONT>
+</OL>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">UPON ACCEPTANCE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Authors will be notified of
+acceptance or rejection by the end of November 1997. Accepted
+papers will be published in the ICSE 98 Conference Proceedings.
+The primary author of each accepted paper will receive an Author
+Kit with detailed instructions on how to submit the camera-ready
+copy. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SEND TO</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Richard A. Kemmerer<BR>
+ICSE 98 Program Co-Chair<BR>
+Computer Science Department<BR>
+University of California, Santa Barbara<BR>
+Santa Barbara, CA 93106<BR>
+USA<BR>
+E-mail: icse-98-papers@cs.ucsb.edu</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">DEADLINE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Abstract in electronic format
+(ASCII email): 20 August 1997<BR>
+Full paper due (6 copies, hard copy only): 3 September 1997</FONT>
+<HR>
+<P>
+<CENTER><FONT SIZE=5 FACE="Optimum">PANELS</FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">AIM</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The aim of the ICSE 98 panels
+is to stimulate discussion about ideas and issues of crucial importance
+to the software engineering community. Panels may emphasize complex
+technical issues, but they may equally provide an opportunity
+to propose views and address controversies through the medium
+of informed debate. Suitable topics for such discussion include
+pressing issues in software engineering theory and practice, emerging
+industry trends and enabling technologies, and professional, organizational,
+and social issues associated with software engineering. Panels
+last about 90 minutes and can be organized in many formats. We
+strongly encourage proposals in original formats that will engage
+the panelists and audience in a lively and substantive discussion.
+</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Panels may address any topic
+of relevance to software engineering research and practice. Panels
+are an opportunity to stimulate thinking about how software engineering
+is evolving. This means that topics need not be limited to the
+conventional boundaries of the field.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">REVIEW PROCESS</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Each proposal will be reviewed
+by the program co-chairs. We are looking for stimulating and timely
+proposals that will be debated by well-informed and engaging panelists
+and that will form a diverse, controversial, and well thought
+out collection. Please feel free to contact either program co-chair
+in advance to discuss your proposal.<BR>
+<BR>
+</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">HOW TO SUBMIT</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">If you decide to submit, you
+should look into the ICSE98 Home Page to get the necessary information
+for the submission! Panel proposals should be sent via e-mail to
+both of the program co-chairs. The proposal should contain the
+following: </FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">A one-page description
+of the topic, stating compelling issues to be debated, and their
+relevance to software engineering.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">A one-page description
+of the panel format (not limited to those specified above), stating
+how the panel will be conducted and why the proposed format is
+suitable for the given topic.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">One page summary of the
+organizer(s) and all the panelists, including names, affiliations,
+telephone numbers and e-mail addresses. Panelists must have agreed
+to be members of the panel.</FONT>
+</UL>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Authors will be notified of
+acceptance or rejection by the end of November 1997.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SEND TO</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Kokichi Futatsugi<BR>
+ICSE98 Program Co-Chair<BR>
+Graduate School of Information Science<BR>
+JAIST (Japan Advanced Institute of Science and Technology)<BR>
+1-1 Asahidai, Tatsunokuchi, Ishikawa 923-12<BR>
+Japan<BR>
+E-mail: icse-98-panels@ldl.jaist.ac.jp</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">and</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Richard A. Kemmerer<BR>
+ICSE 98 Program Co-Chair<BR>
+Computer Science Department<BR>
+University of California, Santa Barbara<BR>
+Santa Barbara, CA 93106<BR>
+USA<BR>
+E-mail: icse-98-panels@cs.ucsb.edu<BR>
+</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">DEADLINE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Panel Proposal: 20 September
+1997</FONT>
+<HR>
+<P>
+<CENTER><FONT SIZE=5 FACE="Optimum">LESSONS </FONT><FONT SIZE=4 FACE="Optimum">AND
+</FONT><FONT SIZE=5 FACE="Optimum">STATUS REPORTS </FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">AIM</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Lessons and Status Reports
+were introduced to the ICSE program at ICSE97. The reports are
+intended to provide software engineering professionals with a
+picture of practices, procedures, techniques, products, and organizational
+structures. Our goal is to provide software engineers and managers
+with: </FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">insights that can be adapted
+and applied within their own work practices and organizations;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">information on the activities
+of software engineering practitioners doing innovative and potentially
+influential work;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">information on software
+engineering activities which form the basis for future generations
+of software engineering tools, techniques and management.</FONT>
+</UL>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SCOPE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">We encourage submissions from
+institutions, organizations, and groups within companies, universities,
+and government. Submissions may be from organizations of any size
+and any maturity level, ranging from small software development
+teams to larger teams of professional software developers working
+in large companies. We also encourage submissions</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">describing a broad range of
+applications, from single-user PC software to global, enterprise-wide
+solutions. </FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Reports may describe software
+engineering activities in;</FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">Software planning, acquisition,
+and integration organizations,</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Software development and
+maintenance organizations,</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Software engineering process
+groups or consultatory organizations,</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Quality assurance groups
+or independent products evaluators,</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Collaborative efforts
+involving several groups or organizations,</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Partnerships of different
+types of groups, or</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Groups cooperating across
+geographical, political, or cultural boundaries.</FONT>
+</UL>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">We are looking for lessons,
+procedures, techniques and products, including new perspectives
+on old but as yet unsolved problems, that stimulate practicing
+software engineers, R&amp;D organizations, and software engineering
+researchers, and that can be learned and applied.</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Examples of topics may include
+but are not limited to:</FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">Assessment and transfer
+of new technologies, including education, training and supporting
+issues.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Planning and implementation
+of a new methodology into an organization;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Experience in the application
+of CASE Tools;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Practice of process design,
+process assessment and process improvement;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Application of software
+quality metrics and evaluation practice;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Experience on some aspects
+of the application of innovative software engineering techniques
+in organizations. </FONT>
+</UL>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The submissions should emphasize;</FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">the circumstances under
+which work is done;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">the underlying goals,
+policies, and organizational background;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">perspectives of past,
+present, and future software engineering efforts.</FONT>
+</UL>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">We aim to bring together people
+to report about their practice with the focus on giving the &quot;big
+picture&quot; rather than a technically interesting focus on a
+single scientific result. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">REVIEW PROCESS</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Submissions will be reviewed
+for acceptance based on: the interest to members of the software
+engineering community; the significance of impact of the report
+to the Software Engineering community; and the objective of informing
+the software engineering community activities world wide.</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Submissions are solicited
+from organizations. Solicited proposals will be subject to the
+same review process and criteria as proposals submitted in response
+to this call. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">HOW TO SUBMIT</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Proposed Lessons and Status
+Reports must be prepared in the Conference Proceedings Format
+</FONT><A HREF="http://icse98.aist-nara.ac.jp/">(see http: //icse98.aist-nara.ac.jp/)</A><FONT SIZE=2 FACE="Times New Roman">.
+Proposals must not exceed 2 pages in length. </FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Accepted papers will be published
+in the conference proceedings. The primary author of each accepted
+report will receive an Author Kit with detailed instructions on
+how to submit camera-ready materials for publication. </FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">At the conference, the Status
+Report should be presented by a major participant in the work.
+The presentation should be based on the material described in
+the Status Report Summary. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SEND TO</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Motoei AZUMA,<BR>
+Department of Industrial and Management Systems Engineering<BR>
+Waseda University<BR>
+Okubo, Shinjuku-ku, Tokyo 169, Japan<BR>
+TEL: +81-3-5286-3302<BR>
+FAX: +81-3-3200-2567<BR>
+E-MAIL: azuma@azuma.mgmt.waseda.ac.jp<BR>
+</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">DEADLINE </FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Reports: 1 December 1997<BR>
+</FONT>
+<HR>
+<P>
+<CENTER><FONT SIZE=5 FACE="Optimum">POSTERS </FONT><FONT SIZE=4 FACE="Optimum">AND</FONT><FONT SIZE=5 FACE="Optimum">
+RESEARCH DEMONSTRATIONS</FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">AIM</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Posters and Research Demonstrations
+provide an excellent opportunity to show late-breaking results
+and to discuss the results with the conference participants. Interactive
+communication and demonstration will be the most exciting and
+powerful presentation.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SCOPE</FONT></B>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">Posters <BR>
+</FONT><FONT SIZE=2>All types of work in software engineering
+can be presented effectively using posters during the conference.
+Display space will be provided in the poster and research demonstration
+room. A description of each poster will appear in the proceedings
+for posters and research demonstrations.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Research Demonstrations
+<BR>
+</FONT><FONT SIZE=2>Research demonstrations are intended to show
+early implementation of novel software engineering concepts. Research
+demonstrations will be scheduled into blocks of time for demonstration.
+In addition, a booth will be provided in the poster and research
+demonstration room to allow informal demonstrations throughout
+the conference. A description of each research demonstration will
+appear in the proceedings for research demonstrations. We consider
+any system which is at least six months away from appearing in
+a commercial product as a &quot;research system&quot;. Commercial
+systems will not be accepted as research demonstrations.</FONT>
+</UL>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">REVIEW PROCESS </FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Submissions will be reviewed
+by the committee using the standard ICSE criteria : originality,
+importance and generality of contribution, soundness of rationale
+or demonstration, quality of written and graphic presentation
+and appropriate citation of relevant literature. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">COMPUTING AND PROJECTION
+EQUIPMENT </FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The conference will not provide
+any electronic equipment such as CPUs, disk drives, displays or
+videotapes for demonstration or presentation. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">HOW TO SUBMIT</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Authors should prepare a four
+page description of their poster and research demonstration proposal
+for review. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SEND TO </FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Yoshiaki Fukazawa <BR>
+Waseda University <BR>
+3-4-1, Ohkubo, Shinjuku-ku, <BR>
+Tokyo 169 JAPAN<BR>
+E-MAIL : fukazawa@fuka.info.waseda.ac.jp<BR>
+</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">DEADLINE </FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Proposals: 1 January 1998
+(Contact the chair for late submission) </FONT>
+<HR>
+<P>
+<CENTER><FONT SIZE=5 FACE="Optimum">DOCTORAL SYMPOSIUM</FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">AIM</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">ICSE'98 will host a forum
+for graduate students to present and discuss their dissertation
+research objectives, approaches and preliminary results. Doctoral
+students, who are within approximately one year of thesis completion,
+are invited to apply to the Doctoral Symposium, a closed session
+in which a group of students present their research and get useful
+guidance and comments from established researchers and other doctoral
+students. The one-day symposium aims to broaden the perspectives
+of new entrants to the software engineering research community
+and to provide constructive comments on the ongoing thesis research.
+</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">As the systems of doctoral
+courses are different by cultures, we are expecting participants
+coming from America, Europe, Asia-Pacific and all over the world.
+We plan to invite people from typical academic cultures to explain
+their doctoral systems so that we can compare and discuss differences
+between countries.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">HOW TO APPLY</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">We are looking for students
+who are advanced enough to have a specific research proposal and
+some preliminary results, but with sufficient time remaining to
+thesis completion to benefit from the symposium experience. Application
+forms for describing the thesis topic and progress are available
+from the Symposium chair. A letter of recommendation from the
+student's thesis advisor is also required. The applications are
+reviewed by the committee, and acceptance and rejection will be
+notified. Students selected as participants will receive partial
+reimbursement for conference-related expenses.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SEND TO</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Doctoral Symposium Chair 
+<BR>
+Tetsuo Tamai</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Graduate School of Arts and
+Sciences <BR>
+University of Tokyo<BR>
+3-8-1 Komaba, Meguro-ku<BR>
+Tokyo 153, Japan<BR>
+TEL: +81-3-5454-6847<BR>
+FAX: +81-3-5454-6845<BR>
+E-MAIL: tamai@graco.c.u-tokyo.ac.jp<BR>
+</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">DEADLINE </FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Students may request application
+forms by electronic mail beginning October 1997. <BR>
+Applications are due no later than 1 November 1997.<BR>
+Notification of acceptance will be by 10 January 1998. </FONT>
+<HR>
+<P>
+<CENTER><FONT SIZE=5 FACE="Optimum">TUTORIALS</FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">AIM</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The ICSE'98 Tutorials Program
+provides conference participants with the opportunity to gain
+new insights, knowledge and skills in a broad range of areas in
+the field of software engineering. Participants at the tutorials
+include software professionals, teachers, researchers and students
+both in software engineering and in other areas seeking to gain
+a better understanding of software engineering topics. Proposals
+for full-day (6 hours) or half-day (3 hours) tutorials are solicited.
+Tutorial topics are expected to cover a wide range, from practical
+guidelines, standards and surveys to academic and theoretical
+issues. The topics are not limited to past ICSE tutorial offerings.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">REVIEW PROCESS</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Submitted proposals will be
+reviewed and evaluated by a committee consisting of experts based
+on their estimated benefit for the prospective participants and
+on their fit within the tutorial program as a whole. Factors to
+be considered also include: relevance, timeliness, importance
+and audience appeal; suitability for presentation in a half- or
+full-day tutorial format; effectiveness of teaching methods; and
+past experience and qualifications of instructors. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">HOW TO SUBMIT</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Tutorial proposals (of ten
+pages or less) for review purposes should include:</FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">title, proposer's name,
+postal and email addresses, telephone and fax numbers, a list
+of keywords</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">aims and learning objectives</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">duration (half- or full-day)</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">scope (survey or in-depth
+of one/few topics)</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">target audience:</FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">beginners, intermediates,
+advanced</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">practitioner, researchers,
+teachers, (university) students</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">background required for
+target audience</FONT>
+</UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">suitability for ICSE audience</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">description of the material
+that will be covered (including breakdown &amp; content summary)</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">schedule of events with
+time allocations</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">description and samples
+of material that will be included in tutorial notes</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">list of requirements for
+running the tutorials (e.g., supplies, restrictions, etc...)</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">brief history of tutorial
+(if given before), including how it will be modified for ICSE98)</FONT>
+</UL>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">short curriculum vitae
+(biography) of instructors </FONT>
+</UL>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Please submit proposals to
+one of the tutorial co-chairs by E-mail (ASCII text only) or air
+mail(six copies) to arrive by 6<SUP>th</SUP> Octorber 1997. Please
+mark your submissions &quot;ICSE98 Tutorial&quot;. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SEND TO</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Tutorial Co-Chairs<BR>
+Motoshi Saeki<BR>
+Dept. of Computer Science<BR>
+Tokyo Institute of Technology<BR>
+Ookayama 2-12-1, Meguro-ku,<BR>
+Tokyo 152, Japan<BR>
+TEL: +81-3-5734-2192<BR>
+FAX: +81-3-5734-2911<BR>
+E-MAIL: saeki@cs.titech.ac.jp<BR>
+or</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Bashar Nuseibeh<BR>
+Department of Computing<BR>
+Imperial College<BR>
+180 Queen's Gate<BR>
+London SW7 2BZ, UK<BR>
+TEL: +44-171-594-8286<BR>
+FAX: +44-171-581-8024<BR>
+E-MAIL: ban@doc.ic.ac.uk<BR>
+or</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Gail Murphy<BR>
+Dept. of Computer Science<BR>
+University of British Columbia<BR>
+201-2366 Main Mall<BR>
+Vancouver B.C. Canada V6T 1Z4<BR>
+TEL: +1-604-822-5169<BR>
+FAX: +1-604-822-5485<BR>
+E-MAIL: murphy@cs.ubc.ca</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">DEADLINE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Tutorial Proposals : 6 October,
+1997</FONT>
+<HR>
+<P>
+<CENTER><FONT SIZE=5 FACE="Optimum">WORKSHOPS</FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">AIM</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Workshops provide a forum
+for a group of participants to exchange opinions on topics in
+either research or applications. Workshops are held either before
+or after the conference and may be one, one and a half or two
+days in length. Workshops are not alternative forums for full
+papers which otherwise could be submitted to ICSE. Participation
+in workshops is typically dependent on submission of position
+statements.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">REVIEW PROCESS</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Workshop proposals will be
+reviewed by a committee representing a cross-section of software
+engineering researchers and professionals. Acceptance will be
+based on an evaluation of the workshop's potential for generating
+useful results, the timeliness and expected interest level in
+the topic, and organizer's ability to lead a successful workshop.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">HOW TO SUBMIT</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Prepare a three-page proposal
+for the workshop review committee. Workshop proposal should contain:</FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">an outline of the theme
+and goals of the workshop and its relevance to the field;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">a description of the desired
+number of participants, the participant solicitation and selection
+process, pre-workshop activities, and planned workshop activities
+including length of time and required rooms;</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">a brief description of
+each organizer's background, including relevant past experience
+with workshops, and whether the organizers have organized ICSE
+workshops before.</FONT>
+</UL>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SEND TO</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Mikio Aoyama<BR>
+Global Development Division<BR>
+Fujitsu Limited<BR>
+2-12-5 Shimo-kodanaka, Nakahara-ku<BR>
+Kawasaki 211, Japan<BR>
+TEL: +81-44-754-4139<BR>
+FAX: +81-44-754-4140<BR>
+E-MAIL: mikio@csd.ts.fujitsu.co.jp</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">DEADLINE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Proposal: 1 July 1997 (7 copies,
+hard copy only)</FONT>
+<HR>
+<P>
+<CENTER><FONT SIZE=5 FACE="Optimum">EXHIBITION</FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">AIM</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The Exhibit offers commercial
+exhibit space to vendors as well as research exhibit space for
+products by academic and government research laboratories.</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">There are two types of exhibits.</FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">Commercial products from
+vendors.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Research products from
+academia, industrial research laboratories, and government laboratories.</FONT>
+</UL>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">EXHIBIT SPACE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">The Exhibit has commercial
+exhibit space and research exhibit space. All commercial exhibit
+space is sold in increments of 2m x 1.5m. Space rental rate is
+</FONT><FONT SIZE=2>Åè</FONT><FONT SIZE=2 FACE="Times New Roman">400,000
+per 2m x 1.5m booth, prior to 1 January 1998. After 1 January,
+the rate increases to </FONT><FONT SIZE=2>Åè</FONT><FONT SIZE=2 FACE="Times New Roman">420,000
+per booth. Cancellations of space will be assessed a </FONT><FONT SIZE=2>Åè</FONT><FONT SIZE=2 FACE="Times New Roman">40,000
+fee if cancellation is received in writing by 1 January 1998.
+Thereafter, no refunds will be provided for unoccupied space;
+space may not be sublet. As for research exhibits from academia
+and government laboratories, no rental rate is required.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">CONTACT</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Proposals and questions should
+be directed to the following.<BR>
+</FONT>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Shinichi Honiden<BR>
+c/o Nikkei Advertising Co., LTD.<BR>
+Nikkei Koraibashi Bldg., 1-4-2<BR>
+Koraibashi, Chuo-ku, Osaka 541<BR>
+Japan<BR>
+TEL: +81-6-231-7421<BR>
+FAX: +81-6-229-1780<BR>
+E-MAIL: icseexpo@po.iijnet.or.jp</FONT>
+<HR>
+<P>
+<CENTER><FONT SIZE=5 FACE="Optimum">ASIA PACIFIC FORUM</FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">AIM</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">ICSE98 provides an opportunity
+for exchanging ideas and/or information for researchers and practitioners
+in Asia-Pacific Region. At ICSE18 in Seattle 1994, we had a workshop
+on &quot;Asian Approaches to Software Engineering&quot;. It was
+very successful. We are planning to have a similar event in Kyoto.
+And it will also be possible to implement other plans such as
+to have a forum to discuss emerging Asian software markets, or
+for special exhibits of software engineering tools made in Asia.
+<BR>
+</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">HOW TO SUBMIT</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Prepare a two-page proposal.
+It should contain: </FONT>
+<UL>
+<LI><FONT SIZE=2 FACE="Times New Roman">Theme and objective of
+the event.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Desired number of participants,
+participant solicitation and selection process, planned activities
+including time length and requirement for rooms.</FONT>
+<LI><FONT SIZE=2 FACE="Times New Roman">Brief description of organizers'
+background. <BR>
+</FONT>
+</UL>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">SEND TO</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Kouichi Kishida<BR>
+Technical Director<BR>
+Software Research Associates, Inc.<BR>
+3-12 Yotsuya, Shinjuku-ku, <BR>
+Tokyo 160 JAPAN<BR>
+TEL: +81-3-3357-1507<BR>
+FAX: +81-3-3351-0880<BR>
+E-MAIL: k2@sra.co.jp<BR>
+</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">DEADLINE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Proposal: 1 July, 1997</FONT>
+<HR>
+<P>
+<CENTER><FONT SIZE=5 FACE="Optimum">WELCOME TO KYOTO </FONT><FONT SIZE=4 FACE="Optimum">IN</FONT><FONT SIZE=5 FACE="Optimum">
+CHERRY BLOSSOM SEASON</FONT></CENTER>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">CITY OF HISTORY AND LEARNING</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Kyoto, a city with 1,200 years
+of history, is the cultural soul of Japan. Nestled among low mountains,
+it is blessed with both natural beauty and a rich historical legacy.
+It is the ideal site for international conventions. From its establishment
+as Japan's capital in 794 until the Meiji Restoration in 1868,
+Kyoto flourished as the center of government, commerce and culture
+in Japan. Traditional arts and an abundance of shrines and temples
+give the city its distinct character. With nearly 1.5 million
+residents, Kyoto is a vibrant mixture of old and new. Many high-tech
+firms have chosen it as their headquarters, and the city boasts
+47 public and private colleges and universities. These significant
+intellectual resources combine with Kyoto's long history and tradition
+to provide an ideal milieu for innovation and creativity.</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">NATURAL BEAUTY</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Kyoto is a panorama of the
+changing seasons: from the springtime cherry blossoms lining narrow
+walkways, the lush greenery of summer, to the brilliant autumn
+foliage of Japanese maples and the delicate layer of snow covering
+the surrounding mountainsides in winter. The passage of seasons
+is also evident in the beautiful gardens of Kyoto's ancient temples
+and shrines. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">CULTURAL HERITAGE</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Reflecting its long history
+as the cultural and religious center of Japan, Kyoto is home to
+nearly 2,000 Buddhist temples and Shinto shrines. The city's international
+cultural significance was recognized when 17 historical sites
+in Kyoto were designated as UNESCO World Cultural Heritage Sites.
+Kyoto is the location of 20% of Japan's national treasures. More
+than 60 museums throughout the city offer visitors the opportunity
+to view priceless works of art and important cultural objects.
+</FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">KYOTO INTERNATIONAL CONFERENCE
+HALL</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Japan's leading convention
+center, the Kyoto International Conference Hall, is a complex
+consisting of seven separate conference halls, the largest of
+which can hold 2,000 persons. Another 70 conference rooms of various
+sizes are available for smaller meetings. Two large banquet halls
+and a Japanese landscape garden offer additional settings for
+convention participants to meet and communicate informally. </FONT>
+<P>
+<B><FONT SIZE=2 FACE="Times New Roman">TRANSPORT</FONT></B>
+<P>
+<FONT SIZE=2 FACE="Times New Roman">Kyoto has many modern hotels
+with accommodations for up to 20,000 visitors. Located near the
+center of Japan, it is readily accessible by land and air. The
+high-speed Shinkansen (bullet train) links Tokyo with Kyoto in
+2 hours and 15 minutes. Overseas visitors arriving at Kansai International
+Airport have a comfortable 75-minute ride by the Haruka Express
+train to Kyoto Station. Kyoto has a well-developed public transportation
+system of trains, subways and buses. Extensions to the Kyoto subway
+system will provide a direct link from Kyoto Station to the Kyoto
+International Conference Hall by the end of July '97. <BR>
+</FONT>
+<HR>
+<P>
+<FONT SIZE=5>For more information,</FONT>
+<P>
+<A HREF="http://icse98.aist-nara.ac.jp/">http://icse98.aist-nara.ac.jp/</A>
+<BR>
+<A HREF="file:///E:/my documents/icse98/mailto:icse98-info@itc.aist-nara.ac.jp">mail:icse98-info@itc.aist-nara.ac.jp<FONT SIZE=1> </FONT></A>
+<P>
+<FONT SIZE=1> </FONT>
+</BODY>
+</HTML>

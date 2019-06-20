@@ -1,0 +1,571 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Generator" CONTENT="Microsoft Word 97">
+   <META NAME="Template" CONTENT="C:\PROGRAM FILES\MICROSOFT OFFICE\OFFICE\html.dot">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.04 [en] (Win95; I) [Netscape]">
+   <TITLE>icse98 technical program</TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#CCFFFF" LINK="#3333FF" VLINK="#800080" ALINK="#FF0000">
+<IMG SRC="icse-logo.gif" HEIGHT=53 WIDTH=47> Forging
+New Links! - ICSE98 in Kyoto Call for Participants
+<DIV ALIGN=right><A HREF="http://holstein/index.html">To ICSE98 home page&nbsp;</A>&nbsp;
+<HR WIDTH="100%"></DIV>
+
+<H1>
+Technical Program</H1>
+
+<H2>
+
+<HR WIDTH="100%">APRIL 22 (WEDNESDAY) 1998</H2>
+
+<CENTER>
+<HR WIDTH="100%">MORNING</CENTER>
+
+<H3>
+<A NAME="W1"></A>W1: Plenary Session (10:20~12:00)</H3>
+
+<UL>- Opening Remarks (10:20~11:00)
+<BR>- Invited Presentation, Nobuaki Kumagai (Past President of Osaka U.,
+Japan) (11:00~12:00)</UL>
+
+<CENTER>
+<HR WIDTH="100%"></CENTER>
+
+<CENTER>Lunch Break (12:00~13:00)&nbsp;
+<HR WIDTH="100%">AFTERNOON</CENTER>
+
+<H3>
+<A NAME="W2"></A>W2: 5 parallel sessions (13:30~15:00)</H3>
+
+<H4>
+W2-1 Technical Papers:&nbsp; Experiences with Software Process Improvement</H4>
+
+<UL>- <I>Agile Software Process and Its Experience</I>, Mikio Aoyama (Niigata
+Institute of Tech., Japan)
+<BR>- <I>Software Process Modeling and Enactment: An Experience Report
+Related to Problem Tracking in an Industrial Project</I>, Volker Gruhn
+(U. of Dortmund, Germany), Juri Urbainczyk (Open Software Associates, Germany)
+<BR>- <I>Toward Computational Support for Software Process Improvement
+Activities</I>, Keishi Sakamoto (OMRON Corp., Japan), Kumiyo Nakakoji (Nara
+Institute of Science and Tech., Japan), Yasunari Takagi, Naoki Niihara
+(OMRON Corp., Japan)</UL>
+
+<H4>
+W2-2 Technical Papers: Formal Modeling</H4>
+
+<UL>- <I>Modeling and Analysis of a Virtual Reality System with Time Petri
+Nets</I>, Rajesh Mascarenhas (Sybase Inc., USA), Dinkar Karumuri (Oracle
+Consulting, USA), Ugo Buy (U. of Illinois, USA), Robert Kenyon (U. of Illinois,
+USA)
+<BR>- <I>Specification and Verification of an Object Request Broker</I>,
+Gregory Duval (EPFL, Switzerland)
+<BR>- <I>Integrating Obstacles in Goal-Driven Requirements Engineering</I>,
+Axel van Lamsweerde, Emmanuel Letier (U. Catholique de Louvain, Belgium)</UL>
+
+<H4>
+W2-3 Panel: Critical Issues in Software Evolution</H4>
+
+<UL>Dewayne Perry (Bell Lab., USA), et. al.</UL>
+
+<H4>
+W2-4 Lesson &amp; Status Reports: Project Management 1</H4>
+
+<DIV ALIGN=right>Chair: Richard E. Fairley</DIV>
+
+<UL>- <I>A Conceptual Model of Software Maintenance</I>, Mira Kajko-Mattsson
+(Royal Institute of Technology and Stockholm U., Sweden)
+<BR>- <I>Software Quality Analysis &amp; Measurement Service Activity in
+the Company</I>, Takeshi Tanaka, Minoru Aizawa, Hideto Ogasawara, Atsushi
+Yamada (Toshiba Corp., Japan)
+<BR>- <I>An Incremental Project Plan: Introducing Cleanroom Method and
+Object-Oriented Development Method</I>, Yukio Motoyoshi (Hitachi Electronics
+Services, Japan), Shigeru Otsuki (Hitachi, Japan)</UL>
+
+<H4>
+W2-5 Posters &amp; Research Demonstrations:</H4>
+
+<UL>- <I>Distributed Workflow using HTTP : Example using Software Pre-requirements</I>,
+Arthur S.Hitomi, Peter J.Kammer, Gregory Alan Bolcer, Richard N.Taylor
+(U. of California, USA)
+<BR>- <I>Cafe Environment : Formal Specifications and Proofs, Masaki Ishiguro
+</I>(MRI, Japan), Ataru T.Nakagawa(SRA, Japan), Akishi Seo(Nihon
+<BR>&nbsp; Unisys, Japan) and Kokichi Futatsugi(JAIST, Japan)
+<BR>- <I>ALBERT : A Formal Language and its Supporting Tools for Requirements
+Engineering</I>, Eric Dubois(U. of Namur, Belgium)
+<BR>- <I>The Spearmint Software Process Modeling Environment, Peter Roesch,
+</I>Jorg Zettel, Ralf Kempkens(FhG IESE, Germany), Richard Webby(CAESAR,
+Australia)
+<BR>- <I>GRAIL/KAOS : An Environment for Goal-Driven Requirements Engineering</I>,
+P.Bertrand, R.Darimont, E.Delor, P.Massonet(CEDITI-UCL, Belgium), A.van
+Lamsweerde(U. Catholique de Louvain, Belgium)
+<BR>- <I>A Study on Communication during Requirement Elicitation Processes</I>,
+Fumitaka Matsuura, Shingo Takada(Nara Institute of Science and Tech., Japan),
+Kumiyo Nakakoji(SRA, Japan)
+<BR>- <I>Claymore : Three-Dimentional Modeling Tool</I>, Jiro Tanaka, Hideki
+Mitsunobu, Takashi Oshiba(U. of Tsukuba, Japan)</UL>
+
+<CENTER>
+<HR WIDTH="100%">Break (15:30~16:00)&nbsp;
+<HR WIDTH="100%"></CENTER>
+
+<H3>
+<A NAME="W3"></A>W3: 5 parallel sessions&nbsp; (16:00~17:30)</H3>
+
+<H4>
+W3-1 Technical Papers: Reverse Engineering</H4>
+
+<UL>- <I>Conceptual Module Querying for Software Reengineering</I>, Elisa
+Baniassad, Gail Murphy (U. of British Columbia, Canada)
+<BR>- <I>Reuse-Driven Interprocedural Slicing</I>, Mary Jean Harrold, Ning
+Ci (Ohio State U., USA)
+<BR>- <I>Extracting Concepts from File Names: A New File Clustering Criterion</I>,
+Nicolas Anquetil, Timothy Lethbridge (U. of Ottawa, Canada)</UL>
+
+<H4>
+W3-2 Technical Papers: Formal Methods and Object Orientation</H4>
+
+<UL>- <I>Blending Object-Z and Timed CSP: An Introduction to TCOZ</I>,
+Brendan Mahony (Dept. of Defence, Australia), Jin Song Dong (CSIRO, Australia)
+<BR>- <I>Three Dimensional Software Modeling</I>, Joseph Gil (Israel Institute
+of Tech., Israel), Stuart Kent (U. of Brighton, UK)
+<BR>- <I>Formalizing Design Patterns</I>, Tommi Mikkonen (Tampere U. of
+Tech., Finland)</UL>
+
+<H4>
+W3-3 Panel: Computing and Communication in the Age of Mobility</H4>
+
+<UL>Gruia-Catalin Roman (Washington U. in Saint Louis, USA), et. al.</UL>
+
+<H4>
+W3-4 Lesson &amp; Status Reports: Process Improvement</H4>
+
+<DIV ALIGN=right>Chair: Mario Fusani</DIV>
+
+<UL>- <I>Process Improvement Towards ISO 9001 Certification in a Small
+Software Organization</I>, Elif Demirors, Onur Demirors (Dokuz Eylul U.,
+Turkey), Oguz Dikenelli (Ege U., Turkey), Billur Keskin (A1 Software House,
+Turkey)
+<BR>- <I>A Worldwide Survey of Base Process Activities Towards Software
+Engineering Process Excellence</I>, Yingxu Wang, Graham King (Southampton
+Institute, UK), Alec Dorling(IVF, Sweden), Dilip Patel, Ian Court, Geoff
+Staples, Margaret Ross (Southampton Institute, UK)
+<BR>- <I>Establishing Experience Factories at Daimler-Benz An Experience
+Report</I>, Frank Houdek, Kurt Schneider, Eva Wieser (Daimler-Benz AG,
+Germany)</UL>
+
+<H4>
+W3-5 Mini Tutorial: Model-Integrated Software-System Engineering (MISSE)</H4>
+
+<UL>
+<DIV ALIGN=right>Chair: Bashar Nuseibeh</DIV>
+Barry Boehm (University of Southern California, USA)</UL>
+
+<CENTER>
+<H4>
+
+<HR WIDTH="100%">Welcome Party (18:00~20:00 (tentative))</H4></CENTER>
+
+<H2>
+
+<HR WIDTH="100%">APRIL 23 (THURSDAY) 1998</H2>
+
+<CENTER>
+<HR WIDTH="100%">MORNING</CENTER>
+
+<H3>
+<A NAME="T1"></A>T1: Plenary Session (9:00~10:00)</H3>
+
+<UL>Keynote Presentation, James Gosling (Sun Microsystems, USA)</UL>
+
+<CENTER>
+<HR WIDTH="100%">break (10:00~10:30)&nbsp;
+<HR WIDTH="100%"></CENTER>
+
+<H3>
+<A NAME="T2"></A>T2: 5 parallel sessions (10:30~12:00)</H3>
+
+<H4>
+T2-1 Technical Papers: Internet/Mobile Code/Security</H4>
+
+<UL>- <I>Techniques for Trusted Software Engineering</I>, Premkumar Devanbu
+(U. of California Davis, USA), Philip Fong (Simon Fraser U., Canada), Stuart
+Stubblebine (AT&amp;T Lab., USA)
+<BR>- <I>An Approach to Large-Scale Collection of Application Usage Data
+over the Internet</I>, David Hilbert, David Redmiles (U. of California
+Irvine, USA)
+<BR>- <I>Evaluating the Tradeoffs of Mobile Code Design Paradigms in Network
+Management Applications</I>, Mario Baldi, Gian Pietro Picco (Politecnico
+di Torino, Italy)</UL>
+
+<H4>
+T2-2 Technical Papers: Software Evolution</H4>
+
+<UL>- <I>The Use of Goals to Surface Requirements for Evolving Systems</I>,
+Annie Anton (U. of South Florida, USA), Colin Potts (Georgia Institute
+of Tech., USA)
+<BR>- <I>Promises: Limited Specifications for Analysis and Manipulation</I>,
+Edwin Chan, John Boyland, William Scherlis (Carnegie Mellon U., USA)
+<BR>- <I>Architecture-Based Runtime Software Evolution</I>, Peyman Oreizy,
+Nenad Medvidovic, Richard Taylor (U. of California Irvine, USA)</UL>
+
+<H4>
+T2-3 Panel: Are Methods Really Useful?</H4>
+
+<UL>Motoshi Saeki (Tokyo Inst. of Tech, Japan), Leon Osterweil (University
+of Massachusetts, USA), Mehmet Aksit (University of Twente, Netherlands),
+Colette Rolland (University of Paris, France), Philippe Krutchen (Rational
+Software Corp., USA)</UL>
+&nbsp;
+<H4>
+T2-4 Lesson &amp; Status Reports: Metrics 1 (Object-Oriented)</H4>
+
+<DIV ALIGN=right>Chair: Alain Abran</DIV>
+
+<UL>- <I>Restructuring OODesigner: A CASE Tool for OMT</I>, Taegyun Kim
+(U. of Foreign Studies, Korea), Gyusang Shin (Systems Engineering Research
+Institute, Korea)
+<BR>- <I>Validation of the Coupling Dependency Metric as a Predictor of
+Run-Time Failures and Maintenance Measures</I>, Aaron B. Binkley, Stephen
+R. Schach (Vanderbilt U., USA)
+<BR>- <I>Assessment of System Evolution Through Characterization</I>, F.
+Fioravanti, P. Nesi, S. Perlini (U. of Florence, Italy)</UL>
+
+<H4>
+T2-5 Posters &amp; Research Demonstrations</H4>
+
+<UL>- <I>A Visual Programming Environment Based on Graph Grammars and Tidy
+Graph Drawing</I>, Yoshihiko Adachi(Toyo U., Japan), Youzou Miyadera(Tokyo
+Gakugei U., Japan), Kimio Sugita(Tokai U., Japan), Kensei Tsuchida(Toyo
+U., Japan), Takeo Yaku(Nihon U., Japan)
+<BR>- <I>Exploiting Application Programs in Changing Informational Environment:</I>
+Organization of Data Changes, S.P.Nikitenkova, V.G.Manishin,
+<BR>&nbsp; N.S.Petrukhin (Nizhny Novgorod Technical U., Russia)
+<BR>- <I>Java Based CDIF Support Environment</I>, Jonathan Gray(U. of South
+Australia, Australia), Benjamin Ryan(Leeds Metropolitan U., UK)
+<BR>- <I>Targeting the Development of a Virtual Microscope</I>, Toshikazu
+Takada(NEC, Japan), Hideaki Koike(Fuji Research Institute, Japan), Satoshi
+Sekiguchi(Electrotechnical Laboratory, Japan)
+<BR>- <I>The Assertion Based Testing Tool for OOP : ADL2</I>, Masaharu
+Obayashi(Kanrikogaku Ltd.,&nbsp; Japan), Hiroshi Kubota(MRI, Japan), Shane
+P.MaCarron(The Open Group, UK), Lionel Mallet(The Open Group, France)
+<BR>- <I>Concurrent Object-Oriented Programming Language ABCL/f : Implementation
+and Application Studies on Massively Parallel Computers,</I>
+<BR>&nbsp; Kenjiro Taura, Tomio Kamada(U. of Tokyo, Japan), Nobuyuki Ichiyoshi,
+Kazuo Hiyane, Yasuhiko Yoshinari(MRI, Japan), Satoshi Tojo(JAIST,
+<BR>&nbsp; Japan), Akinori Yonezawa(U. of Tokyo, Japan)
+<BR>- <I>Flage: A Programming Language for Adaptive Software</I>, Fumihiro
+Kumeno, Hirotaka Sato, Tetsuo Kato(IPA, Japan), Shinichi Honiden(Toshiba,
+Japan)</UL>
+
+<CENTER>
+<HR WIDTH="100%">Lunch Break (12:00~13:00)</CENTER>
+
+<CENTER>
+<HR WIDTH="100%">AFTERNOON</CENTER>
+
+<H3>
+<A NAME="T3"></A>T3: 5 parallel sessions (13:30~14:30)</H3>
+
+<H4>
+T3-1 Technical Papers: Testing</H4>
+
+<UL>- <I>An Empirical Study of Regression Test Selection Techniques</I>,
+Todd Graves (Bell Lab., USA), Mary Jean Harrold (Ohio State U., USA), Jung-Min
+Kim, Adam Porter (U. of Maryland, USA), Gregg Rothermel (Oregon State U.,
+USA)
+<BR>- <I>What You See Is What You Test: A Methodology for Testing Form-Based
+Visual Programs</I>, Gregg Rothermel, Lixin Li, Christopher DuPuis, Margaret
+Burnett (Oregon State U., USA)</UL>
+
+<H4>
+T3-2 Technical Papers: Novel Approaches to Design and Validation</H4>
+
+<UL>- <I>Integrating Architecture Description Languages with a Standard
+Design Method</I>, Jason Robbins, Nenad Medvidovic, David Redmiles, David
+Rosenblum (U. of California Irvine, USA)
+<BR>- <I>Helping the Automated Validation Process of User Interfaces Systems</I>,
+Bruno d'Ausbourg, Christel Seguin, Guy Durrieu, Pierre Roche (ONERA-CERT,
+France)</UL>
+
+<H4>
+T3-3 Technical Papers: Managing Objects</H4>
+
+<UL>- <I>Consistency Management for Complex Applications</I>, Peri Tarr
+(IBM, USA), Lori Clarke (U. of Massachusetts, USA)
+<BR>- <I>Reifying Configuration Management for Object-Oriented Software</I>,
+J-M Jezequel (Irisa/CNRS, France)</UL>
+
+<H4>
+T3-4 Lesson &amp; Status Reports: Metrics 2 (Data Analysis)</H4>
+
+<DIV ALIGN=right>Chair: Terry Rout</DIV>
+
+<UL>- <I>A Model of Noisy Software Engineering Data (Status Report)</I>,
+Roseanne Tesoriero, Marvin Zelkowitz (U. of Maryland, USA)
+<BR>-<I> Software Cost and Quality Analysis by Statistical Approaches</I>,
+Yooichi Yokoyama, Mitsuhiko Kodaira (Hitachi, Japan)</UL>
+
+<H4>
+T3-5 Posters &amp; Research Demonstrations</H4>
+
+<UL>- <I>A Framework for Application Specific System Design</I>, Akihiko
+Inoue, Hiroyuki Tomiyama, Eko Fajar Nurprasetyo, Hiroto Yasuura(Kyusyu
+U.,
+<BR>&nbsp; Japan), Hiroyuki Kanbara(ASTEM RI, Japan) Hiroshi Date(ISIT/KYUSHU,&nbsp;
+Japan)
+<BR>- <I>Using Model Checking to Assure Correct Software Design : A Case
+Study</I>, Milica Barjaktarovic(Wilkes U., USA)
+<BR>- <I>The CASEMaker MetaCASE Tool</I>, L.Scott(Macquarie U., Australia)
+<BR>- <I>Experiences from Design and Implementation of Real-Life Database
+Backed Web Applications</I>, Karl M.Goeschka, Jurgen Falb(Vienna U. of
+<BR>&nbsp; Technology, Austria)</UL>
+
+<CENTER>
+<HR WIDTH="100%">Break (14:30~14:45)&nbsp;
+<HR WIDTH="100%"></CENTER>
+
+<H3>
+<A NAME="T4"></A>T4: Plenary Session (14:45~16:15)</H3>
+
+<UL>ACM Formal Events (14:45~15:15)
+<BR>Most Influential Paper from ICSE-10 (15:15~16:15)</UL>
+
+<CENTER>
+<HR WIDTH="100%">Break (16:15~16:45)&nbsp;
+<HR WIDTH="100%"></CENTER>
+
+<H3>
+<A NAME="T5"></A>T5: 5 parallel sessions (16:45~18:15)</H3>
+
+<H4>
+T5-1 Technical Papers: Large Scale and Complex System Development</H4>
+
+<UL>- <I>Parallel Changes in Large Scale Software Development: An Observational
+Case Study</I>, Dewayne Perry, Harvey Siy, Lawrence Votta (Bell Lab., USA)
+<BR>- <I>Exploiting an Event-Based Infrastructure to Develop Complex Distributed
+Systems</I>, G. Cugola, E. Di Nitto, A. Fuggetta (Politecnico di Milano,
+Italy)
+<BR>- <I>Conceptual Simplicity Meets Organizational Complexity: Case Study
+of a Corporate Metrics Program</I>, James Herbsleb, Rebecca Grinter (Bell
+Lab., USA)</UL>
+
+<H4>
+T5-2 Technical Papers: Computer Supported Cooperative Work</H4>
+
+<UL>- <I>An Adaptable Generation Approach to Agenda Management</I>, Eric
+McCall, Lori Clarke, Leon Osterweil, (U. of Massachusetts, USA)
+<BR>- <I>Measuring Cognitive Activities in Software Engineering</I>, Pierre
+Robillard, Patrick d'Astous (Ecole Polytechnique de Montreal, Canada),
+Francoise Detienne, Willemien Visser (INRIA, France)</UL>
+
+<H4>
+T5-3 Panel: Component-Based Software Engineering - Can it Change the Way
+of Software Development ?</H4>
+
+<UL>
+<DIV ALIGN=right>Chair: Mikio Aoyama (Niigata Institute of Technology,
+Japan)</DIV>
+Panelist:
+<BR>Kathy Bohrer (IBM, USA)
+<BR>Alan Brown (Sterling Software, USA)
+<BR>James Gosling (Sun Microsystems, USA)
+<BR>Gregor Kiczales (Xerox, USA)
+<BR>Kurt Wallnau (SEI, USA)
+<BR>Mikio Aoyama (Niigata Inst. of Tech., Japan), et. al.</UL>
+
+<H4>
+T5-4 Lesson &amp; Status Reports: Cost Estimation</H4>
+
+<DIV ALIGN=right>Chair: Lorraine Duvall</DIV>
+
+<UL>- <I>Examples of Applying Software Estimate Tool</I>, Fumiko Fujiwara,
+Takushi Goto, Sadao Araki (Kozo Keikaku Engineering Inc., Japan)
+<BR>- <I>An Investigation on the Use of Machine Learned Models for Estimating
+Correction Costs</I>, Mauricio A. de Almeida, Hakim Lounis (Centre de Recherche
+Informatique de Montreal, Canada), Walcelio L. Melo (Oracle Brazil and
+Univ. Catolica de Brasilia)
+<BR>- <I>Calibrating the COCOMO II Post-Architecture Model, Bradford Clark,
+Sunita Devnani-Chulani</I>, Barry Boehm (U. of Southern California, USA)</UL>
+
+<H4>
+T5-5 Lesson &amp; Status Reports: Project Management 2</H4>
+
+<DIV ALIGN=right>Chair: Hugo Rehesaar</DIV>
+
+<UL>- <I>Process Assurance Audits: Lessons Learned</I>, Alain April (Batelco/Technology
+Plus, Canada), Alain Abran (U. du Quebec a Montreal, Canada), Ettore Merlo
+(Ecole Polytechnique, Canada)
+<BR>- <I>Towards Better Software Projects and Contracts: Commitment Specifications
+in Software Development Projects</I>, Jyrki Kontio (Nokia Corp., Finland),
+Olli Pitkanen, Reijo Sulonen (Helsinki U. of Tech., Finland)
+<BR>- <I>Software Size Measurement and Productivity Rating in a Large-Scale
+Software Development Department</I>, Martin Arnold, Peter Pedross (EDS/FIDES
+Informatics, Switzerland)</UL>
+&nbsp;
+<HR WIDTH="100%">
+<CENTER>&nbsp;Conference Banquet (19:00~21:00)</CENTER>
+
+<H2>
+
+<HR WIDTH="100%">APRIL 24 (FRIDAY) 1998&nbsp;
+<HR WIDTH="100%"></H2>
+
+<CENTER>MORNING</CENTER>
+
+<H3>
+<A NAME="F1"></A>F1: Plenary Session (9:00~10:00)</H3>
+
+<UL>- Keynote Presentation: Cordell Green (Kestrel Institute, USA)</UL>
+
+<CENTER>
+<HR WIDTH="100%">Break (10:00~10:30)&nbsp;
+<HR WIDTH="100%"></CENTER>
+
+<H3>
+<A NAME="F2"></A>F2: 5 parallel sessions (10:30~12:00)</H3>
+
+<H4>
+F2-1 Technical Papers: Object-Oriented Technology</H4>
+
+<UL>- <I>Design Components: Towards Software Composition at the Design
+Level,</I> Rudolf Keller, Reinhard Schauer (U. de Montreal, Canada)
+<BR>- <I>Non-Intrusive Object Introspection in C++: Architecture and Application</I>,
+Tyng-Ruey Chuang, Y. S. Kuo, Chien-Min Wang (Academia Sinica, Taiwan)
+<BR>- <I>Object Oriented Reuse: Experience in Developing a Framework for
+Speech Recognition Applications</I>, Savitha Srinivasan, John Vergo (IBM,
+USA)</UL>
+
+<H4>
+F2-2 Technical Papers: Project Estimation and Simulation</H4>
+
+<UL>- <I>An Experimental Study of Individual Subjective Effort Estimations
+and Combinations of the Estimates</I>, Martin Hoest, Claes Wohlin (Lund
+U., Sweden)
+<BR>- <I>Using Simulation to Build Inspection Efficiency Benchmarks for
+Development Projects</I>, Lionel Briand, Khaled El Emam, Oliver Laitenberger
+(Fraunhofer IESE, Germany), Thomas Fussbroich (U. of Kaiserslautern, Germany)
+<BR>- <I>A Learning Curve Based Simulation Model for Software Development</I>,
+Noriko Hanakawa, Syuji Morisaki, Ken-ichi Matsumoto (Nara Institute of
+Science and Tech., Japan)</UL>
+
+<H4>
+F2-3 Panel: Formal Methods in the 21st Century (Tentative)</H4>
+
+<UL>Dines Bjorner (TU Denmark), et.al.</UL>
+
+<H4>
+F2-4 Lesson &amp; Status Reports:&nbsp; Requirements Engineering</H4>
+
+<DIV ALIGN=right>Chair: Baerbel Hoerger</DIV>
+
+<UL>- <I>Designing an Application Development Model for a Large Banking
+Organization</I>, Jorg Noack, Bruno Schienmann (German Savings Banks Organization,
+Germany)
+<BR>- <I>A Systematic Approach to Domain-Oriented Software Development</I>,
+Yoko Shimizu, Noboru Fujimaki, Masayuki Hirayama (Toshiba Corp., Japan)
+<BR>- <I>Software Requirements Negotiation: Some Lessons Learned</I>, Barry
+Boehm, Alexander Egyed (University of Southern California, USA)</UL>
+
+<H4>
+F2-5 Posters &amp; Research Demonstrations:</H4>
+- <I>Nested Dependency Graphs as a Visual Formalism for Object-Oriented
+Reuse</I>, Tom Mens(Vrije Universiteit Brussel, Belgium)
+<BR>- <I>Draco-PUC : A Workbench for Developing Translation-Based Software
+Generators</I>, Marcelo Sant'Anna, Julio Cesar Sampaio Prado Leite
+<BR>&nbsp; (Pontificia Universidate Catolica do Rio de Janeiro, Brazil),
+Antonio Francisco do Prado (Universidate Federal de Sao Carlos, Brazil)
+<BR>- <I>A Software Environment for Natural Language Analysis and Lexical
+Knowledge Acquisition</I>, Yuji Matsumoto(Nara Institute of Science and
+<BR>&nbsp; Tech., Japan), Takenobu Tokunaga(Tokyo Institute of Tech., Japan)
+Manabu Okumura(JAIST, Japan), Masaharu Obayashi(Kanrikougaku Ltd.,
+<BR>&nbsp; Japan)
+<BR>- <I>Software Tools for Parallel and Distributed Computing</I>, Hidehiko
+Tanaka(U. Tokyo, Japan), Satoshi Matsuoka (Tokyo Institute of Tech.,&nbsp;
+Japan)
+<BR>- <I>A General-purpose Scalable Operating System : SSS-CORE</I>, Takashi
+Matsumoto(U. of Tokyo, Japan), Shigeru Uzuhara(AXE Inc., Japan), Kei Hiraki(U.
+of Tokyo, Japan)
+<BR>- <I>Plangent: An Intelligent Agent System for Network Computing</I>,
+Akihiko Ohsuga, Yutaka Irie, Naoki Kase, Takahiro Kawamura, Masanori Hattori,
+Kenta Cho, Shinichi Honiden(Toshiba, Japan)
+<BR>- <I>General Purpose Computational Materials Physics Platform : CAMP-Atami</I>,
+Shuhei Ohnishi(NEC, Japan), Masato Takimoto(Fuji Research Institute Corp.,
+Japan)
+<CENTER>
+<HR WIDTH="100%">Lunch Break (12:00~13:30)</CENTER>
+
+<CENTER>
+<HR WIDTH="100%">AFTERNOON</CENTER>
+
+<H3>
+<A NAME="F3"></A>F3: 5 parallel sessions (13:30~15:00)</H3>
+
+<H4>
+F3-1 Technical Papers: Project and Workflow Management</H4>
+
+<UL>- <I>The Ramp-Up Problem in Software Projects: A Case Study of How
+Software Immigrants Naturalize</I>, Susan Sim (U. of Toronto, Canada),
+Richard Holt (U. of Waterloo, Canada)
+<BR>- <I>Overcoming the NAH Syndrome for Inspection Deployment</I>, Pankaj
+Jalote, M. Haragopal (Infosys Technologies Ltd., India)
+<BR>- <I>Workflow Management Based on Process Model Repositories</I>, Volker
+Gruhn (U. of Dortmund, Germany), Monika Schneider (o.tel.o service GmbH,
+Germany)</UL>
+
+<H4>
+F3-2 Technical Papers: Estimation Technologies</H4>
+
+<UL>- <I>COBRA: A Hybrid Method for Software Cost Estimation, Benchmarking,
+and Risk Assessment</I>, Lionel Briand, Khaled El Emam, Frank Bomarius
+(Fraunhofer IESE, Germany)
+<BR>- <I>Defect Content Estimations from Review Data</I>, Claes Wohlin,
+Per Runeson (Lund U., Sweden)
+<BR>- <I>Analyzing Effects of Cost Estimation Accuracy on Quality and Productivity,</I>
+Osamu Mizuno, Tohru Kikuno (Osaka U., Japan), Katsumi Inagaki, Yasunari
+Takagi, Keishi Sakamoto (OMRON Corp., Japan)</UL>
+
+<H4>
+F3-3 Panel: Are New-Generation Architecture Description Language Useful?</H4>
+
+<UL>John Salasin (DOD, U.S.A.), Barry W. Boehm (USC, U.S.A.), David Garlan
+(CMU, U.S.A.), Alex Wolf (U. of Colorado, U.S.A.) et. al.</UL>
+
+<H4>
+F3-4 Lesson &amp; Status Reports: Software Architecture</H4>
+
+<DIV ALIGN=right>Chair: Dan-Hyung Lee</DIV>
+
+<UL>- <I>Software Architecture Recovery of a Program Family</I>, Wolfgang
+Eixelsberger, Michaela Ogris (ABB Corporate Research, Norway), Harald Gall,
+Berndt Bellay (Technical U. of Vienna, Austria)
+<BR>- <I>Architectural modeling in industry - an experience report</I>,
+Juha Kuusela, Alessandro Maccari, Jianli Xu (Nokia Research Center, Finland)
+<BR>- <I>How Does 3D Visualization Work in Software Engineering?</I> <I>:
+Empirical Study of a 3D Version/Module Visualization System</I>, Hideki
+Koike, Hui-Chu Chu (U. of Electro- Communications, Japan)
+<BR>&nbsp;</UL>
+
+<H4>
+F3-5 Mini Tutorial: Advanced Methods for Software Specification and Design:
+Yourdon Systems Method, UML, Fusion and Beyond</H4>
+
+<UL>
+<DIV ALIGN=right>Chair: Gail Murphy</DIV>
+Roel Wieringa (Vrije Universiteit)</UL>
+
+<CENTER>
+<HR WIDTH="100%">Break (15:00~15:30)&nbsp;
+<HR WIDTH="100%"></CENTER>
+
+<H3>
+<A NAME="F4"></A>F4: Plenary Session (15:30~17:15)</H3>
+
+<UL>- Closing Panel: TBD (15:30~17:00)
+<BR>- Closing (17:00~17:15)</UL>
+
+<DIV ALIGN=right>
+<HR WIDTH="100%"><A HREF="http://holstein/index.html">To ICSE98 home page</A></DIV>
+
+</BODY>
+</HTML>

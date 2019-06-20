@@ -1,0 +1,123 @@
+<HTML>
+<!-- $Id: index.html,v 1.33 1997/02/10 20:01:48 fielding Exp $ -->
+<HEAD>
+<TITLE>ICSE 97, Spring 1997, Boston, Massachusetts, USA</TITLE>
+<LINK rev="Made" href="mailto:icse-97-webmaster@ics.uci.edu">
+<META http-equiv="Reply-To" content="icse-97-webmaster@ics.uci.edu">
+</HEAD>
+<BODY BGCOLOR="#FAEBD7">
+ 
+<TABLE WIDTH="100%">
+<TR>
+<TD ALIGN="Left" VALIGN="top">
+<IMG SRC="logos/icse.gif" alt="ICSE 97:">
+</TD>
+<TD ALIGN="Left">
+<H1>Pulling Together<HR size=4>
+    1997 International Conference on<BR>
+    Software Engineering</H1>
+</TD>
+</TR>
+</TABLE>
+<address>
+May 17-24, 1997,
+Sheraton Boston Hotel and Towers,
+Boston, Massachusetts, USA
+</address>
+<MENU>
+<LI><b>Advance Program</b> (also available as
+    <a href="program/advprog.pdf">PDF</a> or
+    <a href="program/advprog.ps.gz">gzip'd postscript</a>)
+<MENU>
+<LI><a href="speakers.html">Invited Speakers</a>
+<LI><a href="tutorials-prog.html">Tutorials</a>
+<LI><A HREF="technical-prog.html">Technical Program</a>
+<LI><A HREF="exhibits-prog.html">Exhibition</a>
+<LI><A HREF="demos-prog.html">Research Demonstrations</a>
+<LI>Registration Forms in <A HREF="program/regforms.pdf">PDF</a> or
+    <a href="program/regforms.ps.gz">gzip'd postscript</a>
+</MENU>
+</MENU>
+<P>
+<MENU>
+<LI><b>ICSE 97 Updates</b>
+<MENU>
+<LI><a href="gauntlet.html">Picking Up the Gauntlet</a>
+<LI><a href="update.html">Expanding the Community</a>
+</MENU>
+</MENU>
+<MENU>
+<LI><b>Call for Participation</b>
+<MENU>
+<LI><A HREF="vision.html">Conference Vision</A>
+<LI><A HREF="registration.html">Registration</A>
+<LI><A HREF="submit.html">Invitation to Submit and Submission Categories</A>
+<LI><A HREF="exhibits.html">Invitation to Exhibit</A>
+<LI><A HREF="corporate.html">Invitation to Corporate Sponsors</A>
+<LI>Submission Guidelines
+<MENU>
+<LI>Submission Cover Pages <A HREF="page1.ps">One</a> and
+    <A HREF="page2.ps">Two</a>
+<LI><A HREF="pubform/">Conference Publication Formats</A>
+<LI><A HREF="workshops.html">Workshops</A> (deadline passed)
+<LI><A HREF="tutorials.html">Tutorials</A> (deadline passed)
+<LI><A HREF="papers.html">Papers</A> (deadline passed, 215 full papers submitted)
+<LI><A HREF="panels.html">Panels</A> (deadline passed)
+<LI><A HREF="organizations.html">Organizations: Lessons and Status Reports</A>
+    (deadline passed)
+<LI><A HREF="demos.html">Research Demonstrations</A> (deadline passed)
+<LI><A HREF="doctoral.html">Doctoral Consortium</A> (deadline passed)
+<LI><A HREF="posters.html">Posters</A> (due 15 February, 1997)
+</MENU>
+<LI><A HREF="http://www.cs.virginia.edu/~icse97/">Student
+Volunteer Program</A> (due 15 March, 1997)
+</MENU>
+</MENU>
+<MENU>
+<LI><b>Workshops/Co-Located Events</b>
+<MENU>
+<LI><a href="http://www.owego.com/~ssr97/">1997 Symposium on
+    Software Reusability (SSR'97)</a>
+<LI><a href="http://www.cs.colorado.edu/~andre/scm7-cfp.html">Software
+    Configuration Management (SCM7)</a>
+<LI><a href="http://www-osl.cs.uiuc.edu/PDSE97/welcome.html">Software
+    Engineering for Parallel and Distributed Systems (PDSE97)</a>, mirrored from
+    <a href="http://www.dis.unina.it/~russo/PDSE97/">Napoli</a>
+<LI><a href="http://www.infosys.tuwien.ac.at/Research/ICSE97-WS/">Migration
+    Strategies for Legacy Systems</a>
+<LI><a href="http://louis.ecs.soton.ac.uk/~rh/cfp.html">Process Modelling and
+    Empirical Studies of Software Evolution</a>
+<LI><a href="http://www.q-labs.com/isew_icse.html">Second ISEW Cleanroom
+    Workshop</a>
+<LI><a href="workshop/inconsistency.html">Living with Inconsistency in
+    Requirements Engineering</a>
+<LI><a href="http://rbse.jsc.nasa.gov/SEWWW/">Software Engineering and the World
+Wide Web</a>
+</MENU>
+</MENU>
+<MENU>
+<LI><A HREF="office.html">Conference Office and Contact Information</A>
+<LI><A HREF="committee.html">Organizing Committee</A>
+<LI><xA HREF="local.html">Local Arrangements</A>
+<LI><A HREF="sponsors.html">Sponsors</A>
+<LI><a HREF="past.html">Past</a> and
+    <a HREF="future.html">Future</a> ICSEs;
+    <a href="steering.html">ICSE Steering Committee</a>
+<LI><a href="bib.html">ICSE Bibliographies</a>
+<p>
+<LI><A HREF="hotel.html">Hotel Information</A>
+<LI><A HREF="boston.html">Boston Information</A>
+</MENU>
+
+Now mirrored in
+<a href="http://www.elet.polimi.it/~fuggetta/icse97/">Italy</a>.
+
+<HR>
+<ADDRESS>
+<A HREF="webmaster.html">
+&lt;icse-97-webmaster@ics.uci.edu&gt;</A><BR>
+<A HREF="http://www.ics.uci.edu/icse97/">
+1997 International Conference on Software Engineering</A>
+</ADDRESS>
+Last modified: 10 Feb 1997
+</BODY></HTML>
